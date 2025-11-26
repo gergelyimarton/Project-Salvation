@@ -1,0 +1,9 @@
+A város tüdejében ott élnek azok, akik nem a törvényre, hanem a saját erejükre és hírnevükre építenek: a maffiakartellek, alvilági klánok és szervezett bandahálózatok. Formálisan üldözöttek, valójában a hatalom kiszervezett végrehajtói: a kormány őket béreli fel a „piszkos” munkákra — emberrablásra, zsarolásra, kábítószer-kereskedelemre, fegyvercsempészetre és minden olyan feladatra, amihez túl átlátszó lenne a rendőrséget vagy a hadsereget mozgósítani. 
+
+Ezek a szervezetek kétszínű mesterműként működnek. Egyik oldalon jótékonykodnak: ételt osztanak, játszóteret újítanak fel, klinikákat tartanak fenn a szegénynegyedekben. Ezek a gesztusok valódi hálát keltenek, és sok ember szemében emberibbé teszik őket, mint a hideg és távolságtartó államot. Másik oldalon azonban nyomasztó erőt képviselnek: védelmi pénzt szednek, láthatatlan adót vetnek ki a közösségekre, és fenyegetéssel kényszerítik ki a lojalitást. Az emberek jól tudják: aki elfogadja a segítségüket, az már a hálózat része, és abból nincsen kilépés.  
+Mégis, sok helyen az alvilág embereit még mindig jobb szájízzel fogadják, mint az állam képviselőit. A maffiavezér legalább jelen van az utcán, a bandákból valaki mindig ad választ a panaszokra. Az állam viszont csak rendeleteket hirdet és falakat húz, miközben a problémákat elrejti vagy erővel fojtja el.
+A lakosság szemében a bűnszervezetek egy paradox alternatív hatalom: egyszerre segítők és elnyomók, zsarnokok és jótevők.  
+
+### **Röviden**
+
+A maffia és a bűnszövetkezetek a város árnyékállama. Fenyegetnek, sarcolnak, uralnak — de közben ellátnak, védenek és betömnek réseket, amiket a kormány hagyott maga után. És bár minden tettük mögött a pénz és a hatalomvágy dolgozik, sokan még mindig inkább bíznak bennük, mint a hivatalos hatalomban.

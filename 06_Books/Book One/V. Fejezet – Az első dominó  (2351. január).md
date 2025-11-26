@@ -1,0 +1,105 @@
+A félhomályban ülve mindketten egy darabig csak csendben figyelték, ahogy a falakat pettyező kijelzők vibrálnak. Emiko szíve még mindig hevesen vert: az a fajta zakatolás volt, amitől az ember torka kiszárad, a tenyerét meg belepi a hideg verejték. Jüra mellette mozdulatlanul ült, testtartása feszes, mintha bármelyik pillanatban robbanásra számítana.
+
+Amikor végre visszarázódott a valóságba, Emiko felpattant és a konzolhoz sietett. Ujjai már a billentyűk felett lebegtek, amikor Jüra halkan, de keményen rászólt:
+
+– Várj, ne csatlakozz fel\! – a szavak nem kérésként, hanem parancsként vágtak a levegőbe. – Figyelik a hálózatot, és ha megérzik a jelet… ki is süthetik az agyad.
+
+Emiko lassan felé fordította a fejét. Szeme sarkában dacos fény vibrált.
+
+– Nem lesz olyan könnyű. – Hangja halk volt, de rendíthetetlen. – A Purgatórium-protokollt pont erre fejlesztettem ki. Ha valaki rácsatlakozik, kisüt mindenkit… kivéve azt, aki a magra van szinkronizálva. Ezért is omlott össze az áramellátás: én vagyok az egyetlen, aki élve kijön belőle. Bízz bennem\!
+
+Mielőtt Jüra bármit válaszolhatott volna, Emiko már bent volt a rendszerben. A világ hirtelen megváltozott körülötte: sorok futottak le fejében, mint fényfolyamok az éjszakai felhők alatt. Log fájlok, titkosított csatornák, elrejtett parancsok. Minden képként villant előtte – és Emiko egyenként tépte szét a szálakat, mint aki szövetet boncol.
+
+Aztán megtalálta. Egy apró, villódzó jel, amely nem tartozott a rendszerhez.
+
+– Megvagy… – suttogta.
+
+Jüra közelebb hajolt.
+
+– Mit látsz?
+
+– Igazad volt – Emiko ujjai remegtek, ahogy rámutatott a képernyőn megjelenő ágra. – Valaki hallgatózott. Nézd\! Egy titkosított kommunikációs csatorna fut egy külső szerver felé. Valószínűleg csak proxy vagy egy honeypot, de… – belenyesett a kódba, és a képernyőn térképrajz jelent meg. – innen jön a jel.
+
+Egy pillanatra egymásra néztek. Szinte egyszerre mondták ki:
+
+– Óvatosnak kell lennünk.
+
+Elmosolyodtak. A régi dinamika még élt közöttük: a közös ritmus, ami mindig is összekötötte őket.
+
+– Szedjünk össze mindent, amit lehet, és húzzunk innen\! – szólalt meg Jüra, sürgetően.
+
+– Várj – motyogta Emiko, miközben lázasan gépelt tovább. – Kihelyezek még egy csapdát. Ha újra belépnek, ráégjen a szemükre.
+
+Jüra közben elkezdte telepakolni a táskáját. Régi fegyverek, tartalék tárak, kábelek, adattárolók – mindent, amit évekkel ezelőtt itt hagyott. Az idegpályái emlékeztek a régi rutinokra, mozdulatai feszesek voltak.
+
+– Nem kellenek a kábelek, sem a diszkek. – szólt oda Emiko, a monitorra tapadva.
+
+– Miért? – kérdezte Jüra.
+
+– Ha tudnád, mennyi ilyet halmoztam fel az évek során… – sóhajtott. Hangjában egyszerre volt büszkeség és fáradtság.
+
+Amikor végre készen álltak, kiléptek a földalatti rejtekajtón, és rohanni kezdtek a felszín felé vezető lépcsősorokon. A levegő egyre hidegebb lett, a csövek között szűrődő huzat dermesztően mart. Emiko félúton már zihált, lábai reszkettek. Jüra szó nélkül felkapta és vitte tovább, mintha súlytalan lenne. A lépések zaját elnyelte a mélyből felhallatszó gépies zúgás, a földalatti város morajlása, ami valahol a sötétben aludt.
+
+Szerencsére nem találkoztak senkivel sem.
+
+A felszínre kiérve brutális hóvihar csapta arcon őket. A szél jeges pengékkel tépte ruháikat, Emiko kabátját majdnem lefújta a testéről. Jüra úgy állt ott, mint egy szikla: nem hajlott, nem mozdult, csak előrenézett, miközben az arcát ostorozta a hó.
+
+A vihar miatt minden vasúti megállót lezártak. Sem vonat, sem villamos nem járt. A városba gyalog jutni szinte lehetetlen lett volna.
+
+– Találnunk kell valamit – mordult fel Jüra.
+
+Percekig bolyongtak, mígnem egy felüljáróra értek. Alattuk egy konténerszállító vánszorgott a hóban. Jüra egy pillanatig figyelte, aztán megszorította Emiko kezét.
+
+– Ugrunk.
+
+– Őrült vagy… – sziszegte Emiko, de aztán bólintott.
+
+Együtt vetették magukat a mélybe. Jüra elegánsan gurult a konténer tetején, Emiko viszont megcsúszott a jeges fémen. Lábai kicsúsztak, teste félig lelógott az út fölé. Egy pillanat, és elnyelte volna a sötétség. Jüra azonban villámgyorsan utána kapott, és visszarántotta.
+
+Mindketten ziháltak, hidegtől vörös bőrrel. Emiko szeme megtelt könnyel – félelemtől vagy megkönnyebbüléstől, maga sem tudta. Jüra csak szorosabban fogta.
+
+Ekkor vették észre az alakot.
+
+A felüljárón, ahonnan ugrottak, egy árnyék állt. Mozdulatlan, csak nézett utánuk. A viharban is látszott, hogy nem véletlen jár arra. Jüra szeme összeszűkült, tekintete haraggal izzott.
+
+– Láttad? – suttogta Emiko.
+
+– Láttam. – Jüra hangja mérgesen csengett. – Követtek minket.
+
+A kamion lassan közelebb ért a városhoz, majd megállt. Jüra segített leugrani Emikónak, és gyalog folytatták az utat.
+
+– Hiányoztál… – szólalt meg Emiko halkan, miközben belé karolt.
+
+– Te is hiányoztál – válaszolta Jüra.
+
+– Mennyire? – kérdezte mosolyogva, játékosan.
+
+– Jobban, mint hinnéd. – Jüra elkomolyodott, de szeme lágy fénnyel csillogott.
+
+Emiko elpirult, és belefúrta arcát a férfi vállába. Így sétáltak tovább a jeges utcákon, míg el nem értek egy gyorsétteremhez.
+
+Odabent meleg és olajszag fogadta őket. Megrendelték az ételt, és miközben ettek, a múlt akcióiról beszélgettek. A szavak lassan megelevenítették régi közös éveiket, a veszélyt, a harcokat, az elveszett álmokat. Mindketten érezték: a láng még mindig ott lobog bennük – nemcsak a szabadságért, hanem egymásért is.
+
+A külvilág azonban nem felejtett. Jüra szeme sarkából észrevett valamit: kéklő fényeket az utca végében. Szirénák hangja lopakodott be a falak közé.
+
+Egy konvoj közeledett. Nehéz járművek, az egyik Multi zászlajával.
+
+– Rohadt multik… semmit sem tisztelnek – sziszegte Emiko.
+
+Behúzták a fejüket, amíg a járművek elhaladtak. Csak amikor elcsendesedett az utca, merték folytatni az étkezést.
+
+Később Emiko lakásához érkeztek. Jüra végignézett a helyen – falakra szerelt monitorok, szerverek, kábeldzsungel. Emiko büszkén mutatta a felszerelést, mesélve sikeres támadásairól, megszerzett pénzről. Jüra elismerően bólintott.
+
+Az éjszaka azonban nem hagyta nyugodni. Amikor Emiko már aludt, Jüra felkelt és bekapcsolta a híreket.
+
+A képernyőn egy hideg hangú bemondó szólt:
+
+*"Ma hajnalban a kikötő negyedben elfogtak egy emberkereskedelmi szállítmányt. A konténerekben több tucat emberi testet találtak, köztük élő és fagyasztott állapotban lévő áldozatokat. A szállítmányt ismeretlen megrendelő várta. A hatóságok egyelőre nem nyilatkoznak az ügyben…"*
+
+Jüra szeme elkerekedett. Az undor szinte fojtogatta. Odalépett az ablakhoz, tekintete a város fényein túlra meredt.
+
+– Meg kell tisztítani ezt a várost ettől a mocsoktól… – suttogta, szinte önmagának.
+
+A szavai olyanok voltak, mint egy fogadalom. És Emiko álmában is megérezte, hogy valami elkezdődött.
+
+Az első dominó eldőlt.

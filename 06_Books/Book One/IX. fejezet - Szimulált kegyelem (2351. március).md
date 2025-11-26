@@ -1,0 +1,68 @@
+A szoba mozdulatlan volt. A szerverek halk búgása és Emiko billentyűzetének hangja töltötte csak be a teret finoman. Jüra a kanapén ült, és nézte a híreket lenémítva. Nem mozdult, csak bámulta a képernyőt mereven, mintha nem is azt nézné, hanem valami mást mögötte.
+
+Emiko arrébb mozdult, és kilesett az előtte lévő képernyők közötti résen. Arcán csendes kíváncsiság derengett. Szemét összehúzta, és úgy csinált, mintha próbálná kitalálni, mire gondolhat. Jüra észrevette, hogy őt figyeli, de úgy tett, mintha nem venné észre.
+
+– Mi jár a fejedben? – kérdezte Emiko barátságosan.  
+ – Semmi. – válaszolta Jüra egyszerűen.  
+ – Nem hiszem. Pontosan úgy nézel ki, mint aki valamin nagyon töri a fejét.
+
+Jüra válaszként csak sóhajtott. Emiko felállt az asztaltól, kihúzta a kábeleket a tarkójából, amik kattanva engedték el, és leült Jüra mellé a kanapéra. Nézte őt pár másodpercig, majd közelebb húzódott, lábát keresztbe tette Jüra combján, és átkarolta a nyakát.
+
+– Hé… ugye tudod, hogy nincs olyan, amit ne oszthatnál meg velem?
+
+ – Tudom. – válaszolta.
+
+Emiko várt egy percet, hátha mond valami mást is, de csak a csend maradt. Megfogta egyik kezével Jüra arcát, finoman maga felé fordította a fejét, majd a szemébe nézett.
+
+– Látom, hogy valami van odabent, amit nehezen bírsz el. – mondta Emiko halkan, de határozottan. – Kérlek, oszd meg velem, hogy segíthessek\!
+
+– Boldog vagyok, hogy újra veled lehetek, de mióta újra találkoztunk, valami olyanra bukkantam saját magamban, amit inkább elfelejtenék. – Emiko csendben hallgatta. – Feszíti a mellkasomat a gyűlölet. Ha összetűzésbe keveredek valakivel, eszembe se jut békésen véget vetni a helyzetnek. Ez a fortyogó harag átveszi az irányítást, és elpusztít mindent maga körül. Félek, hogy egyszer téged is bántalak majd, csak mert elvesztem az irányítást.
+
+– Hadd mondjak én is valamit. – szólalt meg Emiko. – Amióta újra felbukkantál, a világom újra virágba borult. Visszatértek az érzéseim. Mikor eltűntél, belőlem is eltűnt minden boldogság, öröm és jókedv. Egy üres héj voltam, amiben a lélek csak a sötétségben ült egyedül. Most úgy érzem, hogy ha ebben a pillanatban mennem kellene, boldogan mennék. Akár a te kezed által, akár más miatt, de boldog lennék a halálom pillanatában, mert újra itt vagy velem, ebben a rideg és fojtogató világban. Szeretlek, Jüra. Mindig is szeretni foglak.
+
+Jüra arca megfagyott. Hihetetlen erejű érzések törtek fel benne, amit igyekezett benn tartani, de Emiko fürkésző tekintete látta, hogy mi zajlik a kemény felszín alatt. Emiko lassan megérintette Jüra arcát, és ujjait finoman végighúzta rajta, mint egy szobrász mikor megcsodálja művét. Jüra szeme csillogott, de arckifejezése még mindig mozdulatlan volt. Emiko végigtekintett rajta, megnézte a szemét, a sebhelyeket, az orrát, a száját, majd lassan közelebb hajolt és megcsókolta. Ebben az egy csókban minden benne volt, amit szavakkal nem tudott kifejezni.
+
+– Én is szeretlek. Sose szerettem senkit úgy, mint téged. – törölgette szemét Jüra.
+
+Emiko elmosolyodott, majd levette a szemüvegét, és újra megcsókolta. Ezúttal sokkal intenzívebben. Még közelebb húzódott, és karjaival szorosan átölelte nyakát, mintha attól félne, hogy soha tobbé nem látja. Jüra megfogta derekát, és odahúzta az ölébe. Így töltöttek el pár percet.
+
+Csend telepedett rájuk. Csak a szerverek halk búgása bujkált a szobában, miközben szorosan ölelték egymást. Miután mindketten megnyugodtak, Emiko felállt, és visszasétált az asztalhoz, hogy tovább dolgozzon a korábban letöltött adatokon. Jüra nézte még egy darabig, majd kiment a mosdóba. Megmosta az arcát, és saját szemébe nézett a tükörből. Vett egy nagy levegőt, és a kilincset kereste kezével, amikor eszébe jutott a kis tasak, amit Anyától kapott. Gondolkodott egy pillanatig, majd kilépett a fürdőből, és a kabátja irányába indult. Felvette, és így szólt:
+
+– Felmegyek a tetőre levegőzni.
+
+Emiko bólintott, majd tekintetét visszavezetette a képernyőkre.
+
+Jüra körbe-körbe járkált lassan, azon gondolkozva, hogy megbízzon-e Anya szándékában. Elővett egy szál cigarettát, rágyújtott, és a párkányhoz sétált. Elővette a tasakot a zsebéből, és alaposan szemügyre vette. Egy tablettát ki is vett, majd tenyerén jobbra-balra görgetve szemlélte az átlátszó, világoskék pirulát. Kinézett a horizont felé, abba az irányba, ahol a toronyházak a legkevésbé szabdalták szét az eget, majd bevette Anya enyhülést hozó apró ígéretét.
+
+A március végi felhők lassan szakadoztak, és a hűvös szél határozottan kavargott Jüra körül. Itt-ott a nap sugarai már nagy erővel ütöttek át a felhők között. Jüra már bő negyed órája állt ott, amikor az egyik napsugár megérintette az arcát. A nap melege és a hűvös szél elegye furcsa érzést keltett benne. Beleborzongott az érzésbe, ami rendkívül meglepte. Azóta nem rázta ki a hideg, amióta az új testet kapta. Hirtelen úgy érezte, hogy megtelik energiával, és valahogy a vastag fekete felhő, ami eddig a szívén ült, most tovaszállt a márciusi felhőkkel.
+
+Mozdulatlanul ült a tető peremén, ahol az ég és a beton összeértek. Az apró tabletta már rég útra kelt benne, és valahol mélyen, az idegei között kezdett kibontakozni a hatása.
+
+Először csak az érzékelése változott meg egy picit. A város hangjai — a távoli forgalom, a szirénák, a metró dübörgése a föld alatt — valahogy tisztábban szóltak. A színek élénkebbek lettek, mintha a világot eddig egy sötét szűrőn keresztül látta volna. A szél érintése is más lett: nem puszta fizikai inger, hanem valami, ami behatolt a tudatába. Minden szál haját külön érezte, ahogy a légáram megmozdítja.
+
+Jüra lehunyta a szemét. A gondolatok, amik addig kínozták — a múlt árnyai, a gyűlölet, a képek, amiket nem tudott kitörölni —, lassan háttérbe szorultak. Helyettük valami furcsa béke ereszkedett rá. Mintha valaki belülről simítaná végig az idegrendszerét.
+
+Egy idő után mély levegőt vett, és hagyta, hogy a levegő átjárja a mellkasát. A toronyházak között a nap sugarai most már szabadon törtek át, és minden fénycsík, ami az arcára vetült, egy-egy emléket hozott fel benne. A falon kívül töltött időszakot. A csatornákban leélt éveket gyerekként. A vért a kezén, ami sosem jött le teljesen. A tabletta nem tompította ezeket — csak megtörte a láncot, amivel hozzá voltak kötve.
+
+Ahogy ott ült, egy halk csilingelésre lett figyelmes. Emiko üzenete villant fel: „Ne maradj kint sokáig. Vihar közeledik.”  
+Jüra elmosolyodott, de nem válaszolt az üzenetre. Inkább a horizontot figyelte tovább, ahol a távolban megpillantotta a viharfelhőket.
+
+Az érzések kavargása lassan letisztult. A világ nem tűnt többé olyan idegennek. A levegő illata, a fények játéka a felhőkarcolók üvegén — mind valahogy új jelentést kapott. A gyűlölet helyére nyugalom került, a keserűséget felváltotta a csend.
+
+Amikor felállt, mozdulata könnyed volt, szinte hangtalan. A szél belekapott a kabátjába, ahogy elindult vissza a lépcsőházba vezető ajtó felé. Lent, a folyosón a fények hidegen pislákoltak, de most valahogy nem tűntek olyan ridegnek.
+
+Amikor belépett a szobába, Emiko odapillantott.  
+– Jobban vagy? – kérdezte kedvesen.  
+– Igen – felelte Jüra halkan. – Most először úgy érzem… tényleg.
+
+Emiko bólintott, és visszafordult a képernyőhöz, de egy pillanatra sem tűnt közömbösnek. Tudta, hogy valami megváltozott benne — apró, de jelentős törés a páncélon. Nem tudta, csak remélte, hogy a szavai enyhülést hoztak.
+
+Jüra közelebb lépett, és megállt mögötte. A képernyőn adatsorok peregtek: arcok, nevek, IP-címek, céges logók, de mind egytől egyig hiányos vagy töredezett volt. A hálóban lassan kirajzolódott valami nagyobb mintázat — egy fonal, ami az utóbbi napok eseményeit egyetlen, sötét középpontra vezette.
+
+Emiko félhangosan suttogta:  
+– Ez sokkal nagyobb és sötétebb mint hittem, de már meg sem lepődök. Akármit is találtunk az csak a jéghegy csúcsa volt.
+
+Jüra megérintette a vállát.  
+– Akkor ideje leásni a mélyére.
+
+A monitor fénye élesen vágott a szemükbe, ahogy a kód életre kelt. A vihar odakint egyre közeledett, de bent, a szobában, a dolgok készültek formát ölteni.

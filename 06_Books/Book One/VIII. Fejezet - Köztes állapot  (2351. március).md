@@ -1,0 +1,144 @@
+Jüra ismét a tetőn ült. A párkány peremén lógatta a lábát, miközben egy cigaretta égett a szája sarkánál. A füst elvegyült a város szmogjában, és a horizontot keresztbe szelő tornyok mögött halvány fény derengett. A végtelen város alatta húzódott, háztömbök és fények labirintusa, ahol az élet egyetlen összefüggő zúgássá olvadt. A gondolatai messze jártak, mintha a teste itt maradt volna, de az elméje már régen elhagyta volna ezt a tetőt.
+
+A hideg még mindig éles volt és metsző, de a nap már próbált áttörni a dermedt világon. Jüra felemelte a kezét, figyelte a fényt, ahogy végigfut az ujjain. Előbb a kézfejét vizsgálta, majd lassan megfordította, mintha idegen tárgyat tartana. A tenyerén nem voltak ujjlenyomatok – csak szabályos barázdák, mesterséges minták. Tekintete végigpásztázta saját testét, hideg anyag és élő szövet találkozását. Idegen érzés fogta el.
+
+Nem törődött ezzel, amíg Emiko gondolata elég volt, hogy a fejében rend legyen. Addig nem számított, mennyire idegen ez a test. De most, hogy újra vele lehetett, az üresség halkan visszatért.
+
+Lenézett a párkányról. A mélység szinte hívta magához – egy lassú, hangtalan ígéretként tátongott alatta a város gyomra. Felállt, mély levegőt vett, és már gondolatban lépett is, amikor egy drón suhant mellé. Kisebb volt az átlagos járőrdrónoknál, és Jüra rögtön felismerte a rajta lévő logót. Apró betűk a vázon: Kápolna. A kórházé, ahol újjászületett.
+
+Zsebében megcsörrent a komm.  
+ – Halló? – szólt bele türelmetlenül, mintha egy gondolatmenet közepén zavarták volna meg.
+
+– Szia, Jüra – felelt egy kedves, női hang. [[Anya]] volt az. – Elveszettnek tűnsz. Van kedved beszélgetni egy kicsit?
+
+Jüra hallgatott pár másodpercig.  
+ – Nem tudom, mit tudnék mondani.
+
+– Ami eszedbe jut. Vagy lehetünk csöndben is, ha az jobban esik – mondta Anya játékosan, mégis gyengéden. – Csak ne ácsorogj tovább azon a párkányon.
+
+– Rendben – felelte, majd elnyomta a cigarettát. – Igyunk meg valamit.
+
+Pár háztömbnyire volt egy apró bár, a sarkon, ahol az utca fényei összemosódtak a reklámtáblák kijelzőivel. Nem kellett elmagyaráznia, hová megy. Anya úgyis tudta – a nyomkövető pontosan mutatta minden lépését.
+
+A bárban halk zene szólt, régi jazz-feldolgozások, amiket a város már régen elfelejtett. Jüra az egyik sarokasztalnál ült, ujjaival az asztal szélét babrálta, mikor az ajtó kinyílt. Egy magas, elegánsan öltözött nő lépett be. Szövetkabátja sötét volt, szemén napszemüveg, őszülő haját laza kontyba fogta. Arcát finom ráncok díszítették, de tekintetében olyan nyugalom volt, amitől a tér is elcsendesedett.
+
+Körbenézett, majd egyenesen Jüra felé indult. Kecsesen, de határozottan lépett. Jüra felállt, levette róla a kabátot, és szó nélkül kihúzta a széket.
+
+Egy ideig némán ültek egymással szemben. Csak a fények pulzálása játszott az asztalon. Jüra az ujjait nézte, Anya pedig őt. Arcán türelem és finom aggodalom keveredett.
+
+– Miért engem? – törte meg végül a csendet Jüra. – Miért én lettem a kísérleti alanyod?
+
+Anya elmosolyodott, de a mosoly mögött fáradtság bujkált.  
+ – Nem volt különösebb oka. Te voltál ott. Téged találtunk meg először. Mondhatnám, hogy szerencséd volt.
+
+– Nem hiszek a szerencsében – felelte Jüra hidegen.
+
+– Miért nem?
+
+– Mert ez az élet teher. Meghalni kellett volna, nem újrakezdeni.
+
+Anya hallgatott. Csak a bár zaja töltötte ki a köztük lévő teret.  
+ – Itt hagynál mindent, amit szeretsz? Itt hagynád Emikót, hogy újra összeomoljon?
+
+– Megbirkózna vele.
+
+– Tudod, hogy nem így van – mondta halkan, de szilárdan. – Láttam, mit tett vele a hiányod. És láttam, mit tett veled a gondolat, hogy visszatérsz hozzá. Ez az, ami miatt küzdöttél a műtét után. Nem a túlélésért, hanem érte.
+
+Jüra megfeszült.  
+ – Nem vagyok már ugyanaz. Alig ismerek magamra. A világ is idegen lett.
+
+– És ha mélyen magadba nézel? – kérdezte Anya. – Mit látsz?
+
+Jüra elkapta a tekintetét, tenyereit az asztalra tette, mintha kapaszkodna.
+
+– Ha valóban meg akartál volna halni – folytatta Anya halkan – nem tudtunk volna megmenteni. Szinte semmi nem maradt belőled. Csak egy gerinc, és egy fej. És mégis... valami ott tartott. Az akaratod, hogy visszamenj hozzá. Még az altatás előtt is róla beszéltél. Tudom, mit jelent neked.
+
+Jüra mély levegőt vett, majd lassan kifújta.  
+ – Ez a test... minden pillanatban ki akarom szakítani magam belőle. Belenézek a tükörbe, és egy idegen néz vissza rám. Érzem, hogy napról napra távolabb kerülök attól, amit embernek hívnak. Ez nem élet, hanem... egy köztes állapot. Egy börtön, ami mozogni tud.
+
+Anya enyhén előrehajolt.  
+ – Nem a tested határoz meg téged, Jüra. Ebben a korban már senkit sem. Az ember és gép közötti határ elmosódott. Amitől mégis ember maradsz, az a döntésed. A választásaid. Minden más csak illúzió.
+
+Jüra bólintott, de a mozdulat inkább fáradt volt, mint meggyőzött.  
+ – Akkor segíts. Segíts elviselhetőbbé tenni ezt az egészet.
+
+Anya elővett egy átlátszó tasakot. Benne halványkék kapszulák csillogtak, mint apró jégdarabok. Az asztalra tette őket.
+
+– Mi ez? – kérdezte Jüra.
+
+– Z32 – felelte Anya szárazon.
+
+Jüra szeme összeszűkült.  
+ – *Az* a Z32?
+
+– Igen.
+
+– De hát ez... ez egy parti drog.
+
+Anya elmosolyodott, de a mosoly mögött most valami egészen más csillant.  
+ – Attól függ, hogyan használod.
+
+Sokan nem tudják, honnan is származik valójában ez a szer – és mire használták eredetileg.  
+ – A korai implantátumok viselőinek adták – kezdte Anya. – Segített az idegrendszer és a gépi részek közötti kommunikációban. Tompította a fájdalmat, kiegyensúlyozta a hangulatot… és visszahozott valamit abból, amit az emberek érzésnek hívtak. Ez majd fokozza az érző receptorok aktivitását. Ismét képes leszel érezni a világot, nem csak figyelni azt.
+
+Jüra arca megkeményedett.  
+ – Te be akarsz drogozni engem? Azt akarod, hogy függő legyek, hogy irányíthass, amikor akarsz?
+
+– Dehogyis\! – Anya felemelte a kezét. – Ez nem az, amit az utcán árulnak. Ez tiszta, laboratóriumi változat, az eredeti protokoll szerint. A Z32 mostanra csak egy olcsó utánzat az alvilágban, de ez… ez még az, aminek szánták.
+
+Jüra gyanakodva nézett rá, majd elvette a tasakot és zsebre tette.  
+ Anya mosolygott, de szemében valami mély, csendes szomorúság csillogott. Megfogta Jüra kezét.
+
+– Soha nem akarnék neked ártani. Tudom, hogy kételkedsz bennem – mondta halkan. – De amit teszek, azt őszintén, jó szándékkal teszem. 
+
+Nem mondtam még, de… emlékeztetsz a fiamra. 
+
+Egy pillanatra elakadt a hangja. – Nehéz erről beszélnem. Egy szülő számára a legnagyobb borzalom túlélni a gyerekét. Amikor rád nézek, látom benned azt, amit elvesztettem. És boldog vagyok, hogy rád találtam.
+
+Jüra szemei tágra nyíltak. Nem tudta, mit kezdjen a hallottakkal. A szavai súlyként ültek meg benne, valami mély, ismeretlen érzést ébresztve, amit rég elfeledett. Egy könnycsepp majdnem kiszabadult a szeme sarkából, de visszanyelte az érzést.  
+ – Köszönöm – mondta végül rekedten.
+
+– Menj és pihenj – felelte Anya. – Rád fér.
+
+Jüra felállt, segített neki felvenni a kabátot, majd együtt léptek ki a bárból. A fények hidegen villantak arcukra. Jüra bólintott, Anya mosollyal válaszolt, és mindketten más irányba indultak el.
+
+A város lüktetése lassan beleolvadt Jüra fejébe. Minden hang, minden fény vibrált, de ő mintha levált volna a világról. A beszélgetés visszhangzott benne, mint valami lassan elhaló mantra. Csak ment előre, céltalanul.
+
+Egy sarkon befordulva egy keskeny sikátor tátongott előtte, az egyik fal mentén beugróval. Nem volt hosszú – csak egy kicsi árnyék a város végtelen zajában. Belépett.
+
+A félhomályban három alak fogott közre egy negyediket. Egy fiatal lányt tartottak fogva, pénzt kerestek nála. Könyörögve próbált kiszabadulni, ahogy a férfiak fogdosták őt. Ruhája széttépve, ő a betonfalhoz préselve. A férfiak hangosan, gúnyosan nevettek és sértegették. 
+
+– Nyugi, édes\! Hamar vége lesz – mondta az egyik. – Csak hagyd, hogy megtörténjen.
+
+A lány sírt. Hangja elcsuklott, amikor befogták a száját. Egyikük kést villantott meg. A hideg fém a nyakán villant, és tudta, hogy ha sikít, megölik.
+
+Jüra a fal mögött maradt, hallgatott. A levegő megtelt adrenalin és félelem szagával. A szeme összeszűkült. A mozdulata, amikor előhúzta a pengét, gyors volt és érzelemmentes.
+
+A penge süvített. Egy halk, tompa hang – és a középső férfi előrebukott. A testén átcsúszott a penge, hegyével a mellkasból kibukkanva. Egyetlen hörgés, majd a test elernyedt.
+
+A másik kettő megfordult. A hozzá közelebb álló kést rántott, és rátámadt Jürára. A válasz egy gyomorrúgás volt, ami összehajtotta, mint egy rongybabát. A másik tétovázott egy darabig, majd ő is előhúzott egy kést. Jüra félrecsúszott a vágás elől, elkapta a karját, és egyetlen, száraz reccsenéssel hátratörte. A férfi sikoltott, ahogy a karja élettelenül lógott.
+
+Jüra megragadta a vállánál és a csuklójánál – majd letépte a karját. Vér fröccsent a falra, a férfi sikolyai visszhangoztak a sikátorban. Néhány másodperc múlva összeesett a vérveszteségtől, és többé nem mozdult.
+
+A harmadik, aki még térdelt, reszketve próbált fegyvert rántani, de már ott állt előtte. Jüra pisztolyának csöve hidegen érintette a homlokát.
+
+– Dobd el.
+
+A férfi tétovázott, tekintete villogott a pánik és a gyűlölet között. Megmozdult – és Jüra meghúzta a ravaszt. Csend.
+
+A füst lassan szétoszlott. Jüra eltette a fegyvert, kihúzta a pengét a halott hátából, megtörölte, és csak ezután fordult az örömlány felé.
+
+A lány a fal mellett ült, remegve, szinte hangtalanul sírt.  
+ – Kérem… ne bántson… – szipogta.
+
+Jüra leguggolt mellé, és összeszedte a ruháit.  
+ – Vége van. – mondta csendesen.
+
+A lány lassan leengedte a kezét, mintha nem hinné el, hogy él. Tekintete üres volt, de a könny még mindig folyt a szeméből. Jüra segített neki felöltözni, majd kivezette a sikátorból.
+
+Odakint leintett egy taxit. Kifizette az utat, és annyit mondott:  
+ – Vigyázz magadra.
+
+A lány csak bólintott, némán, és eltűnt a jármű ajtaján túl.
+
+Jüra ott maradt a járda szélén és nézte, ahogy a taxi lassan eltűnik a szeme elől.

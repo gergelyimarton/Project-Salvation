@@ -1,0 +1,155 @@
+A folyosót teljes sötétség nyelte el, amikor az izzó pukkanva szétrobbant. A banditák káromkodva hadonásztak a vaksötétben, és Emiko ujjai végigszántottak a vezérlőpulton. A fémes test hangtalanul suhant előre, mozdulatai gépiesen pontosak voltak. Egy baseballütőt szorongató alakot kapott el, majd egyetlen mozdulattal a falhoz csapta. A csontok roppanásának hangja élesen visszhangzott a betonról. A droid azonnal továbblendült, szinte eggyé vált az árnyékkal, és egy vascsövet markoló férfi karját törte el, majd hangtalanul kiiktatta.
+
+Pillanatok alatt véget ért a dulakodás. A maradék támadók fejvesztve rohantak el, üvöltéseik és cipőik dobogása még sokáig visszhangzott az alagút sötétjében.
+
+– Szép munka… – jegyezte meg Jüra halkan, de szemében komor fény villant. – Úgy érzem, hogy nem ők voltak az egyetlenek, akik itt ólálkodnak.
+
+Emiko nem válaszolt. Csak bólintott, és ahogy újra a droidra koncentrált, érezte: a gép most már nem különálló eszköz, hanem saját testének kiterjesztése. A fém és a hús közötti határ elmosódott.
+
+A járatokban továbbhaladva emberi maradványokra lettek figyelmesek. Mintha egy állat lakmározott volna az ide tévedt szerencsétlen emberekből. A maradványok ismerősek voltak. Egy pillanatig nem akarták elhinni, hogy ezek a maradványok az elmenekült banditákhoz tartoznak, akikkel nem sokkal ezelőtt csaptak össze. Pedig, de. Emiko elborzadt a látványtól, szinte már hányingerrel küzdött.
+
+– Mi a fészkes fene történt itt?\! – kérdezte könnybe lábadt szemmel.
+
+– Fogalmam sincs. – válaszolt Jüra ridegen, szemöldökét ráncolva. – Nem csalt a megérzésem. A maradványokból ítélve nem lehet nagyon messze az, ami ezt művelte. Induljunk\!
+
+A halvány vércseppeket követve haladtak egyre beljebb a földalatti járatok labirintus szerű rétegeibe. Az alagút végül egy hatalmas ipari szerviztérbe torkollott. A levegőt olaj és ózon fémes szaga töltötte be. Ott várt rájuk két szörnyeteg. Testük gorillaszerű, vaskos, lassú, mégis fenyegető volt; minden lépésük alatt remegett a padló. Vastag fémlemezek borították őket, szemük vörösen izzott, torkukból mély, zúgó morgás áradt. Véresek voltak mindketten. Szájukból még frissen csöpögő vér és a hegyes fogak látványa vérfagyasztó volt.
+
+– Ez már keményebb falat lesz – suttogta Emiko, miközben idegesen újrakalibrálta a droid motorikus rutinjait.
+
+Az egyik monstrum üvöltött, hangja olyan mélyen torzult, mintha sziréna hasította volna ketté a teret. Majd lassú, ám pusztító erejű mozdulattal Emikóra rontott. Az ütés a levegőt is megrengette, de a droid félresiklott, és akrobatikus mozdulattal a másik förmedvény hátára ugrott. Jüra közben előretört, szénacél kést szúrt a szörny karjába, ám a penge csak szikrát vetett a páncélon.
+
+– Nem elég\! – sziszegte, fogait összeszorítva.
+
+Hiába támadta újra és újra, a lény szinte sérthetetlennek tűnt. A droid eközben kapaszkodott a másik hátán, ökleivel vadul püfölte a nyaki ízületeket. Emiko minden idegszálával összpontosított: ha elhibázza a szöget, a szörny lerázza magáról. Végül reccsenés hallatszott, és a gerinc mentén futó szervóvezetékek megadták magukat. A monstrum térdre rogyott, majd tehetetlenül összecsuklott.
+
+A második szörny még állt. Jüra Emikóval egyszerre mozdult: a droid elterelte a figyelmét, közben Jüra a mellkasába ugrott, és egy improvizált feszítővassal betörte a mellpáncél egyik illesztését. A szörny üvöltve zuhant a földre, de lassúsága végzetes volt: Emiko már odaugrott, letépte a mellkasról a borítást, és szabaddá tette a létfontosságú modulokat. Jüra ekkor döfte mélyre a pengét. A szörny belsejéből szervófolyadék és szikrák spricceltek – és köztük [[YMANATICS]]-logóval ellátott kibernetikus modulok csillantak meg.
+
+Emiko döbbenten hajolt fölé. – Mi a …? Selejtezett darabok? Alkatrészpiacról szerezték volna…? – próbálta magyarázni.
+
+– Nem hiszem… – vágta rá Jüra sötéten. – Ez bűzlik.
+
+Egy pillanatra csend telepedett rájuk. Csak egymás szemét keresték, és valami megmagyarázhatatlan idegesség vibrált a levegőben.
+
+Emiko odasétált a magatehetetlen szörnyhöz és közelebbről is szemügyre vette. Nem talált rajta semmilyen más nyomot, aminek hasznát vehetnék. Egy jól irányzott mozdulattal ketté taposta a fejét, majd készített pár fényképet a két óriási tetemről és csendben tovább álltak.
+
+Hazatérve végre befejezték a droidot. A rideg fémtest már nem csupán gép volt, hanem egy fenyegető, misztikus harcos. Sötétzöld katonai ruha feszült rajta, vállain páncél, övén pisztolytáska, oldalán teleszkópos acél bot. Mellkasát kevlár borította, a kapucnis köpeny alatt szinte emberinek hatott. A színek beleolvadtak a sötétbe, mégis erőt sugároztak.
+
+Emiko elégedetten szemlélte. – Most már tényleg velünk van. Nem csak gép, hanem társ.
+
+Jüra nem felelt, de a szeme sarkában ott villant valami ritka és törékeny: bizalom.
+
+Másnap Jüra törte meg a reggeli nyugalmat.
+
+– Vissza tudod keresni, hogy ki akart bejutni a pánikszobába?— kérdezte szárazon.
+
+Emiko bekapcsolta a monitorokat, és belesüppedt a reggeli napfényben derengő terminálok tengerébe. A képernyőkön a hálózat pillanatok alatt térképpé állt össze: csomópontok, log-ok, ki- és beáramló forgalom. Nem úgy nézett ki, mint egy egyszerű lopás nyoma; inkább mint egy betegesen gondosan megtervezett útvesztő.
+
+Először egy forgalomelemzést indított: visszament a szerverlogokhoz, időbélyegeket fésült össze, és a gyanúsan egyforma csomagsorozatokat egymás mellé rendezte. A sorok között ugyanaz a ritmus ütközött elő — rendszeres, szinte katonásan ismétlődő lekérdezések egy ismeretlen proxy felé. Emiko kézzel húzta a térképen a vonalakat, összevetette a kamerák hiányzó idősávjaival, és néhány kitüntetett pontra irányította a figyelmét.
+
+A második mozdulat: tükörforgalom. Kihasználta egy közeli átjátszó pont tükröző képességét — ideális, mert így láthatta, mi megy ki és mi jön be anélkül, hogy direkt kapcsolatot hagyna maga után. A képernyőn hirtelen kibomlottak a csomagok: rövid, titkosított szegmensek, melyek között volt egy apró ismétlődő bélyeg, egy ujjlenyomat. Emiko ajka egy pillanatra megfeszült: 
+
+— Hmm..
+
+Végül egy egyszerű trükk: hamis jelölő — egy apró méretű üzenet, amit a rendszerbe tett, hogy provokálja a betörőt. Egy mesterséges hibaüzenet, ami azt mutatta: van egy gyenge pont. A reakció gyors volt; a vonalak felélénkültek, a támadó feladta a pozícióját, és a lekérdezések egy új, ismeretlen irányba indultak el.
+
+– Nem amatőr — mondta Emiko alig hallhatóan. – Ez elképesztő\! Nem csak mozog a hálón, mozgatja is.
+
+Ahogy Emiko megerősítette a támadás forrását, Jüra bólintott és azonnal elindult, hogy megkeresse. Emiko maradt a képernyők előtt, és figyelt.
+
+Jüra szélsebesen rohant keresztül a városon. Fáradhatatlanul közeledett célpontja felé, miközben fülében süvített a februári szél. Korlátokat ugrott át, falakon kapaszkodott fel, buszok tetején rejtőzve utazott, mindvégig egyre közelebb kerülve a végső helyszínhez.
+
+Emiko egy elhagyott raktárépülethez vezette. Az épület sötét és jéghideg volt, évek óta nem használták. A régi dobozokra terített műanyag ponyvákat halkan sodorta a beáramló huzat. Jüra léptei üresen visszhangoztak, ahogy a ládák között óvatosan haladt előre.
+
+Feljebb, a falon egy ajtót pillantott meg, amelyhez egy lépcső vezetett. Az ajtó halkan, de hosszan nyikordult, amikor kinyílt, és egy alak lépett ki rajta. Kerek lencsés napszemüveg takarta a szemét. Egy pillanatra megállt, majd megszólalt:
+
+– Csak idő kérdése volt, hogy mikor találkozunk.
+
+– Bolond vagy, ha egész idő alatt erre vártál – felelte Jüra hűvösen.
+
+– Ó, pedig majd kiugrottam a bőrömből, hogy végre személyesen lássalak – mondta édeskés hangon, miközben lassan levette a szemüvegét. – Már a múltkor, ott a hóesésben is alig bírtam magammal, amikor megláttalak téged és a kis barátnődet.
+
+Könnyed mozdulattal átlendült a korláton, majd a földre ugrott. Érkezése nehéz és fémes csengésű volt – a hang alapján Jüra azonnal tudta, hogy a testében számos protézis lapulhat.
+
+– Annyi mindent vittél véghez… – folytatta gúnyosan. – Mennyi idő és energia, hogy jobbá tedd a világot\! Aztán jött az a vonatbaleset… jaj, szegény. Nézz magadra, mi maradt belőled? Elmenekültél, mint egy hitvány kutya, és most nekem adatott meg a megtiszteltetés, hogy lefejezzek egy hajdan legendás patkányt. Tudod, mennyi pénzt kapok majd érted? Bele se merek gondolni\! És ha élve viszlek el a főnöknek… istenem, egy életre elég lesz, amit ezért fizetnek.
+
+– Befejezted? – Jüra arca unottságot sugárzott. – Nem kapsz te lófaszt se. Fogalmam sincs, ki a megbízód, de ebben a városban mindenki ott basz át, ahol csak tud.
+
+Az idegen félmosolyra húzta a száját, de tekintete megfagyott. Villámgyors mozdulattal előrántotta pisztolyát és tüzet nyitott. Jüra épp időben vetette magát egy doboz mögé. Az idegen utána rohant, látta, ahogy a ládákból rakott fal mögött eltűnik. Jüra macska-egér játékba kezdett, szinte hangtalanul cikázva a dobozok közt. Időnként feltűnt egy résen, mire az idegen lőtt, de sosem tudta, talál-e.
+
+A vadász egyre dühösebb lett. Újratöltötte fegyverét, amikor felette hirtelen megmozdult valami. Egy kisebb doboz zuhant a fejére, kibillentve egyensúlyából. Fél szemmel még látta, ahogy az egész rakás felé dől. Az utolsó pillanatban oldalra vetődött, épp elkerülve a zuhatagot. A félhomályban gyors léptek csattantak. Már majdnem feltápászkodott, amikor Jüra a sötétből kilépve gyomron rúgta. Az idegen sikeresen hárított, de a következő pillanatban egy újabb, ívelt rúgás csapta ki kezéből a pisztolyt, amely messzire repült a ládák közé. Most egymással szemben álltak, feszült csendben.
+
+– Pont annyira gyáva vagy, mint mondják – provokálta az idegen.
+
+– Lőfegyverrel egy fegyvertelen ember ellen? – kérdezte Jüra gúnyosan. – Melyik meccset nézed, haver?
+
+– A szád viszont pont akkora, mint ahogy mondják – válaszolta ideges nevetéssel. – Azt hiszed, te diktálod a szabályokat? Új nagy halak bukkantak fel, és velük új szabályok jöttek. Amíg te szundikáltál, mi egy új világon dolgoztunk.
+
+– Új világ? Hadd mondjak valamit a világról – szólalt meg Jüra, hangja jegesen csengett. – A világ kegyetlen igazsága az, hogy a játék urai, akik a szabályokat alkotják, gyakran ők szegik meg először, miközben a gyengék robotolnak, egy jobb életre várva. Te pedig, barátom… nem tartozol az urak közé.
+
+Az idegen arcán felcsapott a harag. Kabátja alól kést rántott elő. Jüra is előhúzott egy pengét – az övé legalább kétszer olyan hosszú volt. Elégedett mosollyal biccentett felfelé, pimaszul. A támadóban elszakadt a cérna: vad rohamot indított. Csapás csapást követett, de Jüra mindegyiket elkerülte. A szúrások tucatjai suhantak felé, ám egyik sem talált. Jüra minden rést kihasználva bal kézzel apró, de fájdalmas egyeneseket mért ellenfelére, aki egyre dühösebb és szétszórtabb lett.
+
+Amikor a támadó teljes erőből vetette magát rá, Jüra nehezebben tért ki, a penge több helyen felszakította bőrdzsekijét. Jüra rápillantott a friss vágásokra, arca frusztrációt árult el. Az idegen megérezte a lehetőséget, és vadabbul támadott. De a következő vágás után Jüra páros lábbal mellkason rúgta, olyan erővel, hogy a hat méterre lévő dobozkupacba csapódott. Egy pillanatnyi csend után az idegen hörögve mászott elő a szilánkok közül. Jüra már előtte állt, tekintetében a halál hidege. A támadó épp csak felemelte kezét, hogy vágjon, amikor karja a földre zuhant. A kés csengve gurult el az élettelen kézből. Mindketten a földet nézték, majd az idegen a vért spriccelő csonkra tekintett. Levegőt vett hogy felkiáltson, de csak bugyborékoló hang tört elő torkából, ahogy Jüra pengéje átszúrta a légcsövét. Jüra rezzenéstelen arccal figyelte, ahogy ellenfele könnyezve kapálódzik. Kihúzta a pengét, majd hagyta, hogy a test a földre rogyjon.
+
+A férfi utolsó erejével a zsebébe nyúlt, és egy apró jeladót szorított meg. A kattintásra Jüra csak ekkor kapta oda a tekintetét, de már késő volt – a test élettelenül hevert előtte, kezében a bekapcsolt készülékkel.
+
+– A picsába – mordult fel.
+
+Azonnal hívta Emikót. Amint a vonal kapcsolt, idegesen szólt bele:
+
+– Valakit riasztott az emberünk\!
+
+– Tudok róla – felelte Emiko. – Most szakadt meg minden kapcsolatom, mintha egyszerűen kihúzták volna a hálózatból.
+
+– Várj… akkor nem ő volt a hacker?
+
+– Nem. Ketten vannak. A másik épp most menekül\!
+
+Jüra gyorsan felkapta a pisztolyt, és felrohant a lépcsőn az ajtóhoz. Benyitott egy helyiségbe, amely berendezésében Emiko rejtekére emlékeztetett. A szemközti ablak nyitva állt, a hideg levegő betört rajta. Jüra odasprintelt, kinézett: az ablak alatt tűzlétrán ereszkedett le a feltételezett hacker. Azonnal kiugrott, megkapaszkodott a létra szélén, és lecsúszott rajta. A földet érve látta, ahogy a célpont befordul a sarkon. Utána iramodott, de hirtelen egy vakító gránát robbant előtte. Hosszú másodpercekig nem látott, nem hallott semmit.
+
+– Emiko\! Látod, merre futott? – kérdezte a kommunikátorba, amikor visszanyerte érzékeit.
+
+– Igen. Követem egy repülő egységgel. Hatvan méterre tőled, a konténerek felé tart.
+
+Jüra ismét sprintre váltott. A konténerek közt keresve lövések hangját hallotta. A hang forrásához sietett, de meglepetésére Emiko drónja és egy földi egység már ártalmatlanná tette a menekülőt – a droid pontos lövése mellkason találta.
+
+Jüra elismerően felhúzta a szemöldökét, majd bólintott. Emiko ekkor lekapcsolta a drónt és a droidot.
+
+– Meg kell tudnom, mi van a fejében. Csatlakoztasd a kommunikátorodat az agyára – utasította.
+
+Jüra így is tett, de amint hozzáért a testhez, az rángatózni kezdett, majd a szeme egyszerűen kipukkant. Szemüregeiből szikrák és füst szivárgott.
+
+– Úgy tűnik, megsemmisítette magát – jegyezte meg Jüra.
+
+– Az isten verje meg\! – káromkodott Emiko. – Rendben, akkor nézzük meg a rejtekhelyüket\!
+
+Jüra visszatért a szobába, ahol célpontok aktáit találta. Lefényképezte őket, majd a sajátját és Emikóét azonnal bedobta az iratmegsemmisítőbe. Kommunikátorát a számítógéphez csatlakoztatta, hogy Emiko betörhessen a lezárt lokális hálózatba.
+
+Emiko szeme elkerekedett, amikor meglátta a tűzfalat – ilyen biztonsági protokollokról korábban csak szóbeszédekben hallott. Minden tudását bevetve kezdte bontani a rétegeket. Végül egy rejtett résen sikerült hozzáférnie az adatbázishoz, és automatikusan elindította a letöltést. De a kapcsolat szakadozni kezdett, a fájlok töredezetten érkeztek.
+
+Ekkor Jüra halk, de egyre gyorsuló pittyegést hallott. Fülelve próbálta azonosítani a hang forrását, de nem találta. Közelebb lépett a falhoz, amelyen egy kapcsolati térkép függött, mint a filmekben a nyomozók táblái. Fülét a falhoz tapasztotta. A pittyegés vészesen gyorsult. Jüra szeme kitágult, ahogy felismerte, mi történik.
+
+Azonnal futásnak eredt az ablak felé. Útközben felkapta a kommunikátort, és a nyílás felé vetette magát. De mielőtt elérte volna, a falba rejtett robbanószer detonált. A lökéshullám elkapta, és az ablakon át repítette. Teste füstölve zuhant majdnem ötven métert, míg egy jármű oldalának csapódott. Az ajtó a becsapódás erejétől szinte köré csavarodott, mintha egy anya ölelné gyermekét. Jüra mozdulatlanul feküdt, kabátja parázslott, haja egy része pernyévé vált.
+
+Emiko döbbenten ült az asztalánál. Nem akarta elhinni, hogy az épület rárobbant Jürára. Idegesen szólongatta a kommunikátoron keresztül, de nem jött válasz. Szája sírásra görbült, szeme megtelt könnyel, miközben a környező kamerák élő felvételeit kutatta.
+
+A kommunikátorból végül sistergő hang tört elő, majd egy gyenge, de határozott nyögés.
+
+– Jüra\! – kiáltotta Emiko. – Kérlek, mondd, hogy nem esett nagy bajod\!
+
+– Még élek… – jött a rekedt, erőtlen válasz.
+
+– Ó, istenem, hála az égnek\! Tudsz járni? Küldjek segítséget?
+
+– Megleszek, ne aggódj. Történt már rosszabb is – felelte.
+
+Emiko elmosolyodott, értette a célzást. Jüra lassan felállt, végignézett magán.
+
+– Ennek a kabátnak annyi… pedig ez volt a kedvencem.
+
+– Majd szerzünk egy újat – vigasztalta Emiko.
+
+– Remélem, még megvan… – morogta Jüra, miközben zsebeit tapogatta. – Áhá, igen\!
+
+Elővett egy doboz cigarettát, egy szálat a szájába illesztett. Öngyújtóját hiába kereste, végül kabátja parázsló darabján gyújtotta meg. A levegő szinte mozdulatlan volt. Nagy hópelyhek hullottak az égből, a nap már a horizont felé hajlott. A lángoló épület látványa a hóeséssel és a délutáni nap fényeivel együtt festői képpé állt össze.
+
+Jüra, szájában a cigarettával, lassan elindult visszafelé.

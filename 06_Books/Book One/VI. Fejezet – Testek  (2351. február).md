@@ -1,0 +1,188 @@
+Jüra egyik lába a párkányon pihent, könyökét a térdére támasztotta, cigarettája parázsló végéből lassú füst kígyózott az éjszakai levegőbe. A hólepte háztetőn a város fényeit fürkészte, mintha választ keresne valamire, ami túl régen feszítette belülről. A távolban szirénák sírtak, a reklámok hideg színei szivárványos árnyékot vetettek az acélra és betonra.
+
+A csendet nehéz léptek törték meg mögötte. Az alak nem viselt ruhát, fémből kovácsolt lábai minden mozdulatnál éles koppanással figyelmeztették a világot a jelenlétére. Jüra nem fordult hátra.
+
+– Mi a baj? – szólalt meg Emiko hangja, a droid torzított hangszóróján keresztül.
+
+– Mi nem? – felelte Jüra fáradt sóhajjal. – A város tele van konténerekkel. Nem árukkal… emberekkel. Olykor élve, olykor halva szállítják őket.
+
+Emiko hallgatott. Csak a szél zúgása válaszolt, mintha az éjjel is nyugtalankodna.
+
+– Miért szaporodtak el ennyire az utóbbi években? – Jüra szeme összeszűkült, ahogy a fényekben villogó horizontot kémlelte. – A merénylet előtt is volt sötétség, de ennyi sosem. Most már szinte hetente találnak maradványokat…
+
+– Talán a kartelleknek lett új bizniszük a feketepiacon – vetette fel Emiko.
+
+– Ez nem implantátum. Nem kibernetikus protézis. Ezek… szervek. Emberi részek. – Jüra hangja kemény volt, szinte fenyegető. – De kinek kellenek emberi szervek, amikor a legtöbb helyen már szintetikus pótlékot használnak?
+
+Emiko szavai lassan csaptak a levegőbe, mintha maga is félt volna kimondani:  
+ – Mi van, ha kórházak vásárolják fel őket? Olyan intézmények, mint ahol téged is összeraktak?
+
+Jüra elhallgatott. A cigaretta izzása parányi vörös fényként pulzált az ujjaiban.
+
+– Lehet… – mondta végül. – De ha titokban embereket gyógyítanak, honnan jön ennyi sérült? Ennyi haldokló?
+
+– Kívülről hozhatják őket. – felelte Emiko halkan, de határozottan. – Talán a kormány gyártja a sebesülteket… hogy aztán a maradványokból új szörnyeket faragjon. Olyanokat, amilyenek minket is megtámadtak.
+
+Jüra ekkor lassan megfordult. A szájából kilógott cigaretta parázsló vége pislákolt a hideg szélben. Hunyorogva nézett a droidra.
+
+– Ezt el tudnám hinni. – Arca kemény volt, de hangjában ott bujkált a gúnyos keserűség. – Az ügynökök, akiket régen utánam küldtek… profik voltak. Kiképzettek, felszereltek. Most? Ezek már nem emberek, csak gyilkológépek. Mint takarítók. Olcsó utánzatok.
+
+– Talán így próbálnak spórolni – felelte Emiko.
+
+– Akkor ideje utánajárnunk. – Jüra elnyomta a cigarettát a párkány szélében, majd a droid vállára tette a kezét. – Nem nézhetjük tétlenül.
+
+Ahogy elindultak a lépcsőház felé, Jüra megállt egy pillanatra, mintha valami eszébe jutott volna.
+
+– Kell neked egy új test – mondta halkan, de olyan határozottsággal, hogy a szavak súlya szinte a levegőt is összeroppantotta.
+
+– És honnan szereznél jobb alkatrészeket? – kérdezte Emiko.
+
+– Ismerek valakit, aki tud segíteni. – Jüra elindult lefelé a lépcsőn, léptei tompán kongtak a fém fokokon.
+
+Az útjuk Emiko lakásáig tartott. Ott Jüra megállt, tekintetét a lány szemébe fúrta.
+
+– Te gyűjts információt a konténerekről. Tudd meg, kik állnak mögötte. Én közben felkeresem az embert, aki adhat nekünk testet… és erőt.
+
+Emiko közelebb lépett, lábujjhegyre állt, és játékos, de gyengéd puszit nyomott Jüra arcára.
+
+– Rendben, főnök – mosolygott.
+
+Jüra kilépett a lakásból, majd a csatornák felé vette az irányt. A földalatti hálózat koszos, nyirkos alagútjai úgy fogadták, mint rég látott gyermeket. A félhomályban ösztönösen mozgott, mintha valami láthatatlan erő vezette volna.
+
+Hosszú sétálás után egy hatalmas vasajtóhoz ért. A rozsdás felirat szerint egy régi víztározó bejárata volt. A felületén golyónyomok tarkították a fémet.
+
+Jüra a panelhez lépett, és beütött egy kódot. Semmi. Újat próbált. Egy vörös fény villant fel a kamera mellett.
+
+– Állj a kamera elé – szólt egy hang. – Lássam az arcodat.
+
+A felismerés után az ajtó csikorgó hanggal tárult ki, mögötte vakító narancs fény ömlött a sötét alagútba.
+
+A kapu mögött egy földalatti város tárult fel, ameddig a szem ellát. Több száz tonnás oszlopok tartották a mennyezetet, a magasban örök sötét terült el. A házak kicsik voltak, tömöttek, szorosan egymásra épülve. Az egész hely egy önálló világnak tűnt, ahol a felszín szabályai sosem érvényesültek.
+
+Jüra lesétált a hosszú lépcsősoron, és a házak között keresni kezdett. Végül egy garázs szerű helyiséghez ért, ahol egy férfi ült robotkézzel, a tévét bámulva.
+
+– Szia, [[Afar]]. Édesapádat keresem – szólalt meg Jüra halkan.
+
+Afar pár pillanatig hallgatott, szeme a tévén maradt, csak a szája rándult meg. – Apám meghalt. Tudnád, ha nem tűntél volna el. – A szavak savanyúan csúsztak ki belőle.
+
+– Részvétem, Afar. Sajnálom, ami történt – válaszolta Jüra, de most valahogy még komorabb volt, mint általában.
+
+– Ja, ja, sajnálkozni mindenki tud. De hol van bárki, amikor tényleg szükség lenne rá? – csattant fel Afar. 
+
+– Hogyan halt meg?
+
+– Rák. Tudod, mi okozta? A festékpor a tüdejében. Nem sokkal a te kis tüntetéseid előtt diagnosztizálták. – Megvillant a keserűség a hangjában.
+
+– Bárcsak segíthettem volna…
+
+– Kösz, bazdmeg, most már mindegy. De egyébként senki se segített. Te eltűntél, aztán elfogytak a készleteink, és nem volt pénzünk gyógyszerekre. Fájdalmak között hunyt el. – Afar ekkor nézett először egyenesen Jürára. – Nicsak, de megváltoztál. Mi történt, hogy ennyire más lettél?
+
+– Hosszú történet. De nyomós oka volt a távollétemnek – felelte Jüra szűkszavúan.
+
+– Akkor majd elmeséled később. Most inkább mondd: miért jöttél? – kérdezte Afar, a hangja már kevésbé volt maró, inkább kíváncsi.
+
+– Szeretnék építeni egy eddigieknél is erősebb, gyorsabb és halkabb droidot. Emikónak.
+
+Afar szeme megvillant, gyanakodva hunyorgott. Aztán felállt, odalépett egy sarokhoz, és félrehúzott egy piszkos lepedőt. A mögötte rejtőző műhely fémes, olajszagú levegőt árasztott.
+
+– Alkatrészeket keresel hozzá, vagy egyben szeretnéd? – kérdezte.
+
+– Az mindegy – vont vállat Jüra.
+
+– Akkor kövess\! – intett Afar.
+
+Eközben Emiko a gépe előtt ült, ujja villámgyorsan kopogott a billentyűzeten. Az incidensek helyszíneit analizálta, próbálta feltörni a biztonsági kamerák felvételeit. De az adatbázisok hiányosak voltak: pontosan azokról a napokról hiányzott minden, amikor a konténerek érkeztek. Nem csak a képek, de még a szállítási naplók is lyukasak voltak – se nevek, se címek, se járműazonosítók.
+
+Mintha valaki szándékosan kivágta volna az egészet.
+
+– Mi a fene folyik itt? – morogta halkan, aztán nagyot sóhajtott. Felállt, nyújtózott, majd kiment vízért. A konyhapulton támaszkodva kortyolt bele a pohárba, és úgy érezte, mintha a semmi súlya nehezedne rá. A képernyőn nem maradt más, csak az üres adatbázis, mint egy ementáli sajt.
+
+Visszaült, de a kábeleket már nem volt kedve újra a fejébe dugni. Csak bámulta a monitor hideg fényét.
+
+Ekkor megcsörrent a bejövő hívás. Jüra volt az.
+
+– Sikerült találnod valamit? – kérdezte Emiko.
+
+– Az nem kifejezés. Ez minden eddiginél jobb – válaszolta Jüra, próbálva elrejteni az izgatottságot a hangjában.
+
+A kép kitágult: Jüra egy két méter magas droid előtt állt. A gép izomrost-szerű hidraulikus pszeudo-izomzattal mozdult, váza megerősített szénacélból készült, borítása szénszálas kompozit. Kezei és talpai gumival párnázottak, szemei helyén katonai felvevőegységek izzottak.
+
+– Ezt egy kísérleti labor parkolójából emelték el – magyarázta Afar. – Eredetileg a falon kívüli kutatásokhoz, felderítésekhez és konfliktuskezeléshez tervezték. Állítólag a sugárzásnak is ellenáll egy ideig.
+
+Amint Emiko meghallotta, szinte felugrott a székről, annyira izgatott lett, hogy belesikított a telefonba.
+
+– Héj\! – kapott a füléhez Jüra. – Ne sikíts már, megsüketülök\!
+
+– Bocsi, bocsi\! – Emiko nevetett, de a szeme csillogott. – Már csak az a kérdés, hogyan hozzuk haza. Ez a dög lehet vagy kétszáz kiló. Vajon rá tudok kapcsolódni távolról? – kérdezte reménykedve.
+
+– Nem hiszem – vágta közbe Afar. – Katonai szintű védelem. Ha erőlteted, valamelyik oldalon biztos kisül.
+
+– Akkor odamegyek, és szétkapjuk – jelentette ki Emiko.
+
+– Lassan a testtel\! – emelte fel a kezét Afar. – Ki mondta, hogy itt szívesen látnak téged?
+
+– Nem emlékszem, hogy tettem volna bármit is, ami miatt ne lennék szívesen látva – felelte Emiko, a hangja acélosan csengett a vonal másik oldalán.
+
+– Tenni se tettél semmit azért, hogy szívesen lássanak itt. És amúgy sem szeretjük a kívülállókat – vetette oda Afar.
+
+– Gondold át, kit hívsz kívülállónak – vágott vissza Emiko. – A ti közösségetek fele is a falon túlról jött, és azóta se csinálnak mást, csak lopnak a felszínről meg a szemetet túrják.
+
+– Na idefigyelj, te kis szarházi – csattant fel Afar, hangja remegett a dühtől. – Tudod te egyáltalán, mi kellett ahhoz, hogy ezt a helyet itt lent felépítsük? Van fogalmad róla, mibe került megőrizni mindezt az embereknek? Gondoltál te erre egyáltalán…
+
+– Örülhetsz, hogy egyáltalán van hol laknod, öreg\! – vágott közbe Emiko, szeme villámokat szórt. – Ha Jüra nem kér meg engem, és én nem törlöm le azt a helyet a térképről, akkor most droidok százai lőnék lyukasra a segged, mindenki mással együtt. Ha én nem írom újra a csatornahálózat és a szellőzők rendszerét, akkor most egy lábnyom se maradt volna abból, amit ott építettetek\!
+
+Szavai, mint pofonok, pattogtak a levegőben. Csend telepedett rájuk.
+
+– Úgyhogy odamegyek, és elhozom, ami az enyém – zárta le Emiko. – Jüra, mennyi az annyi?
+
+– Tizenkét millió – mondta higgadtan Jüra.
+
+Afar épp ekkor kapott értesítést egy bejövő tranzakcióról. Szeme kikerekedett: tizenkét millió kredit már ott is volt a számláján. Lassan Jürára nézett, majd elismerően felnevetett.
+
+– Azért ebben a kiscsajban van kurázsi\! – mondta. – Ez már tetszik\!
+
+Pár órával később Jüra bekísérte Emikót a nagy kapun. A nehéz ajtó nyikorokgva bezáródott mögöttük, bent fém és olaj szaga lengte be a levegőt, majd együtt Afar műhelyéhez érkeztek.
+
+Emiko odalépett Afarhoz. – Ne haragudj az előzőért. Nem volt szép tőlem, ahogy beszéltem veled – mondta csendesen, de határozottan.
+
+– Nekem sem kellett volna úgy beszélnem – felelte Afar, hangja most puhább volt. – Legyen hát béke\! – Kezét nyújtotta.
+
+Összeért a tenyerük, a kézfogás erős, megbékélő gesztus volt. A levegő feszessége egy pillanatra elengedett.
+
+Emiko körbesétálta az inaktív droidot. Ujjai végigsimították a hideg fémet, közben már számolt magában. Aztán elővett egy listát, és átadta Jüra-nak. – Erre mind szükség lesz. – Hangjában egyszerre csengett a mérnöki pontosság és a gyermeki izgatottság.
+
+Néhány óra múlva megérkeztek a kellékek. Onnantól a műhely egyetlen lüktető gépként működött: a fémek csattogtak, a szikrák pattogtak, a hegesztőpisztoly kék villanásai táncoltak a falakon. Jüra és Emiko szinte szótlanul dolgoztak, olyan összhangban, mintha mindig is együtt építettek volna. Afar néha hátrébb húzódott, a karját összefonta, de a szemében ott villogott az elismerés.
+
+Minden felesleges részt eltávolítottak. Az új irányítórendszer beépítése közben Emiko ujja megállás nélkül járt a billentyűzeten: önálló döntéshozó algoritmusokat illesztett be, és távoli vezérlési protokollokat épített a rendszerbe. Jüra közben a hidraulikus izomrostokat állította, hogy a droid ne csak erős, de mozgékony is legyen. Emiko külön gondoskodott róla, hogy soha ne legyen teljesen védtelen, így egy ideiglenes leállás esetén is működésben marad majd az önvédelmi program.
+
+Másfél nap telt el. A levegőben fémreszelék, olaj és fáradtság keveredett. A szemük vörös volt az álmatlanságtól, de a lelkesedésük nem lankadt.
+
+– A többit majd otthon megcsinálom – sóhajtott végül Emiko, hátradőlve. Szemei fáradtak voltak, de csillogtak.
+
+Búcsúzáskor odalépett Afarhoz. – Köszönök mindent – mondta őszintén.
+
+Afar bólintott. – Most már látom, tényleg tudod, mit csinálsz. Vigyázz magadra.
+
+Otthon Emiko végre magára maradt a géppel. Rácsatlakozott, elindította a távoli vezérléshez szükséges programokat, majd hátradőlt. A kapcsolódás első pillanatai teljesen újak voltak számára: fülében furcsa, fémes csengés, torkán végigszaladó apró elektromos lüktetések. Megborzongott, izgatottság áradt szét a testében.
+
+Amikor megérkezett az első képi jel, kis híján felsikoltott. Aztán jött a hang, majd a térszkennelési csatorna is. Mintha egyszerre több valóságban látott és érzett volna. Nem hasonlított semmire, amit eddig tapasztalt.
+
+A droid lassan felállt az asztalról. Ujjait mozgatva vizsgálta saját kezét, majd ugrott egyet. A fémes test könnyedén mozdult, szinte emberien. Emiko csak bámulta, csodálattal.
+
+– Tessék, ettől kevésbé lesz feltűnő – jegyezte meg Afar, és rádobott egy nagy, zöld pokrócot. A droid így egy magas, görnyedt koldushoz hasonlított.
+
+A gép meghajolt, majd Jüra kíséretével elindult kifelé. Útközben Emiko a vezérlésen keresztül próbálgatta a képességeit.
+
+– Ez elképesztő – suttogta, a hangja reszketett az izgalomtól.
+
+– Gondoltam, hogy tetszeni fog – mosolygott Jüra, de a tekintete folyamatosan pásztázta a sötét folyosót.
+
+A csendet lépések törték meg. Először távoli visszhangként érkeztek, majd egyre közelebb. A folyosó másik végén árnyak rajzolódtak ki, és hamarosan egy kisebb banda tűnt elő: baseball ütők, kések és rozsdás vascsövek voltak kezükben.
+
+– Szép fogás\! – vigyorgott a vezetőjük, fogai között cigaretta. – De sajnos nem élvezitek sokáig. Na, adjátok át gyorsan a droidot\!
+
+Jüra tekintete végigfutott rajtuk. Nem harag, inkább fáradt szánalom tükröződött benne. Lassan felemelte a fejét, a lámpára nézett, majd a droidra. Egyetlen bólintás.
+
+Emiko megértette. Felkapott egy követ, és a következő pillanatban szétrobbantotta a lámpaizzót.
+
+A folyosó azonnal sötétségbe borult.
