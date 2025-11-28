@@ -3,5 +3,6 @@
   "cssTheme": "Ukiyo",
   "interfaceFontFamily": "Nunito",
   "textFontFamily": "Nunito",
-  "baseFontSizeAction": true
+  "baseFontSizeAction": true,
+  "baseFontSize": 19
 }
