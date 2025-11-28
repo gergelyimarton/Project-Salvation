@@ -1,4 +1,4 @@
-#### **Felső kör / Senatus:**
+#### **Felső kör / Szenátus:**
 
 * Politikusok + megmaradt nagyvállalatok vezetői. Luxusnegyedekben élnek, az égig érő tornyok tetején. Genetikailag javított testek, implantátumok, mesterséges hosszú élet. Mindenük megvan, de paranoia uralja őket, mert tudják, hogy a nép gyűlöli őket.
 

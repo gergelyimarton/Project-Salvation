@@ -1,6 +1,10 @@
+---
+tags:
+  - MainCharacter
+---
 ### **Személyiség**
 
-Alapvető jellemzők és motivációk:
+**Alapvető jellemzők és motivációk:**
 
 * **Intelligens és zseniális hacker:** Képes banki titkosításokat feltörni, kormányzati rendszereket manipulálni, a digitális hálózatokkal szinte eggyé válni.
 
@@ -12,21 +16,20 @@ Alapvető jellemzők és motivációk:
 
 * **Analitikus és stratégiai gondolkodású:** Mindig több lépéssel előrébb jár, képes komplex helyzetek gyors kiértékelésére, taktikai tervezésre, akár a harcban, akár a hackelésben.
 
-Érzelmi világ:
-
+**Érzelmi világ:**
 * Gyász és veszteség mélyen beágyazódva, de képes kontrollálni az érzelmeit, amikor a helyzet megkívánja.
 
 * Erős kötődés Jürához, aki motivációt és érzelmi stabilitást biztosít számára.
 
 * Frusztrált a társadalmi és politikai környezettel, a város brutalitásával szemben, de nem adja fel a küzdelmet.
 
-Fizikai és technológiai adottságok:
+**Fizikai és technológiai adottságok:**
 
 * Beépített csatlakozók és szemimplantátumok lehetővé teszik számára a közvetlen kapcsolatot digitális rendszerekkel.
 
 * Magas stressz- és adrenalinterhelést képes kezelni, koncentrációja extrém helyzetekben is fennmarad.
 
-Társas kapcsolatok:
+**Társas kapcsolatok:**
 
 * Kevés emberrel tart fenn szoros kapcsolatot, bizalma korlátozott.
 
@@ -37,7 +40,7 @@ Emiko egy rendkívül intelligens, technológiailag integrált, túlélő és st
 
 ### **Kinézet**
 
-Emiko körülbelül 170 cm magas és 30-as évei elején jár. Törékeny, mégis atletikus testalkatú. Bőre enyhén sápadt, sima és puha tapintású, arcán nincs nyoma ráncoknak. Eredetileg fekete haja erősen hullámos, göndörödő; vastag szálú, egészséges és fényesen csillogó. Elülső két tincsét élénk lilára festi, ami finoman keretezi az arcát. Kerek szemüveget visel, ami kiemeli különleges, kibernetikus szemeit: a szemfehérje mélyfekete, pupillája szintén fekete, míg az írisz a hajtincseihez illően lila árnyalatban ragyog. Szemei enyhén lefelé ívelnek, melankolikus, szomorú hatást keltve.
+Emiko körülbelül 170 cm magas és 20-as évei végén jár. Törékeny, mégis atletikus testalkatú. Bőre enyhén sápadt, sima és puha tapintású, arcán nincs nyoma ráncoknak. Eredetileg fekete haja erősen hullámos, göndörödő; vastag szálú, egészséges és fényesen csillogó. Elülső két tincsét élénk lilára festi, ami finoman keretezi az arcát. Kerek szemüveget visel, ami kiemeli különleges, kibernetikus szemeit: a szemfehérje mélyfekete, pupillája szintén fekete, míg az írisz a hajtincseihez illően lila árnyalatban ragyog. Szemei enyhén lefelé ívelnek, melankolikus, szomorú hatást keltve.
 
 Ajka telt és csókos, természetes rózsaszín, alsó ajkában egy vertical labret piercing csillan. Szemöldöke különleges: belső része erőteljesebb, kifelé fokozatosan elhalványul, így a külső fele szinte láthatatlan.
 

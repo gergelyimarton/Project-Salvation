@@ -1,0 +1,220 @@
+{
+  "main": {
+    "id": "0ba2d8284b922a50",
+    "type": "split",
+    "children": [
+      {
+        "id": "0d079db0be3d3300",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bbad90abd3b75505",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "04_Timeline/2347-2350.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2347-2350"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "947fcf88d0d6f18c",
+    "type": "split",
+    "children": [
+      {
+        "id": "c6f51a8664bcfc1f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "252990cb5673ce7a",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "f93bd25d031b19e0",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "632e478f6b3079bd",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 377.5
+  },
+  "right": {
+    "id": "a80913a4baa3c05b",
+    "type": "split",
+    "children": [
+      {
+        "id": "89616461581234ce",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0b48c054ef18fb63",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "cb5532aaee22a9dc",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "70a9ab36551812f9",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "45993e1ac424ec33",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "634a0936aa453c2e",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "bbad90abd3b75505",
+  "lastOpenFiles": [
+    "01_Characters/Főszereplők/Emiko.md",
+    "04_Timeline/2330.md",
+    "04_Timeline/2350.md",
+    "04_Timeline/2352.md",
+    "04_Timeline/2350-2351.md",
+    "04_Timeline/2340-2350.md",
+    "04_Timeline/2330-2340.md",
+    "01_Characters/Főszereplők/Jüra.md",
+    "04_Timeline/2347-2350.md",
+    "04_Timeline/2335.md",
+    "04_Timeline/2332-2234.md",
+    "06_Books/Book One/1. Fejezet – Jelek  (2350. november).md",
+    "06_Books/Book One/4. Fejezet – Találkozás  (2351. január).md",
+    "06_Books/Book One/3. Fejezet – Egy régi szoba  (2351. január).md",
+    "06_Books/Book One/2. Fejezet – A fal  (2350. december).md",
+    "04_Timeline/2325-2330.md",
+    "04_Timeline/2325-2328.md",
+    "04_Timeline/2322-2325.md",
+    "04_Timeline/2320.md",
+    "04_Timeline/2313-2323.md",
+    "04_Timeline/2312.md",
+    "04_Timeline/2353.md",
+    "04_Timeline/2310-2313.md",
+    "07_Assets/Visual references/Emiko.png",
+    "07_Assets/Visual references/Jüra.png",
+    "07_Assets/Visual references/Null.png",
+    "07_Assets/Visual references/Tommy cartoon.png",
+    "07_Assets/Visual references/Tommy realistic.png",
+    "00_RAW/Character Ideas/Tommy.md",
+    "01_Characters/Mellékszereplők/Afar.md",
+    "00_RAW/Weapon Ideas",
+    "00_RAW/Character Ideas",
+    "02_City/Vallás & Ideológia.md",
+    "Emiko hálója.canvas"
+  ]
+}

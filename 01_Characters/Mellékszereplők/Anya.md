@@ -1,3 +1,8 @@
+---
+tags:
+  - SideCharacter
+---
+
 ### **Eredete és környezete**
 
 Anya a Kápolna névre hallgató kórház és kutatóintézet világa felől érkezik – abból a steril, gépek zúgásától telt térből, ahol embereket már nem egyszerűen gyógyítanak, hanem újraépítenek. Ez a közeg formálta őt: műtőfények, adatáramok, biotechnológiai protokollok, és azon életek csendes súlya, akiket nem tudott megmenteni.

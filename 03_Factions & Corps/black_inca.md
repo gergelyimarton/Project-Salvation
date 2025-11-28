@@ -1,1 +1,6 @@
+---
+tags:
+  - Faction
+---
+
 Fejvadász klán

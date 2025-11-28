@@ -1,3 +1,8 @@
+---
+tags:
+  - Corp
+---
+
 YMANATICS nem csak technológia — ők az állami rettegés kifinomult gyártósora. Hivatalosan implantátumgyártó; valójában titkos fegyverzet- és pszichológiai eszköztár, amit a kormány megbízásából arra használnak, hogy a város peremén élőket „kitisztítsák”. Nem a közbiztonság javítása a cél: a program célja az elnyomás, a félelem és a terror fenntartása úgy, hogy senki ne vonhassa felelősségre a megrendelőt vagy a kivitelezőt.
 
 A bevallott „közrend helyreállítása” mögött a valós forgatókönyv egyszerű és kegyetlen: a falon kívülről beengedett harcosok testébe beültetett modulokból lassan, fájdalmasan teremtenek „szörnyeket” — lényeket, amelyek szimatolják, üldözik és likvidálják azokat, akiket a hatalom hasznavehetetlennek, veszélyesnek vagy kellemetlennek ítél. A parancsokat sosem aláírás formájában adják: protokollok, kivételi rendeletek és árnyékhálózatok biztosítják, hogy sem a kormány, sem YMANATICS ne legyen hivatalosan azonosítható.

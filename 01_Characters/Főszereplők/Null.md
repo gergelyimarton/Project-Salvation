@@ -1,3 +1,8 @@
+---
+tags:
+  - MainCharacter
+---
+
 Null egy kétméteres, körülbelül 200 kilogrammos, hiper-modern katonai felderítő droid, akit egy elit hacker irányít titkos missziók végrehajtására egy disztópikus sci-fi világban. Teste az emberi anatómiát idézi, de minden vonása a funkcionalitásra van optimalizálva: gyors, mozgékony és csendes, ugyanakkor halálosan veszélyes. Emiko irányítja titokban.
 
 Fej és érzékelők:

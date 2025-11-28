@@ -1,3 +1,8 @@
+---
+tags:
+  - Faction
+---
+
 A város tüdejében ott élnek azok, akik nem a törvényre, hanem a saját erejükre és hírnevükre építenek: a maffiakartellek, alvilági klánok és szervezett bandahálózatok. Formálisan üldözöttek, valójában a hatalom kiszervezett végrehajtói: a kormány őket béreli fel a „piszkos” munkákra — emberrablásra, zsarolásra, kábítószer-kereskedelemre, fegyvercsempészetre és minden olyan feladatra, amihez túl átlátszó lenne a rendőrséget vagy a hadsereget mozgósítani. 
 
 Ezek a szervezetek kétszínű mesterműként működnek. Egyik oldalon jótékonykodnak: ételt osztanak, játszóteret újítanak fel, klinikákat tartanak fenn a szegénynegyedekben. Ezek a gesztusok valódi hálát keltenek, és sok ember szemében emberibbé teszik őket, mint a hideg és távolságtartó államot. Másik oldalon azonban nyomasztó erőt képviselnek: védelmi pénzt szednek, láthatatlan adót vetnek ki a közösségekre, és fenyegetéssel kényszerítik ki a lojalitást. Az emberek jól tudják: aki elfogadja a segítségüket, az már a hálózat része, és abból nincsen kilépés.  

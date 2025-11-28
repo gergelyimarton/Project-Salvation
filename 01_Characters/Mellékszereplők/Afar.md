@@ -1,3 +1,8 @@
+---
+tags:
+  - SideCharacter
+---
+
 ### **Eredete és környezete**
 
 Afar a föld alatti csatornarendszerek és mélyben kialakult rejtett városok lakója. Vérvonala a falon túlról származik, ezért mindig is kívülállóként kezelték. A labirintusszerű alagutak, az olajszagú levegő és a rozsdás infrastruktúra az igazi közege – ott mozog a legtermészetesebben.
