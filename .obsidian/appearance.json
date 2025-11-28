@@ -2,5 +2,6 @@
   "theme": "obsidian",
   "cssTheme": "Ukiyo",
   "interfaceFontFamily": "Nunito",
-  "textFontFamily": "Nunito"
+  "textFontFamily": "Nunito",
+  "baseFontSizeAction": true
 }
