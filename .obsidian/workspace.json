@@ -35,7 +35,8 @@
               "title": "11. fejezet -  (2351. április)"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -108,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "04_Timeline/2347-2350.md",
+                "file": "06_Books/Book One/11. fejezet -  (2351. április).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +119,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 2347-2350"
+              "title": "Backlinks for 11. fejezet -  (2351. április)"
             }
           },
           {
@@ -127,12 +128,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "04_Timeline/2347-2350.md",
+                "file": "06_Books/Book One/11. fejezet -  (2351. április).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 2347-2350"
+              "title": "Outgoing links from 11. fejezet -  (2351. április)"
             }
           },
           {
@@ -196,10 +197,10 @@
       "bases:Create new base": false
     }
   },
-  "active": "bbad90abd3b75505",
+  "active": "8f02a1489063875f",
   "lastOpenFiles": [
-    "04_Timeline/2350.md",
     "04_Timeline/2347-2350.md",
+    "04_Timeline/2350.md",
     "04_Timeline/2322-2325.md",
     "04_Timeline/2320.md",
     "04_Timeline/2312.md",
