@@ -3,6 +3,7 @@ tags:
   - Location
 ---
 
+(Deepway) – földalatti város
 ## **Általános áttekintés**
 Mélyút egy elhagyott víztározóból és csatornahálózatból kialakított földalatti település. A város a felszín alatt helyezkedik el, egy több szintből álló, kiterjedt üreg- és alagútrendszerben. Jellemzője a gyenge, narancsszínű mesterséges világítás, a nyirkos környezet és az erősen improvizált infrastruktúra.
 

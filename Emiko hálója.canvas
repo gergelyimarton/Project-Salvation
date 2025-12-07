@@ -4,12 +4,12 @@
 		{"id":"579aa31545268026","type":"text","text":"[[black_inca]]","x":255,"y":-297,"width":250,"height":60,"color":"2"},
 		{"id":"51b5de17b7cc3a57","type":"text","text":"[[YMANATICS]]","x":-720,"y":-540,"width":297,"height":60,"color":"2"},
 		{"id":"426e4741980c5c04","type":"text","text":"Gorilla szerű kiborgok","x":-760,"y":-120,"width":300,"height":55},
-		{"id":"19c5b3154c1bca22","type":"text","text":"Sáska szerű kiborgok","x":-1040,"y":-297,"width":280,"height":97},
+		{"id":"19c5b3154c1bca22","type":"text","text":"Sáska szerű kiborgok","x":-1040,"y":-297,"width":280,"height":60},
 		{"id":"00bcc90142abbb8d","type":"text","text":"Az idegen a felüljárón","x":720,"y":-90,"width":280,"height":50},
 		{"id":"c8399bc563ced3d7","type":"text","text":"Ismeretlen hacker","x":505,"y":5,"width":250,"height":60},
 		{"id":"6703a5348839aad3","type":"text","text":"Szemtanúk","x":210,"y":35,"width":170,"height":60},
 		{"id":"201fdc4aba40bd91","type":"text","text":"[[Maffia]] / kartellek","x":-160,"y":-510,"width":250,"height":60,"color":"2"},
-		{"id":"6bf1c51d7d4c6501","type":"text","text":"Megbízó","x":-320,"y":-740,"width":160,"height":50,"color":"1"}
+		{"id":"6bf1c51d7d4c6501","type":"text","text":"Megbízó","x":-340,"y":-780,"width":160,"height":50,"color":"1"}
 	],
 	"edges":[
 		{"id":"680d2d532ace827e","fromNode":"51b5de17b7cc3a57","fromSide":"bottom","toNode":"426e4741980c5c04","toSide":"top","toEnd":"none","color":"1","label":"készít"},
