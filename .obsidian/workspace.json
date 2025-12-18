@@ -13,12 +13,29 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "06_Books/Book One/12. Fejezet - A Folyosó (2351. április).md",
+                "file": "06_Books/Book One/13. Fejezet - (2352. április).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "12. Fejezet - A Folyosó (2351. április)"
+              "title": "13. Fejezet - (2352. április)"
+            }
+          },
+          {
+            "id": "83ffaa76ce42f1c3",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Emiko hálója.canvas",
+                "viewState": {
+                  "x": -20,
+                  "y": -342.5,
+                  "zoom": -1.0577154978562873
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Emiko hálója"
             }
           }
         ]
@@ -78,7 +95,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 377.5
+    "width": 322.50484466552734
   },
   "right": {
     "id": "a80913a4baa3c05b",
@@ -184,12 +201,21 @@
   },
   "active": "8f02a1489063875f",
   "lastOpenFiles": [
+    "Emiko hálója.canvas",
+    "02_City/Locations/Mélyút.md",
     "06_Books/Book One/11. Fejezet - Árnyak a mélyben (2351. április).md",
-    "06_Books/Book One/12. Fejezet - A Folyosó (2351. április).md",
     "06_Books/Book One/13. Fejezet - (2352. április).md",
+    "05_Lore/Isten keze.md",
+    "06_Books/Book One/12. Fejezet - A Folyosó (2351. április).md",
+    "01_Characters/Főszereplők/Null.md",
+    "04_Timeline/2350.md",
+    "04_Timeline/2350-2351.md",
+    "04_Timeline/2352.md",
+    "01_Characters/Főszereplők/Emiko.md",
+    "01_Characters/Főszereplők/Jüra.md",
+    "07_Assets/Visual references/Tommy realistic.png",
     "00_RAW/Character Ideas/Mirko.md",
     "02_City/Locations/A Folyosó.md",
-    "02_City/Locations/Mélyút.md",
     "06_Books/Book One/10. Fejezet - Jelvesztés (2351. április).md",
     "06_Books/Book One/4. Fejezet – Találkozás  (2351. január).md",
     "06_Books/Book One/8. Fejezet - Köztes állapot  (2351. március).md",
@@ -197,8 +223,6 @@
     "06_Books/Book One/9. Fejezet - Szimulált kegyelem (2351. március).md",
     "06_Books/Book One/7. Fejezet – Fejvadászok  (2351. február).md",
     "06_Books/Book One/5. Fejezet – Az első dominó  (2351. január).md",
-    "Emiko hálója.canvas",
-    "07_Assets/Visual references/Tommy realistic.png",
     "07_Assets/Visual references/Tommy cartoon.png",
     "07_Assets/Visual references/Null.png",
     "07_Assets/Visual references/Jüra.png",
@@ -210,14 +234,6 @@
     "06_Books/Book One/Reports/Chapter 10 – Jelvesztés (Signal Loss) – Analysis Report.md",
     "06_Books/Book One/Reports/Chapter 9 – Szimulált kegyelem (Simulated Mercy) – Analysis Report.md",
     "06_Books/Book One/Reports/Chapter 8 – Köztes állapot (Liminal State) – Analysis Report.md",
-    "06_Books/Book One/Reports/Chapter 7 – Fejvadászok (Bounty Hunters) – Analysis Report.md",
-    "06_Books/Book One/Reports/Chapter 6 – Testek (Bodies) – Analysis Report.md",
-    "06_Books/Book One/Reports/Chapter 5 – Az első dominó (The First Domino) – Analysis Report.md",
-    "06_Books/Book One/Reports/Chapter 4 – Találkozás (Meeting) – Analysis Report.md",
-    "06_Books/Book One/Reports/Chapter 3 – Egy régi szoba (An Old Room) – Analysis Report.md",
-    "06_Books/Book One/Reports/Chapter 2 – A fal (The Wall) – Analysis Report.md",
-    "04_Timeline/2350.md",
-    "06_Books/Book One/1. Fejezet – Jelek  (2350. november).md",
     "00_RAW/Location Ideas",
     "02_City/Locations",
     "00_RAW/Weapon Ideas",
