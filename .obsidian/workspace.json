@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "06_Books/Book One/13. Fejezet - A csend nem véd meg (2352. április).md",
+                "file": "06_Books/Book One/10. Fejezet - Jelvesztés (2351. április).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "13. Fejezet - A csend nem véd meg (2352. április)"
+              "title": "10. Fejezet - Jelvesztés (2351. április)"
             }
           },
           {
@@ -95,7 +95,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 322.50484466552734
+    "width": 358.50484466552734
   },
   "right": {
     "id": "a80913a4baa3c05b",
@@ -201,12 +201,17 @@
   },
   "active": "8f02a1489063875f",
   "lastOpenFiles": [
+    "06_Books/Book One/Chapter Reports - Individual Analysis.md",
+    "06_Books/Book One/10. Fejezet - Jelvesztés (2351. április).md",
+    "06_Books/Book One/11. Fejezet - Árnyak a mélyben (2351. április).md",
+    "06_Books/Book One/12. Fejezet - A Folyosó (2351. április).md",
+    "06_Books/Book One/13. Fejezet - A csend nem véd meg (2351. április).md",
+    "06_Books/Book One/Reports/Chapter 13 – A csend nem véd meg (Silence Does Not Protect) – Analysis Report.md",
+    "06_Books/Book One/Reports/Chapter 12 - A Folyosó (The Corridor) - Analysis Report.md",
+    "06_Books/Book One/Reports/Chapter 11 – Árnyak a mélyben (Shadows in the Depths) – Analysis Report.md",
     "Emiko hálója.canvas",
     "02_City/Locations/Mélyút.md",
-    "06_Books/Book One/11. Fejezet - Árnyak a mélyben (2351. április).md",
-    "06_Books/Book One/13. Fejezet - A csend nem véd meg (2352. április).md",
     "05_Lore/Isten keze.md",
-    "06_Books/Book One/12. Fejezet - A Folyosó (2351. április).md",
     "01_Characters/Főszereplők/Null.md",
     "04_Timeline/2350.md",
     "04_Timeline/2350-2351.md",
@@ -216,7 +221,6 @@
     "07_Assets/Visual references/Tommy realistic.png",
     "00_RAW/Character Ideas/Mirko.md",
     "02_City/Locations/A Folyosó.md",
-    "06_Books/Book One/10. Fejezet - Jelvesztés (2351. április).md",
     "06_Books/Book One/4. Fejezet – Találkozás  (2351. január).md",
     "06_Books/Book One/8. Fejezet - Köztes állapot  (2351. március).md",
     "06_Books/Book One/6. Fejezet – Testek  (2351. február).md",
@@ -229,11 +233,8 @@
     "07_Assets/Visual references/Emiko.png",
     "07_Assets/Visual references/Distopian street.png",
     "06_Books/Book One/Reports/Chapter 1 – Jelek (Signs) – Analysis Report.md",
-    "06_Books/Book One/Reports/Chapter 11 – Árnyak a mélyben (Shadows in the Depths) – Analysis Report.md",
     "06_Books/Book One/Reports",
     "06_Books/Book One/Reports/Chapter 10 – Jelvesztés (Signal Loss) – Analysis Report.md",
-    "06_Books/Book One/Reports/Chapter 9 – Szimulált kegyelem (Simulated Mercy) – Analysis Report.md",
-    "06_Books/Book One/Reports/Chapter 8 – Köztes állapot (Liminal State) – Analysis Report.md",
     "00_RAW/Location Ideas",
     "02_City/Locations",
     "00_RAW/Weapon Ideas",
