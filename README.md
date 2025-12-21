@@ -20,4 +20,4 @@
 
 [INFO] This story drags you under. 
 
-[CHECK] Press (y/n) to enter.
+[CHECK] Press y to enter.
