@@ -2,24 +2,24 @@
 	"nodes":[
 		{"id":"49ba631b4c48157e","type":"text","text":"Emberkereskedelem / konténerek","x":-340,"y":-20,"width":385,"height":55,"color":"3"},
 		{"id":"579aa31545268026","type":"text","text":"[[black_inca]]","x":255,"y":-297,"width":250,"height":60,"color":"2"},
-		{"id":"51b5de17b7cc3a57","type":"text","text":"[[YMANATICS]]","x":-720,"y":-540,"width":297,"height":60,"color":"2"},
-		{"id":"426e4741980c5c04","type":"text","text":"Gorilla szerű kiborgok","x":-760,"y":-120,"width":300,"height":55},
-		{"id":"19c5b3154c1bca22","type":"text","text":"Sáska szerű kiborgok","x":-1040,"y":-297,"width":280,"height":60},
-		{"id":"00bcc90142abbb8d","type":"text","text":"Az idegen a felüljárón","x":720,"y":-90,"width":280,"height":50},
-		{"id":"c8399bc563ced3d7","type":"text","text":"Ismeretlen hacker","x":505,"y":5,"width":250,"height":60},
-		{"id":"6703a5348839aad3","type":"text","text":"Szemtanúk","x":210,"y":35,"width":170,"height":60},
 		{"id":"201fdc4aba40bd91","type":"text","text":"[[Maffia]] / kartellek","x":-160,"y":-510,"width":250,"height":60,"color":"2"},
-		{"id":"6bf1c51d7d4c6501","type":"text","text":"Megbízó","x":-340,"y":-780,"width":160,"height":50,"color":"1"}
+		{"id":"6bf1c51d7d4c6501","type":"text","text":"Megbízó","x":-340,"y":-780,"width":160,"height":50,"color":"1"},
+		{"id":"19c5b3154c1bca22","type":"text","text":"Sáska szerű kiborgok","x":-1200,"y":-510,"width":280,"height":60},
+		{"id":"426e4741980c5c04","type":"text","text":"Gorilla szerű kiborgok","x":-1100,"y":-400,"width":300,"height":50},
+		{"id":"00bcc90142abbb8d","type":"text","text":"Az idegen a felüljárón","x":780,"y":-347,"width":280,"height":50},
+		{"id":"c8399bc563ced3d7","type":"text","text":"Ismeretlen hacker","x":780,"y":-237,"width":250,"height":60},
+		{"id":"6703a5348839aad3","type":"text","text":"Szemtanúk","x":480,"y":35,"width":170,"height":60},
+		{"id":"51b5de17b7cc3a57","type":"text","text":"[[YMANATICS]]","x":-557,"y":-510,"width":297,"height":60,"color":"2"}
 	],
 	"edges":[
-		{"id":"680d2d532ace827e","fromNode":"51b5de17b7cc3a57","fromSide":"bottom","toNode":"426e4741980c5c04","toSide":"top","toEnd":"none","color":"1","label":"készít"},
-		{"id":"4b0ab4602b4c5875","fromNode":"51b5de17b7cc3a57","fromSide":"bottom","toNode":"19c5b3154c1bca22","toSide":"top","toEnd":"none","color":"1","label":"készít"},
-		{"id":"a642fb45618f8a4c","fromNode":"51b5de17b7cc3a57","fromSide":"bottom","toNode":"49ba631b4c48157e","toSide":"top","color":"1","label":"Felhasználja a \ntesteket (?)"},
-		{"id":"02ed9532aa854803","fromNode":"579aa31545268026","fromSide":"right","toNode":"00bcc90142abbb8d","toSide":"top","toEnd":"none","color":"1","label":"Tagja"},
-		{"id":"f72e76ffd3e7b043","fromNode":"579aa31545268026","fromSide":"right","toNode":"c8399bc563ced3d7","toSide":"top","toEnd":"none","color":"1","label":"Tagja"},
+		{"id":"680d2d532ace827e","fromNode":"51b5de17b7cc3a57","fromSide":"left","toNode":"426e4741980c5c04","toSide":"right","color":"1","label":"készít"},
+		{"id":"4b0ab4602b4c5875","fromNode":"51b5de17b7cc3a57","fromSide":"left","toNode":"19c5b3154c1bca22","toSide":"right","color":"1","label":"készít"},
+		{"id":"02ed9532aa854803","fromNode":"579aa31545268026","fromSide":"right","toNode":"00bcc90142abbb8d","toSide":"left","toEnd":"none","color":"1","label":"Tagja"},
+		{"id":"f72e76ffd3e7b043","fromNode":"579aa31545268026","fromSide":"right","toNode":"c8399bc563ced3d7","toSide":"left","toEnd":"none","color":"1","label":"Tagja"},
 		{"id":"b9d7150c312fbebf","fromNode":"201fdc4aba40bd91","fromSide":"right","toNode":"579aa31545268026","toSide":"top","color":"1","label":"Felbérel"},
 		{"id":"17da972f6b0f5374","fromNode":"579aa31545268026","fromSide":"bottom","toNode":"6703a5348839aad3","toSide":"top","color":"1","label":"Kiiktat"},
-		{"id":"e4793aa6e946f6f5","fromNode":"579aa31545268026","fromSide":"bottom","toNode":"49ba631b4c48157e","toSide":"top","color":"1","label":"Rabol"},
-		{"id":"5f8b0ed541bf3a62","fromNode":"201fdc4aba40bd91","fromSide":"bottom","toNode":"49ba631b4c48157e","toSide":"top","color":"1","label":"Rabol"}
+		{"id":"e4793aa6e946f6f5","fromNode":"579aa31545268026","fromSide":"bottom","toNode":"49ba631b4c48157e","toSide":"right","color":"1","label":"Rabol"},
+		{"id":"5f8b0ed541bf3a62","fromNode":"201fdc4aba40bd91","fromSide":"bottom","toNode":"49ba631b4c48157e","toSide":"top","color":"1","label":"Rabol"},
+		{"id":"1dda95d785abe6ee","fromNode":"49ba631b4c48157e","fromSide":"left","toNode":"51b5de17b7cc3a57","toSide":"bottom","color":"1","label":"Felhasználja a \ntesteket (?)"}
 	]
 }
