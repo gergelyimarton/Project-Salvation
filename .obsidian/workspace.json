@@ -11,17 +11,14 @@
             "id": "8f02a1489063875f",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Emiko hálója.canvas",
-                "viewState": {
-                  "x": 215.3676348222769,
-                  "y": -160.96274967423005,
-                  "zoom": -1.1304955616672734
-                }
+                "file": "01_Characters/Side Characters/Anya.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "Emiko hálója"
+              "icon": "lucide-file",
+              "title": "Anya"
             }
           },
           {
@@ -204,6 +201,11 @@
   },
   "active": "8f02a1489063875f",
   "lastOpenFiles": [
+    "01_Characters/Side Characters/Afar.md",
+    "01_Characters/Side Characters/D2.md",
+    "00_RAW/Character Ideas/Mirko.md",
+    "00_RAW/Character Ideas/Tommy.md",
+    "Emiko hálója.canvas",
     "README.md",
     "06_Books/Book One/Chapters/1. Fejezet – Jelek  (2350. november).md",
     "06_Books/Book One/Chapters/14. Fejezet - (2351. április).md",
@@ -216,23 +218,18 @@
     "06_Books/Book One/Chapters/11. Fejezet - Árnyak a mélyben (2351. április).md",
     "06_Books/Book One/Chapters/12. Fejezet - A Folyosó (2351. április).md",
     "06_Books/Book One/Reports/Chapter 11 – Árnyak a mélyben (Shadows in the Depths) – Analysis Report.md",
-    "Emiko hálója.canvas",
     "02_City/Locations/Mélyút.md",
     "05_Lore/Isten keze.md",
-    "01_Characters/Főszereplők/Null.md",
+    "01_Characters/Main Characters/Null.md",
     "04_Timeline/2350.md",
     "04_Timeline/2350-2351.md",
     "04_Timeline/2352.md",
-    "01_Characters/Főszereplők/Emiko.md",
-    "01_Characters/Főszereplők/Jüra.md",
+    "01_Characters/Main Characters/Emiko.md",
+    "01_Characters/Main Characters/Jüra.md",
     "07_Assets/Visual references/Tommy realistic.png",
-    "00_RAW/Character Ideas/Mirko.md",
     "02_City/Locations/A Folyosó.md",
     "06_Books/Book One/Chapters/4. Fejezet – Találkozás  (2351. január).md",
     "06_Books/Book One/Chapters/8. Fejezet - Köztes állapot  (2351. március).md",
-    "06_Books/Book One/Chapters/6. Fejezet – Testek  (2351. február).md",
-    "06_Books/Book One/Chapters/9. Fejezet - Szimulált kegyelem (2351. március).md",
-    "06_Books/Book One/Chapters/7. Fejezet – Fejvadászok  (2351. február).md",
     "07_Assets/Visual references/Tommy cartoon.png",
     "07_Assets/Visual references/Null.png",
     "07_Assets/Visual references/Jüra.png",
