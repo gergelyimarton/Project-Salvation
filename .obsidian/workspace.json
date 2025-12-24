@@ -13,29 +13,40 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "06_Books/Book One/Chapters/14. Fejezet - Bűntudat és kötelesség (2351. április).md",
+                "file": "06_Books/Book One/Reports/Critical Issues - Deep Dive Analysis.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "14. Fejezet - Bűntudat és kötelesség (2351. április)"
+              "title": "Critical Issues - Deep Dive Analysis"
             }
           },
           {
-            "id": "83ffaa76ce42f1c3",
+            "id": "b189cbacc5832d86",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Emiko hálója.canvas",
-                "viewState": {
-                  "x": -20,
-                  "y": -342.5,
-                  "zoom": -1.0577154978562873
-                }
+                "file": "00_RAW/Story Ideas.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "Emiko hálója"
+              "icon": "lucide-file",
+              "title": "Story Ideas"
+            }
+          },
+          {
+            "id": "6224e238451c13dd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "06_Books/Book One/Chapters/15. Fejezet - (2351. április).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "15. Fejezet - (2351. április)"
             }
           }
         ]
@@ -95,7 +106,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 306.50769424438477
+    "width": 309.5
   },
   "right": {
     "id": "a80913a4baa3c05b",
@@ -201,42 +212,42 @@
   },
   "active": "8f02a1489063875f",
   "lastOpenFiles": [
-    "01_Characters/Side Characters/Afar.md",
-    "06_Books/Book One/Chapters/11. Fejezet - Árnyak a mélyben (2351. április).md",
-    "07_Assets/Visual references/Mirko.png",
-    "07_Assets/Visual references/Jüra.png",
-    "07_Assets/Visual references/Null.png",
-    "07_Assets/Visual references/Emiko.png",
-    "07_Assets/Visual references/Emiko's Apartment.png",
-    "01_Characters/Main Characters/Jüra.md",
-    "01_Characters/Side Characters/Mirko Stanić.md",
-    "06_Books/Book One/Reports/Chapter 12 - A Folyosó (The Corridor) - Analysis Report.md",
-    "01_Characters/Side Characters/Anya.md",
-    "01_Characters/Side Characters/D2.md",
-    "01_Characters/Main Characters/Emiko Narukami.md",
-    "06_Books/Book One/Reports/Chapter 14 - Bűntudat és kötelesség (Guilt and Duty) - Analysis Report.md",
-    "06_Books/Book One/Chapters/14. Fejezet - Bűntudat és kötelesség (2351. április).md",
+    "06_Books/Book One/Reports/Story Analysis - Errors and Improvement Recommendations.md",
+    "06_Books/Book One/Reports/Critical Issues - Deep Dive Analysis.md",
+    "00_RAW/Story Ideas.md",
     "06_Books/Book One/Chapters/15. Fejezet - (2351. április).md",
-    "05_Lore/Z32.md",
-    "05_Lore/Isten szeme.md",
-    "05_Lore/Isten keze.md",
-    "02_City/Locations/Csatornahálózat.md",
-    "02_City/Locations/Mélyút.md",
-    "02_City/Locations/A Folyosó.md",
-    "02_City/Factions.md",
-    "02_City/Religion and Beliefs.md",
-    "02_City/Social Layers.md",
-    "00_RAW/Character Ideas/Mirko.md",
-    "00_RAW/Character Ideas/Tommy.md",
-    "Emiko hálója.canvas",
-    "README.md",
-    "06_Books/Book One/Chapters/1. Fejezet – Jelek  (2350. november).md",
-    "06_Books/Book One/Chapters",
+    "06_Books/Book One/Chapters/9. Fejezet - Szimulált kegyelem (2351. március).md",
+    "06_Books/Book One/Reports/Chapter 9 – Szimulált kegyelem (Simulated Mercy) – Analysis Report.md",
+    "06_Books/Book One/Chapters/4. Fejezet – Találkozás  (2351. január).md",
+    "06_Books/Book One/Chapters/5. Fejezet – Az első dominó  (2351. január).md",
+    "06_Books/Book One/Chapters/6. Fejezet – Testek  (2351. február).md",
+    "06_Books/Book One/Reports/Chapter 6 – Testek (Bodies) – Analysis Report.md",
+    "06_Books/Book One/Chapters/14. Fejezet - Bűntudat és kötelesség (2351. április).md",
+    "06_Books/Book One/Chapters/7. Fejezet – Fejvadászok  (2351. február).md",
+    "06_Books/Book One/Chapters/10. Fejezet - Jelvesztés (2351. április).md",
+    "06_Books/Book One/Reports/Chapter 7 – Fejvadászok (Bounty Hunters) – Analysis Report.md",
     "06_Books/Book One/Chapters/13. Fejezet - A csend nem véd meg (2351. április).md",
-    "06_Books/Book One/Reports/Chapter 13 – A csend nem véd meg (Silence Does Not Protect) – Analysis Report.md",
+    "06_Books/Book One/Chapters/12. Fejezet - A Folyosó (2351. április).md",
+    "06_Books/Book One/Chapters/11. Fejezet - Árnyak a mélyben (2351. április).md",
+    "Emiko hálója.canvas",
+    "06_Books/Book One/Reports/Chapter 12 - A Folyosó (The Corridor) - Analysis Report.md",
+    "06_Books/Book One/Chapters/3. Fejezet – Egy régi szoba  (2351. január).md",
+    "06_Books/Book One/Reports/Chapter 3 – Egy régi szoba (An Old Room) – Analysis Report.md",
+    "06_Books/Book One/Reports/Chapter 5 – Az első dominó (The First Domino) – Analysis Report.md",
+    "06_Books/Book One/Chapters/8. Fejezet - Köztes állapot  (2351. március).md",
+    "06_Books/Book One/Reports/Chapter 8 – Köztes állapot (Liminal State) – Analysis Report.md",
+    "06_Books/Book One/Chapters/2. Fejezet – A fal  (2350. december).md",
+    "06_Books/Book One/Chapters/1. Fejezet – Jelek  (2350. november).md",
+    "07_Assets/Visual references/Jüra.png",
+    "07_Assets/Visual references/Emiko.png",
+    "07_Assets/Visual references/Distopian street.png",
     "07_Assets/Visual references/Tommy realistic.png",
     "07_Assets/Visual references/Tommy cartoon.png",
-    "07_Assets/Visual references/Distopian street.png",
+    "07_Assets/Visual references/Null.png",
+    "07_Assets/Visual references/Mirko.png",
+    "01_Characters/Side Characters/Afar.md",
+    "07_Assets/Visual references/Emiko's Apartment.png",
+    "06_Books/Book One/Chapters",
     "06_Books/Book One/Reports",
     "00_RAW/Location Ideas",
     "02_City/Locations",
