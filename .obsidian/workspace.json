@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "06_Books/Book One/Chapters/14. Fejezet - (2351. április).md",
+                "file": "06_Books/Book One/Chapters/14. Fejezet - Bűntudat és kötelesség (2351. április).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "14. Fejezet - (2351. április)"
+              "title": "14. Fejezet - Bűntudat és kötelesség (2351. április)"
             }
           },
           {
@@ -95,7 +95,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 276.50484466552734
+    "width": 306.50769424438477
   },
   "right": {
     "id": "a80913a4baa3c05b",
@@ -201,8 +201,22 @@
   },
   "active": "8f02a1489063875f",
   "lastOpenFiles": [
-    "01_Characters/Main Characters/Emiko.md",
-    "06_Books/Book One/Chapters/14. Fejezet - (2351. április).md",
+    "01_Characters/Side Characters/Afar.md",
+    "06_Books/Book One/Chapters/11. Fejezet - Árnyak a mélyben (2351. április).md",
+    "07_Assets/Visual references/Mirko.png",
+    "07_Assets/Visual references/Jüra.png",
+    "07_Assets/Visual references/Null.png",
+    "07_Assets/Visual references/Emiko.png",
+    "07_Assets/Visual references/Emiko's Apartment.png",
+    "01_Characters/Main Characters/Jüra.md",
+    "01_Characters/Side Characters/Mirko Stanić.md",
+    "06_Books/Book One/Reports/Chapter 12 - A Folyosó (The Corridor) - Analysis Report.md",
+    "01_Characters/Side Characters/Anya.md",
+    "01_Characters/Side Characters/D2.md",
+    "01_Characters/Main Characters/Emiko Narukami.md",
+    "06_Books/Book One/Reports/Chapter 14 - Bűntudat és kötelesség (Guilt and Duty) - Analysis Report.md",
+    "06_Books/Book One/Chapters/14. Fejezet - Bűntudat és kötelesség (2351. április).md",
+    "06_Books/Book One/Chapters/15. Fejezet - (2351. április).md",
     "05_Lore/Z32.md",
     "05_Lore/Isten szeme.md",
     "05_Lore/Isten keze.md",
@@ -212,10 +226,6 @@
     "02_City/Factions.md",
     "02_City/Religion and Beliefs.md",
     "02_City/Social Layers.md",
-    "01_Characters/Main Characters/Jüra.md",
-    "01_Characters/Side Characters/Anya.md",
-    "01_Characters/Side Characters/Afar.md",
-    "01_Characters/Side Characters/D2.md",
     "00_RAW/Character Ideas/Mirko.md",
     "00_RAW/Character Ideas/Tommy.md",
     "Emiko hálója.canvas",
@@ -223,17 +233,9 @@
     "06_Books/Book One/Chapters/1. Fejezet – Jelek  (2350. november).md",
     "06_Books/Book One/Chapters",
     "06_Books/Book One/Chapters/13. Fejezet - A csend nem véd meg (2351. április).md",
-    "06_Books/Book One/Reports/Chapter 12 - A Folyosó (The Corridor) - Analysis Report.md",
     "06_Books/Book One/Reports/Chapter 13 – A csend nem véd meg (Silence Does Not Protect) – Analysis Report.md",
-    "06_Books/Book One/Chapters/10. Fejezet - Jelvesztés (2351. április).md",
-    "06_Books/Book One/Chapter Reports - Individual Analysis.md",
-    "06_Books/Book One/Chapters/11. Fejezet - Árnyak a mélyben (2351. április).md",
-    "06_Books/Book One/Chapters/12. Fejezet - A Folyosó (2351. április).md",
     "07_Assets/Visual references/Tommy realistic.png",
     "07_Assets/Visual references/Tommy cartoon.png",
-    "07_Assets/Visual references/Null.png",
-    "07_Assets/Visual references/Jüra.png",
-    "07_Assets/Visual references/Emiko.png",
     "07_Assets/Visual references/Distopian street.png",
     "06_Books/Book One/Reports",
     "00_RAW/Location Ideas",

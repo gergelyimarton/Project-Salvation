@@ -22,7 +22,7 @@ Jüra egy posztapokaliptikus-cyberpunk világ lakója, ahol a brutalista betonmo
 
 **Kapcsolatok:**
 
-* **[[Emiko]]:** Kulcsszereplő, érzelmi és taktikai partner. Megbízik benne, és értékeli az intelligenciáját és készségeit.
+* **[[Emiko Narukami]]:** Kulcsszereplő, érzelmi és taktikai partner. Megbízik benne, és értékeli az intelligenciáját és készségeit.
 
 * **[[Afar]] és más szövetségesek:** Bár kapcsolatot tart fenn, a bizalma korlátozott; inkább a kompetenciájuk és a céljaik alapján ítél.
 

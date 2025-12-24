@@ -9,7 +9,11 @@ Afar a föld alatti csatornarendszerek és mélyben kialakult rejtett városok l
 
 ### **Külső megjelenés**
 
-Arab származású, sötét szemű férfi. Fekete haja a halántéknál őszül, szakálla sűrű és mélyfekete. Bőre természetesen sötét, munkától koszos árnyalatokkal. Bal karja helyén egy átalakított robotkéz működik, kopott, de precíz szerkezet, ami szerelés közben nélkülözhetetlen.
+Arab származású, sötét szemű férfi, tekintete éles, mintha minden részletet azonnal felmérne. Fekete haja közepes hosszúságú, a halántéknál őszül, mindig hátrasimítva, de az apró rendezetlenségek azt sugallják, hogy nem sokat törődik a külsejével. Szakálla rövid, sűrű, mélyfekete, kontrasztot ad az enyhén fáradt arcvonásainak. Bőre természetesen sötét, de a mindennapi fizikai munka nyomai — olaj, kosz és por — árnyalatokkal mélyítik karakterét.
+
+Bal karja helyén egy átalakított robotkéz található, mely kopott ugyan, de precíz mechanizmusa miatt nélkülözhetetlen a szerelés közben. A kés finom mozdulatokra is képes, és a rajta lévő apró mechanikus részletek fémesen csillannak, jelezve a gondos karbantartást. Öltözködése egyszerű és praktikus, de minden darab arról árulkodik, hogy a férfi gyakran van fizikai munkában, még ha a ruhái alatt rejtett mechanikai eszközök is lapulnak.
+
+Külső megjelenése és testtartása egyszerre sugall szakértelmet és tapasztalatot: minden mozdulata céltudatos, és aki vele találkozik, azonnal érzi, hogy egy komoly ember áll előtte, aki a fizikai világ és a gépek között egyaránt otthonosan mozog.
 
 ### **Múlt és veszteség**
 

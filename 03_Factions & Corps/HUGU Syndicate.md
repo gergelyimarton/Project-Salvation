@@ -6,7 +6,7 @@ tags:
 (Hostile Underground Grid Union)
 ### **Leírás** 
 
-A **HUGU** a felszínen egy bűnszindikátus, amely át akarja venni a maffia helyét az utcákon, zsarolással, lopással és kibertámadásokkal. Valójában azonban sokkal többről van szó: a HUGU a kormány titkait fedi fel, a városi bűnözést saját fegyverként fordítja vissza, és egy új korszak eljövetelét készíti elő. A bűnszervezet csak álca — a valódi cél a forradalom, amely mögé idővel egész tömegek állnak majd. [[Emiko]] és [[Jüra]] fontos szerepet játszanak a megalakulásában.
+A **HUGU** a felszínen egy bűnszindikátus, amely át akarja venni a maffia helyét az utcákon, zsarolással, lopással és kibertámadásokkal. Valójában azonban sokkal többről van szó: a HUGU a kormány titkait fedi fel, a városi bűnözést saját fegyverként fordítja vissza, és egy új korszak eljövetelét készíti elő. A bűnszervezet csak álca — a valódi cél a forradalom, amely mögé idővel egész tömegek állnak majd. [[Emiko Narukami]] és [[Jüra]] fontos szerepet játszanak a megalakulásában.
 ### **Mottó:**
 “No system is untouchable. No empire stands forever.”
 
