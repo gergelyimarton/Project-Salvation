@@ -30,3 +30,5 @@ A túlélésben edzett, gyakorlati tudásra építő szerelő. Droidokat javít,
 ### **Összkép**
 
 Afar egy megtört, mégis rendíthetetlen túlélő. A múltja árnyékként követi, de nem engedi, hogy teljesen feleméssze. A csatornák sötétjében ő az a morgolódó, cinikus alak, aki végül mindig visszatér, hogy segítsen annak, aki számít.
+
+![[Afar.png]]

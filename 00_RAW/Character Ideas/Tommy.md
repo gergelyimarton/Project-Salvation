@@ -45,4 +45,4 @@ Van benne egy csendes spiritualitás, ami ritka a környezetében: számára a g
   
 * Iszonyatosan hűséges, de ezt nem nagy gesztusokkal mutatja, hanem azzal, hogy a legnagyobb káosz közepén is ott ül, és a ventilátor mögött csendesen lehúzza a rendszert a föld alá, amikor más már rég futna.
 
-![[Tommy realistic.png]]
+![[Tommy working.png]]

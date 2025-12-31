@@ -6,7 +6,7 @@
 
 * **Falak**: gigászi beton- és acélfalak, automata ágyúkkal és lézerfegyverekkel. A metropolisz identitása = „falon belül vagy kivül”.
 
-### **3\. Technológia**
+### **Technológia**
 
 * **Implantátumok**: testbe épített kommunikácios interfészek, katonai augmentek, látásbővítők, idegi gyorsítók.
 

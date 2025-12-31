@@ -1,1 +1,0 @@
-Ex-parancsnok akit szamuztek parancsmegtagadás miatt es azota Melyuton el.
