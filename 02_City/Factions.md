@@ -4,4 +4,4 @@
 
 * **Vállalatok**: fél-legális szervezetek, akik drónokat, implantátumokat, fegyvereket, energiatechnikát gyártanak. ([[ORIGINS]], [[YMANATICS]])
 
-* **Lázadók / [[HUGU Syndicate]]**: hackerek, gerillák, túlélő klánok → Jüra és Emiko ide kötődnek.
+* **Lázadók / [[Umbra Collective]]**: hackerek, gerillák, túlélő klánok → Jüra és Emiko ide kötődnek.
