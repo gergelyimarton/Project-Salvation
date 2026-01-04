@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "06_Books/Book One/Chapters/11. Fejezet - Árnyak a mélyben (2351. április).md",
+                "file": "01_Characters/Side Characters/Mirko Stanić.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "11. Fejezet - Árnyak a mélyben (2351. április)"
+              "title": "Mirko Stanić"
             }
           },
           {
@@ -41,16 +41,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "06_Books/Book One/Chapters/14. Fejezet - Bűntudat és kötelesség (2351. április).md",
+                "file": "04_Timeline/2350-2351.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "14. Fejezet - Bűntudat és kötelesség (2351. április)"
+              "title": "2350-2351"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -107,7 +107,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 309.5
+    "width": 407.50769424438477
   },
   "right": {
     "id": "a80913a4baa3c05b",
@@ -211,44 +211,45 @@
       "bases:Create new base": false
     }
   },
-  "active": "6224e238451c13dd",
+  "active": "d0c5e3066fce5450",
   "lastOpenFiles": [
     "01_Characters/Side Characters/Mirko Stanić.md",
+    "04_Timeline/2350-2351.md",
+    "01_Characters/Side Characters/Afar.md",
+    "03_Factions & Corps/Maffia.md",
+    "01_Characters/Side Characters/Anya.md",
+    "06_Books/Book One/Chapters/07. Fejezet – Fejvadászok  (2351. február).md",
+    "Mirko.md",
+    "06_Books/Book One/Reports/Chapter 7 – Fejvadászok (Bounty Hunters) – Analysis Report.md",
+    "06_Books/Book One/Chapters/14. Fejezet - Bűntudat és kötelesség (2351. április).md",
+    "06_Books/Book One/Chapters/09. Fejezet - Szimulált kegyelem (2351. március).md",
+    "06_Books/Book One/Chapters/08. Fejezet - Köztes állapot  (2351. március).md",
+    "06_Books/Book One/Chapters/06. Fejezet – Testek  (2351. február).md",
+    "06_Books/Book One/Chapters/05. Fejezet – Az első dominó  (2351. január).md",
+    "06_Books/Book One/Chapters/04. Fejezet – Találkozás  (2351. január).md",
+    "06_Books/Book One/Chapters/03. Fejezet – Egy régi szoba  (2351. január).md",
+    "06_Books/Book One/Chapters/02. Fejezet – A fal  (2350. december).md",
+    "06_Books/Book One/Chapters/01. Fejezet – Jelek  (2350. november).md",
+    "04_Timeline/2352.md",
+    "06_Books/Book One/Chapters/15. Fejezet - (2351. április).md",
+    "03_Factions & Corps/black_inca.md",
+    "03_Factions & Corps/Szenátus.md",
     "01_Characters/Main Characters/Emiko Narukami.md",
+    "01_Characters/Main Characters/Jüra.md",
+    "03_Factions & Corps/Umbra Collective.md",
     "01_Characters/Main Characters/Null.md",
+    "06_Books/Book One/Chapters/11. Fejezet - Árnyak a mélyben (2351. április).md",
     "07_Assets/Visual references/Null.png",
     "07_Assets/Visual references/Null v2.png",
     "07_Assets/Visual references/Null v3.png",
-    "03_Factions & Corps/Umbra Collective.md",
-    "02_City/Factions.md",
-    "04_Timeline/2350-2351.md",
-    "06_Books/Book One/Chapters/14. Fejezet - Bűntudat és kötelesség (2351. április).md",
-    "06_Books/Book One/Chapters/15. Fejezet - (2351. április).md",
-    "03_Factions & Corps/HUGU Syndicate.md",
-    "06_Books/Book One/Chapters/0. Prológus.md",
-    "06_Books/Book One/Reports/Chapter 14 - Bűntudat és kötelesség (Guilt and Duty) - Analysis Report.md",
-    "06_Books/Book One/Reports/Critical Issues - Deep Dive Analysis.md",
-    "00_RAW/Character Ideas/Tommy.md",
-    "01_Characters/Side Characters/Afar.md",
-    "01_Characters/Side Characters/Anya.md",
     "07_Assets/Visual references/Anya.png",
-    "01_Characters/Side Characters/D2.md",
     "07_Assets/Visual references/Tommy working.png",
-    "01_Characters/Main Characters/Jüra.md",
     "07_Assets/Visual references/Tommy realistic.png",
     "07_Assets/Visual references/Tommy cartoon.png",
     "07_Assets/Visual references/Mirko.png",
     "07_Assets/Visual references/Jüra.png",
     "07_Assets/Visual references/Emiko's Apartment.png",
-    "00_RAW/Character Ideas/Mirko.md",
-    "02_City/Infratructure.md",
-    "02_City/Locations/Mélyút.md",
-    "02_City/Locations/Csatornahálózat.md",
-    "05_Lore/Isten keze.md",
     "Emiko hálója.canvas",
-    "06_Books/Book One/Chapters/1. Fejezet – Jelek  (2350. november).md",
-    "06_Books/Book One/Reports/Chapter 13 – A csend nem véd meg (Silence Does Not Protect) – Analysis Report.md",
-    "06_Books/Book One/Reports/Story Analysis - Errors and Improvement Recommendations.md",
     "06_Books/Book One/Chapters",
     "06_Books/Book One/Reports",
     "00_RAW/Location Ideas",

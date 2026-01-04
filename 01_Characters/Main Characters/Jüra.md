@@ -1,6 +1,9 @@
 ---
 tags:
   - MainCharacter
+aliases:
+  - A patkány
+  - The Rat
 ---
 
 Jüra egy posztapokaliptikus-cyberpunk világ lakója, ahol a brutalista betonmonstrumok és a rideg acélgerendák uralják a teret, de mindezt újabb, modern technológiai rétegek hálózzák be. A város a múlt romjaira épült: omladozó betontömbök közé simulnak be a futurisztikus adatkábelek, szenzorok és digitális kijelzők. A neonfények nem harsányan színesek, inkább hideg, gépies ragyogást vetnek a repedezett falakra, mintha a jelen és a jövő egymásra rakódott rétegei küzdenének a felszínért.

@@ -1,7 +1,41 @@
 ---
 tags:
   - MainCharacter
+aliases:
+  - Izanami
+  - Emiko
 ---
+### **Hacker Identitás: Izanami**
+
+**Hacker név eredete:**
+* Izanami, a japán mitológia teremtés és a halál istennője – aki képes volt mind teremteni, mind elpusztítani. A név tökéletesen tükrözi Emiko kettős természetét: egyszerűen létrehoz vagy megsemmisít rendszereket, ahogy jónak látja.
+
+**Hacker stílus:**
+* **Agresszív és kíméletlen:** Amikor célba vesz egy rendszert, nem ismer kompromisszumot. Frontális támadásokat kombinál hátsó ajtókkal, mindig teljes dominanciára törekszik.
+
+* **Elnyomó jelenlét:** A célpontjai tudják, hogy ott van. Izanami nem csupán beszivárog – elfoglalja a teret, üzeneteket hagy, figyelmeztetéseket küld. A digitális terrort fegyverként használja.
+
+* **Lopakodó precizitás:** Képes láthatatlanul mozogni a rendszerekben, mint egy szellem. Órákig megfigyel, tanulmányoz, mielőtt lecsap. Amikor a védekezők észreveszik, már késő – régen bent van.
+
+* **Kegyetlen kivitelező:** Nem hagy nyomot a túlélésre. Ha egy rendszert feltör, az összeomlás teljes és visszafordíthatatlan. Adatokat nem csak lopja – felégeti maga után a hidat.
+
+**Szignifikáns képességek:**
+* **Neurális szinkronizáció:** Közvetlenül csatlakozik a hálózatokhoz a beépített implantátumain keresztül, ami lehetővé teszi számára, hogy emberi gondolkodási sebességnél gyorsabban dolgozzon a kódban.
+
+* **Zero-day exploit specialist:** Izanami hírneve abból származik, hogy olyan sebezhetőségeket talál és használ ki, amelyekről még a fejlesztők sem tudnak.
+
+* **Multi-layer assault:** Egyidejűleg több támadási vektort is használ – amíg látszólag a tűzfal ellen harcol, addig lopakodó kódja már régen átszivárgott a rendszeren.
+
+* **Digitális kísértet:** Képes úgy eltüntetni a nyomait, mintha sosem lett volna ott. A legfejlettebb nyomkövető rendszerek is sokszor csak morzsákat találnak utána.
+
+**Digitális szignója**
+* Amikor befejez egy munkát, mindig egy lila színű Torii kapu képét hagyja a rendszerben – az átjárót a halandó és a spirituális világ között.
+* Ez Izanami névjegye, egy üzenet: "Végtelen a holtak országa."
+
+**Hírnév az kiber alvilágban:**
+* Izanami neve legendává vált az alvilágban. Van, aki milliókat fizetne a szolgálataiért, van, aki milliókat adna azért, hogy eltüntesse. A legnagyobb corpo-k feketelistán tartják, míg a lázadó hackercsoportok ikonként tekintenek rá.
+
+
 ### **Személyiség**
 
 **Alapvető jellemzők és motivációk:**

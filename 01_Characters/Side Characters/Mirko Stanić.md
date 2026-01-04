@@ -1,3 +1,10 @@
+---
+tags:
+  - SideCharacter
+aliases:
+  - Mirko
+---
+
 ### **Eredete és környezete**
 **Mirko** egykor parancsnok volt, akit száműztek, miután megtagadott egy parancsot, amely civilek – családok és gyermekek – lemészárlására irányult a falon kívül. Az engedetlenség súlyos rangvesztéssel, megaláztatással és börtönnel járt; majdnem kivégezték, hogy példát statuáljanak. Mirko azonban megszökött, és a föld alá menekült. Azóta az alkoholt használja menekülőként, mert elvesztett minden célt és irányt az életében. Sokan megvetik, hiszen egykor hatalmi pozícióból esett vissza, és múltja miatt sehol nem talál otthonra. A felszínre visszatérni életveszélyes lenne.
 
