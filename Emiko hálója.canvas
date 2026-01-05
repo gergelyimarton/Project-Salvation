@@ -1,14 +1,14 @@
 {
 	"nodes":[
 		{"id":"49ba631b4c48157e","type":"text","text":"Emberkereskedelem / konténerek","x":-340,"y":-20,"width":385,"height":55,"color":"3"},
-		{"id":"579aa31545268026","type":"text","text":"[[black_inca]]","x":255,"y":-297,"width":250,"height":60,"color":"2"},
+		{"id":"579aa31545268026","type":"text","text":"[[Black_Inca]]","x":255,"y":-297,"width":250,"height":60,"color":"2"},
 		{"id":"6703a5348839aad3","type":"text","text":"Szemtanúk","x":480,"y":35,"width":170,"height":60},
-		{"id":"426e4741980c5c04","type":"text","text":"Gorilla szerű kiborgok","x":-1480,"y":120,"width":240,"height":50},
-		{"id":"19c5b3154c1bca22","type":"text","text":"Sáska szerű kiborgok","x":-1480,"y":-160,"width":240,"height":60},
+		{"id":"426e4741980c5c04","type":"text","text":"Gorilla szerű kiborgok","x":-1480,"y":120,"width":300,"height":60},
+		{"id":"19c5b3154c1bca22","type":"text","text":"Sáska szerű kiborgok","x":-1480,"y":-160,"width":260,"height":60},
 		{"id":"201fdc4aba40bd91","type":"text","text":"[[Maffia]] / kartellek","x":-272,"y":-297,"width":250,"height":60,"color":"2"},
 		{"id":"c8399bc563ced3d7","type":"text","text":"Ismeretlen hacker","x":720,"y":-160,"width":250,"height":60},
 		{"id":"00bcc90142abbb8d","type":"text","text":"Az idegen a felüljárón","x":720,"y":-400,"width":280,"height":50},
-		{"id":"47b6f75e9edf10c6","type":"text","text":"Hibridek, amik a föld alatt vadásznak","x":-1800,"y":-20,"width":250,"height":60},
+		{"id":"47b6f75e9edf10c6","type":"text","text":"Hibridek, amik a föld alatt vadásznak","x":-1800,"y":-20,"width":280,"height":85},
 		{"id":"6bf1c51d7d4c6501","type":"text","text":"Megbízó","x":-653,"y":-560,"width":160,"height":50,"color":"1"},
 		{"id":"51b5de17b7cc3a57","type":"text","text":"[[YMANATICS]]","x":-1000,"y":-20,"width":297,"height":60,"color":"2"}
 	],

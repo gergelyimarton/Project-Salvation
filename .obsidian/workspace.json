@@ -13,30 +13,44 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "06_Books/Book One/Chapters/15. Fejezet - (2351. április).md",
+                "file": "05_Lore/UmbraNet.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "15. Fejezet - (2351. április)"
+              "title": "UmbraNet"
             }
           },
           {
-            "id": "6224e238451c13dd",
+            "id": "6be19c94f47196c7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01_Characters/Side Characters/Mirko Stanić.md",
+                "file": "05_Lore/DarkNode OS.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Mirko Stanić"
+              "title": "DarkNode OS"
             }
           },
           {
-            "id": "d0c5e3066fce5450",
+            "id": "ed10038a7a528aa6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "03_Factions & Corps/Black_Inca.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Black_Inca"
+            }
+          },
+          {
+            "id": "f4148e8c17d7232d",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -48,9 +62,26 @@
               "icon": "lucide-file",
               "title": "2350-2351"
             }
+          },
+          {
+            "id": "fc0f7f0aae5cef01",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Emiko hálója.canvas",
+                "viewState": {
+                  "x": -416.90360696517416,
+                  "y": -224.95851081942828,
+                  "zoom": -0.6157348495159729
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Emiko hálója"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -82,7 +113,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Faction",
+                "query": "tag:OperationSystem",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -107,7 +138,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 407.50769424438477
+    "width": 510.5
   },
   "right": {
     "id": "a80913a4baa3c05b",
@@ -211,45 +242,45 @@
       "bases:Create new base": false
     }
   },
-  "active": "d0c5e3066fce5450",
+  "active": "fc0f7f0aae5cef01",
   "lastOpenFiles": [
-    "01_Characters/Side Characters/Mirko Stanić.md",
-    "04_Timeline/2350-2351.md",
-    "01_Characters/Side Characters/Afar.md",
-    "03_Factions & Corps/Maffia.md",
-    "01_Characters/Side Characters/Anya.md",
-    "06_Books/Book One/Chapters/07. Fejezet – Fejvadászok  (2351. február).md",
-    "Mirko.md",
-    "06_Books/Book One/Reports/Chapter 7 – Fejvadászok (Bounty Hunters) – Analysis Report.md",
-    "06_Books/Book One/Chapters/14. Fejezet - Bűntudat és kötelesség (2351. április).md",
-    "06_Books/Book One/Chapters/09. Fejezet - Szimulált kegyelem (2351. március).md",
-    "06_Books/Book One/Chapters/08. Fejezet - Köztes állapot  (2351. március).md",
-    "06_Books/Book One/Chapters/06. Fejezet – Testek  (2351. február).md",
-    "06_Books/Book One/Chapters/05. Fejezet – Az első dominó  (2351. január).md",
-    "06_Books/Book One/Chapters/04. Fejezet – Találkozás  (2351. január).md",
-    "06_Books/Book One/Chapters/03. Fejezet – Egy régi szoba  (2351. január).md",
-    "06_Books/Book One/Chapters/02. Fejezet – A fal  (2350. december).md",
-    "06_Books/Book One/Chapters/01. Fejezet – Jelek  (2350. november).md",
-    "04_Timeline/2352.md",
-    "06_Books/Book One/Chapters/15. Fejezet - (2351. április).md",
-    "03_Factions & Corps/black_inca.md",
-    "03_Factions & Corps/Szenátus.md",
-    "01_Characters/Main Characters/Emiko Narukami.md",
-    "01_Characters/Main Characters/Jüra.md",
+    "03_Factions & Corps/Black_Inca.md",
     "03_Factions & Corps/Umbra Collective.md",
-    "01_Characters/Main Characters/Null.md",
-    "06_Books/Book One/Chapters/11. Fejezet - Árnyak a mélyben (2351. április).md",
+    "Emiko hálója.canvas",
+    "03_Factions & Corps/YMANATICS.md",
+    "06_Books/Book One/Chapters/08. Fejezet - Köztes állapot  (2351. március).md",
+    "06_Books/Book One/Chapters/10. Fejezet - Jelvesztés (2351. április).md",
+    "06_Books/Book One/Chapters/06. Fejezet – Testek  (2351. február).md",
+    "06_Books/Book One/Chapters/07. Fejezet – Fejvadászok  (2351. február).md",
+    "02_City/Religion and Beliefs.md",
+    "05_Lore/Isten szeme.md",
+    "04_Timeline/2350-2351.md",
+    "01_Characters/Main Characters/Jüra.md",
+    "05_Lore/DarkNode OS.md",
+    "05_Lore/Z32.md",
+    "05_Lore/UmbraNet.md",
+    "05_Lore/Isten keze.md",
+    "06_Books/Book One/Chapters/15. Fejezet - Kollektív belátás (2351. április).md",
+    "06_Books/Book One/Chapters/14. Fejezet - Bűntudat és kötelesség (2351. április).md",
+    "01_Characters/Main Characters/Emiko Narukami.md",
+    "04_Timeline/2360-2378.md",
+    "04_Timeline/2359-2360.md",
+    "04_Timeline/2358.md",
+    "04_Timeline/2357.md",
+    "04_Timeline/2356.md",
+    "04_Timeline/2355.md",
+    "04_Timeline/2354.md",
+    "04_Timeline/2353.md",
+    "07_Assets/Visual references/Mirko.png",
+    "07_Assets/Visual references/Anya.png",
+    "07_Assets/Visual references/Afar.png",
+    "07_Assets/Visual references/Jüra.png",
+    "07_Assets/Visual references/Emiko.png",
     "07_Assets/Visual references/Null.png",
     "07_Assets/Visual references/Null v2.png",
     "07_Assets/Visual references/Null v3.png",
-    "07_Assets/Visual references/Anya.png",
     "07_Assets/Visual references/Tommy working.png",
     "07_Assets/Visual references/Tommy realistic.png",
-    "07_Assets/Visual references/Tommy cartoon.png",
-    "07_Assets/Visual references/Mirko.png",
-    "07_Assets/Visual references/Jüra.png",
-    "07_Assets/Visual references/Emiko's Apartment.png",
-    "Emiko hálója.canvas",
     "06_Books/Book One/Chapters",
     "06_Books/Book One/Reports",
     "00_RAW/Location Ideas",

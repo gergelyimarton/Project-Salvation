@@ -17,7 +17,7 @@ aliases:
 
 * **Lopakodó precizitás:** Képes láthatatlanul mozogni a rendszerekben, mint egy szellem. Órákig megfigyel, tanulmányoz, mielőtt lecsap. Amikor a védekezők észreveszik, már késő – régen bent van.
 
-* **Kegyetlen kivitelező:** Nem hagy nyomot a túlélésre. Ha egy rendszert feltör, az összeomlás teljes és visszafordíthatatlan. Adatokat nem csak lopja – felégeti maga után a hidat.
+* **Kegyetlen kivitelező:** Nem hagy esélyt a túlélésre. Ha egy rendszert feltör, az összeomlás teljes és visszafordíthatatlan. Adatokat nem csak lopja – felégeti maga után a hidat.
 
 **Szignifikáns képességek:**
 * **Neurális szinkronizáció:** Közvetlenül csatlakozik a hálózatokhoz a beépített implantátumain keresztül, ami lehetővé teszi számára, hogy emberi gondolkodási sebességnél gyorsabban dolgozzon a kódban.
