@@ -4,7 +4,7 @@ tags:
   - Network
   - Tool
 ---
-Az **UmbraNet** az [[Umbra Collective]] működésének alapja: egy saját fejlesztésű, rejtett, radikálisan decentralizált hálózat, amely nem szerverek köré, hanem **résztvevők köré** szerveződik. Minden csomópont – legyen az aktív operátor vagy passzív támogató – a hálózat egy darabját hordozza, így az UmbraNet nem rendelkezik egyetlen támadható központtal sem. Kívülről kaotikus botnetnek tűnhet, belül azonban szigorúan strukturált, szerepalapú rendszer, amelynek működését a végpontokon futó [[DarkNode OS]] szabályozza.
+Az **UmbraNet** az [[Umbra Collective]] működésének alapja: egy saját fejlesztésű, rejtett, radikálisan decentralizált hálózat, amely nem egy szerver köré, hanem **résztvevők köré** szerveződik. Minden csomópont – legyen az aktív operátor vagy passzív támogató – a hálózat egy darabját hordozza, így az UmbraNet nem rendelkezik egyetlen támadható központtal sem. Kívülről kaotikus botnetnek tűnhet, belül azonban szigorúan strukturált, szerepalapú rendszer, amelynek működését a felhasználókon futó [[DarkNode OS]] szabályozza.
 
 Az UmbraNet egyszerre tölti be a kommunikációs csatorna, az elosztott adatbank és a műveleti koordinációs rendszer szerepét. A hálózaton keresztül zajlik az információszivárogtatás, a behatolások összehangolása, a valós idejű döntéshozatal és az erőforrások dinamikus újraelosztása. A hálózat egyik legfontosabb jellemzője az **adaptív topológia**: a csomópontok kapcsolatai folyamatosan változnak, eseményekhez és fenyegetésekhez igazodva. Egy node soha nem tudja, hány másik node létezik még, és nem is kell tudnia.
 

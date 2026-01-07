@@ -11,22 +11,25 @@ aliases:
 * Izanami, a japán mitológia teremtés és a halál istennője – aki képes volt mind teremteni, mind elpusztítani. A név tökéletesen tükrözi Emiko kettős természetét: egyszerűen létrehoz vagy megsemmisít rendszereket, ahogy jónak látja.
 
 **Hacker stílus:**
-* **Agresszív és kíméletlen:** Amikor célba vesz egy rendszert, nem ismer kompromisszumot. Frontális támadásokat kombinál hátsó ajtókkal, mindig teljes dominanciára törekszik.
+* **Agresszív és kíméletlen:** Amikor célba vesz egy rendszert, nem ismer kompromisszumot. Villámgyors frontális támadásokat kombinál hátsó ajtókkal, mindig teljes dominanciára törekszik. Kódja elegáns és hatékony.
 
-* **Elnyomó jelenlét:** A célpontjai tudják, hogy ott van. Izanami nem csupán beszivárog – elfoglalja a teret, üzeneteket hagy, figyelmeztetéseket küld. A digitális terrort fegyverként használja.
+* **Elnyomó jelenlét:** A célpontjai csak későn tudják meg, hogy ott van. Izanami nem csupán beszivárog – elfoglalja a teret, üzeneteket hagy, figyelmeztetéseket küld. A digitális terrort fegyverként használja.
 
 * **Lopakodó precizitás:** Képes láthatatlanul mozogni a rendszerekben, mint egy szellem. Órákig megfigyel, tanulmányoz, mielőtt lecsap. Amikor a védekezők észreveszik, már késő – régen bent van.
 
-* **Kegyetlen kivitelező:** Nem hagy esélyt a túlélésre. Ha egy rendszert feltör, az összeomlás teljes és visszafordíthatatlan. Adatokat nem csak lopja – felégeti maga után a hidat.
 
-**Szignifikáns képességek:**
-* **Neurális szinkronizáció:** Közvetlenül csatlakozik a hálózatokhoz a beépített implantátumain keresztül, ami lehetővé teszi számára, hogy emberi gondolkodási sebességnél gyorsabban dolgozzon a kódban.
+**Képességek és technikák:**
+* **Neurális szinkronizáció:** Közvetlenül csatlakozik a hálózatokhoz a beépített implantátumain keresztül, ami lehetővé teszi számára, hogy emberi gondolkodási sebességnél gyorsabban dolgozzon a kódban. Ez a képesség nem egyedi, a legtöbb hacker használja
 
-* **Zero-day exploit specialist:** Izanami hírneve abból származik, hogy olyan sebezhetőségeket talál és használ ki, amelyekről még a fejlesztők sem tudnak.
+* **Zero-day exploit specialist:** Izanami hírneve abból is származik, hogy olyan sebezhetőségeket talál és használ ki, amelyekről még a fejlesztők sem tudnak.
 
 * **Multi-layer assault:** Egyidejűleg több támadási vektort is használ – amíg látszólag a tűzfal ellen harcol, addig lopakodó kódja már régen átszivárgott a rendszeren.
 
-* **Digitális kísértet:** Képes úgy eltüntetni a nyomait, mintha sosem lett volna ott. A legfejlettebb nyomkövető rendszerek is sokszor csak morzsákat találnak utána.
+* **Fehérzaj (White Static):** Képes úgy eltüntetni a nyomait, mintha sosem lett volna ott. A legfejlettebb nyomkövető rendszerek is sokszor csak morzsákat találnak utána.
+  
+- **Tükrözés (Black Mirror):** Először az ellenfél támadásait tükrözi vissza, teljesen összezavarva a harcot. Ezután ugyanazt a támadási stílust máshol alkalmazza. A gyanú arra terelődik, akinek a technikáját lemásolta, így az identitása válik fegyverré ellene.
+  
+- **Bábmester (Necro Swarm):** Képes egyszerre **több tucat drónt és droidot** egyetlen vezérlési mezőbe kötni, mintha egy közös idegrendszert alkotnának. Az egységek elveszítik autonómiájukat, és **tömegként**, zombihadsereg‑szerűen reagálnak: lassan, kitartóan, megállíthatatlanul.
 
 **Digitális szignója**
 * Amikor befejez egy munkát, mindig egy lila színű Torii kapu képét hagyja a rendszerben – az átjárót a halandó és a spirituális világ között.
