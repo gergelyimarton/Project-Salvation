@@ -17,7 +17,7 @@ A rendszer **ellentmondó valóságmodelleket** futtat az áldozat idegi implant
 **Hatás:**  
 Skizofréniára / pszichózisra emlékeztető állapot.  
 Az áldozat **nem tudja eldönteni, mi valódi**.  
-Genjutsu-szerű, de technológiai eredetű.
+Álom-szerű, de technológiai eredetű.
 
 **Veszély:**  
 Ha túl sokáig tart, **maradandó idegi károsodást** okozhat.
@@ -47,7 +47,7 @@ Ez nem örök fenyegetés, hanem **utolsó üzenet**.
 
 ---
 
-### **WHITE STATIC**
+### **WHITE NOISE**
 _(adatösszefüggés-rombolás → teljes adatégetés)_
 
 **Alapszint:**  
@@ -92,7 +92,7 @@ Ez nem csak harc – **karaktergyilkosság**.
 
 ---
 
-### **NULL CHOIR**
+### **RADIO SILENCE**
 _(jelzavarás – rendszerszintű csend)_
 
 **Felhasználás:**  
@@ -102,9 +102,9 @@ Kommunikációs zavarás:
     
 - droid,
     
-- implantátum–vezérlő.
+- implantátum–vezérlő,
     
-
+- barmilyen kommunikációs eszköz.
 **Hatás:**
 
 - késleltetés,
@@ -131,14 +131,14 @@ Ez a technika **csendben öl**.
 
 ### **NECRO SWARM**
 
-_(digitális hullaidézés → kollektív akaratmező)_
+_(kollektív akaratmező→ digitális hullaidézés)_
 
 **Alapszint:**  
 Több drón és droid egyetlen vezérlési hálóba kötése.  
 Az egységek elveszítik autonómiájukat, és **tömegként reagálnak**, zombihadsereg‑szerűen.
 
 **Magasabb szint – „Graveyard Call”:**  
-Sérült, elhagyott vagy „halottként” jelölt rendszerek **újraaktiválása**:
+Sérült, korruptált, elhagyott vagy „halottként” jelölt rendszerek **újraaktiválása**:
 
 - csökkentett funkcionalitás,
     

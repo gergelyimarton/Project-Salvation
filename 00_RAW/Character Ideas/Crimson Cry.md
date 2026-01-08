@@ -33,7 +33,7 @@ Városi léptékben is pusztító erővel bír: infrastruktúrát dönthet romba
 
 - **Elosztott jelenlét:**  Nem kötődik egyetlen csomóponthoz vagy fizikai helyhez. A vezérlés több hálózati rétegen keresztül zajlik, ezért Crimson Cry lokalizálása gyakorlatilag lehetetlen. Ahol hálózat létezik, ott jelen lehet.
   
-- **NULL CHOIR:** Célzott zavarás drónok, droidok és implantátum‑vezérlők ellen. Késleltetést, parancsvesztést vagy teljes leállást okoz. Extrém esetben létfenntartó implantátumokat is kikapcsolhat, az áldozat **lövedék nélkül is meghalhat**. A technika **csendben öl**.
+- **RADIO SILENCE:** Célzott zavarás drónok, droidok és implantátum‑vezérlők ellen. Késleltetést, parancsvesztést vagy teljes leállást okoz. Extrém esetben létfenntartó implantátumokat is kikapcsolhat, az áldozat **lövedék nélkül is meghalhat**. A technika **csendben öl**.
   
 - **RED SHIFT:**  Az érzékelést eltolja a valóságtól. Magasabb szinten egymásnak ellentmondó valóságmodelleket futtat az idegi implantátumban, pszichózisszerű állapotot idézve elő. Az áldozat **nem tudja eldönteni, mi valódi**; hosszan alkalmazva maradandó idegi károsodást okoz.
   

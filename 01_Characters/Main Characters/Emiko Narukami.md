@@ -25,7 +25,7 @@ aliases:
 
 * **Multi-layer assault:** Egyidejűleg több támadási vektort is használ – amíg látszólag a tűzfal ellen harcol, addig lopakodó kódja már régen átszivárgott a rendszeren.
 
-* **Fehérzaj (White Static):** Képes úgy eltüntetni a nyomait, mintha sosem lett volna ott. A legfejlettebb nyomkövető rendszerek is sokszor csak morzsákat találnak utána.
+* **Fehérzaj (White Noise):** Képes úgy eltüntetni a nyomait, mintha sosem lett volna ott. A legfejlettebb nyomkövető rendszerek is sokszor csak morzsákat találnak utána.
   
 - **Tükrözés (Black Mirror):** Először az ellenfél támadásait tükrözi vissza, teljesen összezavarva a harcot. Ezután ugyanazt a támadási stílust máshol alkalmazza. A gyanú arra terelődik, akinek a technikáját lemásolta, így az identitása válik fegyverré ellene.
   

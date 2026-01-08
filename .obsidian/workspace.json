@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00_RAW/Character Ideas/Crimson Cry.md",
+                "file": "00_RAW/Hacking Techniques.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Crimson Cry"
+              "title": "Hacking Techniques"
             }
           },
           {
@@ -41,16 +41,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00_RAW/Hacking Techniques.md",
+                "file": "06_Books/Book One/Chapters/16. Fejezet - (2351. május).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Hacking Techniques"
+              "title": "16. Fejezet - (2351. május)"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -107,7 +107,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 435.5
+    "width": 233.5
   },
   "right": {
     "id": "a80913a4baa3c05b",
@@ -211,14 +211,15 @@
       "bases:Create new base": false
     }
   },
-  "active": "5040e0936557a417",
+  "active": "a39ad1b67aaa75e2",
   "lastOpenFiles": [
-    "01_Characters/Main Characters/Emiko Narukami.md",
-    "00_RAW/Character Ideas/Crimson Cry.md",
     "00_RAW/Hacking Techniques.md",
+    "00_RAW/Character Ideas/Crimson Cry.md",
+    "06_Books/Book One/Chapters/16. Fejezet - (2351. május).md",
+    "06_Books/Book One/Chapters/04. Fejezet – Találkozás  (2351. január).md",
+    "01_Characters/Main Characters/Emiko Narukami.md",
     "00_RAW/Story Ideas.md",
     "06_Books/Book One/Chapters/15. Fejezet - Kollektív belátás (2351. április).md",
-    "06_Books/Book One/Chapters/16. Fejezet - (2351. május).md",
     "04_Timeline/2350-2351.md",
     "07_Assets/Visual references/Crimson Cry.png",
     "00_RAW/Character Ideas/Tommy.md",
@@ -240,7 +241,6 @@
     "03_Factions & Corps/ORIGINS.md",
     "03_Factions & Corps/Maffia.md",
     "03_Factions & Corps/Black_Inca.md",
-    "05_Lore/UmbraNet.md",
     "07_Assets/Visual references/Mirko.png",
     "07_Assets/Visual references/Anya.png",
     "07_Assets/Visual references/Afar.png",
