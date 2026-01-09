@@ -58,4 +58,7 @@ Crimson Cry nem legyőzi az ellenfeleit, hanem meggyalázza őket. Eltorzítja a
 
 Crimson Cry nem klasszikus karakter, hanem jelenség. Fegyver, ragadozó és legenda egyszerre. Puszta létezése destabilizálja a várost, és amíg csak szóbeszédek léteznek róla, senki sem tudja, hol ér véget a mítosz és hol kezdődik a valóság. Ez teszi igazán félelmetessé.
 
-![[Crimson Cry.png]]
+
+![[Crimson Cry network form.jpg|500]]
+
+![[Crimson Cry physical form.png|500]]

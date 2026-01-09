@@ -10,7 +10,8 @@
 		{"id":"00bcc90142abbb8d","type":"text","text":"Az idegen a felüljárón","x":720,"y":-400,"width":280,"height":50},
 		{"id":"47b6f75e9edf10c6","type":"text","text":"Hibridek, amik a föld alatt vadásznak","x":-1800,"y":-20,"width":280,"height":85},
 		{"id":"6bf1c51d7d4c6501","type":"text","text":"Megbízó","x":-653,"y":-560,"width":160,"height":50,"color":"1"},
-		{"id":"51b5de17b7cc3a57","type":"text","text":"[[YMANATICS]]","x":-1000,"y":-20,"width":297,"height":60,"color":"2"}
+		{"id":"51b5de17b7cc3a57","type":"text","text":"[[YMANATICS]]","x":-1000,"y":-20,"width":297,"height":60,"color":"2"},
+		{"id":"9781b9091b481a7d","type":"text","text":"[[Mélyút]]","x":-1800,"y":320,"width":297,"height":60,"color":"2"}
 	],
 	"edges":[
 		{"id":"680d2d532ace827e","fromNode":"51b5de17b7cc3a57","fromSide":"left","toNode":"426e4741980c5c04","toSide":"right","color":"1","label":"készít?"},
@@ -22,6 +23,7 @@
 		{"id":"e4793aa6e946f6f5","fromNode":"579aa31545268026","fromSide":"bottom","toNode":"49ba631b4c48157e","toSide":"right","color":"1","label":"Rabol"},
 		{"id":"5f8b0ed541bf3a62","fromNode":"201fdc4aba40bd91","fromSide":"bottom","toNode":"49ba631b4c48157e","toSide":"top","color":"1","label":"Rabol"},
 		{"id":"1dda95d785abe6ee","fromNode":"49ba631b4c48157e","fromSide":"left","toNode":"51b5de17b7cc3a57","toSide":"right","color":"1","label":"Felhasználja a \ntesteket?"},
-		{"id":"276d24504a984c82","fromNode":"51b5de17b7cc3a57","fromSide":"left","toNode":"47b6f75e9edf10c6","toSide":"right","color":"1","label":"készít?"}
+		{"id":"276d24504a984c82","fromNode":"51b5de17b7cc3a57","fromSide":"left","toNode":"47b6f75e9edf10c6","toSide":"right","color":"1","label":"készít?"},
+		{"id":"42cc37a632edc50a","fromNode":"47b6f75e9edf10c6","fromSide":"bottom","toNode":"9781b9091b481a7d","toSide":"top","color":"1","label":"Támadják"}
 	]
 }

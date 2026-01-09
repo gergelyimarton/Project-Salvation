@@ -34,4 +34,4 @@ Mirko Stanić nagy termetű, izmos férfi, aki már távolról is tekintélyt pa
 
 Bőre időnként durvának és napbarnítottnak tűnik a föld alatti élet és harci környezet miatt. A testét a szérum láthatóan formálta: izmai feszesek, minden mozdulatában ott a harcos precizitása, a reflexei gyorsak és pontosak. Kezei vastagok, erősek, az ujjak hegyein apró hegek látszanak a harcokból. Öltözéke praktikus, strapabíró anyagból készült, mindig könnyen mozgatható, funkcionális, harcra és túlélésre optimalizált. Arca ritkán mutat érzelmet, de amikor mégis, az erős empátia és belső konfliktus árnyai látszanak rajta.
 
-![[Mirko.png]]
+![[Mirko.png|500]]

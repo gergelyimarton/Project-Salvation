@@ -23,4 +23,4 @@ Felszerelése tartalmaz egy pisztolytáskát, valamint egy acél rendőrségi bo
 
 Null mozgása csendes és fluid, testtartása feszes és éber. A mesterséges izomrostok, a páncélozott felületek és a sötét, visszafogott ruházat kombinációja egy ijesztően hatékony, mégis esztétikailag futurisztikus humanoid katonai gépet alkot. Lényege a láthatatlanság és a precízió: minden mozdulata a célnak rendeltetett, minden felszerelése a túléléshez és a sikerhez van optimalizálva.
 
-![[Null.png]]
+![[Null.png|500]]

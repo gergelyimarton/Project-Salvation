@@ -57,4 +57,4 @@ Testalkata szikár és inas, de mégis tónusos, erőt sugárzó. Kibernetikus e
 
 Jüra létezése folyamatos kísérlet a határok újradefiniálására. Az emberi lélek és a mesterséges test feszültsége adja karakterének magját: próbálja megőrizni emberi önazonosságát egy olyan világban, ahol a múlt romjai között a modern technológia új jövőt épít – és ahol az identitás már nem a hús, hanem a választások kérdése.
 
-![[Jüra.png]]
+![[Jüra.png|500]]

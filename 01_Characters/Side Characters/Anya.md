@@ -27,4 +27,4 @@ Anya biotechnológus és orvos, aki képes volt Jürát visszahozni a határon t
 
 Anya olyan nő, aki egyszerre gyógyító és őrző. [[Jüra]]-hoz nem csak mint kísérleti alanyhoz kötődik: látja benne azt, akit valaha elveszített, és ezt a felismerést nem kihasználja, hanem csendesen hordozza. Empátiája nem érzelgős, hanem mélyen emberi. Ha belép egy térbe, megteremt valami különös békét – azt a fajta jelenlétet, amely előtt még a törött emberek is kénytelenek szembenézni önmagukkal.
 
-![[Anya.png]]
+![[Anya.png|500]]
