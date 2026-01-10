@@ -16,7 +16,7 @@ A múltja ismeretlen. Egyes legendák szerint már nem teljes ember, csak egy ag
 
 #### **Személyiség**
 
-Crimson Cry nem emberi léptékben gondolkodik. Agresszív és erőszakos, de hidegen, számítóan működik. Nem érdekli a morál, csak a hatás. Kevéset kommunikál, nem fenyeget; a csendje önmagában fenyegetés. Élvezi, ahogy rendszerek és emberek összeomlanak a beavatkozásai alatt.
+Crimson Cry nem emberi léptékben gondolkodik. Agresszív és erőszakos, de hidegen, számítóan működik. Nem érdekli a morál, csak a hatás. Keveset kommunikál, nem fenyeget; a csendje önmagában fenyegetés. Élvezi, ahogy rendszerek és emberek összeomlanak a beavatkozásai alatt.
 
 #### **Kommunikáció és aura**
 

@@ -1,6 +1,6 @@
 #### **Felső kör / Szenátus:**
 
-* Politikusok + megmaradt nagyvállalatok vezetői. Luxusnegyedekben élnek, az égig érő tornyok tetején. Genetikailag javított testek, implantátumok, mesterséges hosszú élet. Mindenük megvan, de paranoia uralja őket, mert tudják, hogy a nép gyűlöli őket.
+* **Politikusok + megmaradt nagyvállalatok vezetői:** Luxusnegyedekben élnek, az égig érő tornyok tetején. Genetikailag javított testek, implantátumok, mesterséges hosszú élet. Mindenük megvan, de paranoia uralja őket, mert tudják, hogy a nép gyűlöli őket.
 
 * **Középréteg / Szolgáltatói réteg**  
   Mérnökök, IT-szakemberek, katonák, rendfenntartók. Nekik van stabil élelmük és lakásuk, de kötelező a lojalitás a városvezetés felé. Egyfajta „technokrata középosztály”, amelyik belülről kezd kiábrándulni.
@@ -9,7 +9,7 @@
   Munkások, migránsok, bevándorlók, nyomornegyedek lakói. Folyamatos megfigyelés alatt élnek. Nekik jut a maradék élelem, a silány implantátumok, a drogok. Innen származik a legtöbb lázadó, hacker és gerilla.
 
 * **Falakon kívüliek**  
-  Klanok, fosztogató bandák, exil közösségek. Radioaktív területek közelében élnek, mutációk gyakoriak. A metropoliszok kereskednek velük (feketepiacon), de hivatalosan minden kapcsolat tilos.
+  Klánok, fosztogató bandák, exil közösségek. Radioaktív területek közelében élnek, mutációk gyakoriak. A metropoliszok kereskednek velük (feketepiacon), de hivatalosan minden kapcsolat tilos.
 
 ### **A rendszer neve: Korporatív Államszövetség (KA)**
 

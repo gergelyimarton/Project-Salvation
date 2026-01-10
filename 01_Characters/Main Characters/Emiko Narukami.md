@@ -79,8 +79,12 @@ Emiko egy rendkívül intelligens, technológiailag integrált, túlélő és st
 
 Emiko körülbelül 170 cm magas és 20-as évei végén jár. Törékeny, mégis atletikus testalkatú. Bőre enyhén sápadt, sima és puha tapintású, arcán nincs nyoma ráncoknak. Eredetileg fekete haja erősen hullámos, göndörödő; vastag szálú, egészséges és fényesen csillogó. Elülső két tincsét élénk lilára festi, ami finoman keretezi az arcát. Kerek szemüveget visel, ami kiemeli különleges, kibernetikus szemeit: a szemfehérje mélyfekete, pupillája szintén fekete, míg az írisz a hajtincseihez illően lila árnyalatban ragyog. Szemei enyhén lefelé ívelnek, melankolikus, szomorú hatást keltve.
 
-Ajka telt és csókos, természetes rózsaszín, alsó ajkában egy vertical labret piercing csillan. Szemöldöke különleges: belső része erőteljesebb, kifelé fokozatosan elhalványul, így a külső fele szinte láthatatlan.
+Ajka telt és csókos, természetes rózsaszín, alsó ajkában egy labret piercing csillan. Szemöldöke különleges: belső része erőteljesebb, kifelé fokozatosan elhalványul, így a külső fele szinte láthatatlan.
 
 Vonásaiban felismerhetők az ázsiai jegyek, de a kevert genetikai örökség miatt ezek csak finoman érvényesülnek. Emiko megjelenése egyszerre gyönyörű és ártatlan, egy törékeny szépség, és aki mögött titkok, valamint rejtett erő lapul.
 
-![[Emiko.png|500]]
+
+![[Emiko v4 drawn.png|500]]
+
+![[Emiko v2.png|500]]
+

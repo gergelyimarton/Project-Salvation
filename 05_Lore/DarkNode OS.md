@@ -2,7 +2,7 @@
 tags:
   - Project
   - Tool
-  - Operation_System
+  - OperationSystem
 ---
 A **DarkNode OS** az [[UmbraNet]] technikai és logikai alapja: egy egyedileg fejlesztett, rétegzett operációs rendszer, amely minden UmbraNet-csomóponton fut, és meghatározza a hálózaton belüli viselkedés szabályait. Miközben az UmbraNet biztosítja a decentralizált infrastruktúrát, a DarkNode OS felel a **hozzáférésért, döntéshozatalért és végrehajtásért**. A kettő nem létezik egymás nélkül: UmbraNet nélkül az OS izolált lenne, DarkNode OS nélkül pedig a hálózat irányíthatatlan káosszá válna.
 

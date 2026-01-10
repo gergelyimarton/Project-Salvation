@@ -2,7 +2,7 @@ A nagy háború után sokan elvesztették a klasszikus vallásokba vetett hitük
 
 #### **Helyette**:
 
-  * **Techno-miszticizmus**: MI-ket, implantátumokat istenítik. **Isten szeme** szekta → szerintük a gép jobban tudja, mire van szükség az embernek.
+  * **Techno-miszticizmus**: MI-ket, implantátumokat istenítik. Singularis szekta → szerintük a gép jobban tudja, mire van szükség az embernek.
 
   * **Neo-buddhizmus**: természetbe menekülő kicsi közösségek, akik az egyensúlyt keresik a technológia és a természet között.
 
