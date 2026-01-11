@@ -8,6 +8,34 @@
         "type": "tabs",
         "children": [
           {
+            "id": "a39ad1b67aaa75e2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "06_Books/Book One/Chapters/17. Fejezet – (2351. május).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "17. Fejezet – (2351. május)"
+            }
+          },
+          {
+            "id": "5040e0936557a417",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "06_Books/Book One/Chapters/16. Fejezet – Az adatvákuum (2351. május).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "16. Fejezet – Az adatvákuum (2351. május)"
+            }
+          },
+          {
             "id": "f4148e8c17d7232d",
             "type": "leaf",
             "state": {
@@ -20,35 +48,9 @@
               "icon": "lucide-file",
               "title": "2350-2351"
             }
-          },
-          {
-            "id": "5040e0936557a417",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "06_Books/Book One/Chapters/16. Fejezet - Az adatvákuum (2351. május).md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "16. Fejezet - Az adatvákuum (2351. május)"
-            }
-          },
-          {
-            "id": "a39ad1b67aaa75e2",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "07_Assets/Visual references/Emiko v4 drawn.png"
-              },
-              "icon": "lucide-image",
-              "title": "Emiko v4 drawn"
-            }
           }
         ],
-        "currentTab": 2
+        "stacked": true
       }
     ],
     "direction": "vertical"
@@ -80,7 +82,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:OperationSystem",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -105,7 +107,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 277.5
+    "width": 277.5,
+    "collapsed": true
   },
   "right": {
     "id": "a80913a4baa3c05b",
@@ -121,7 +124,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "06_Books/Book One/Chapters/15. Fejezet - (2351. április).md",
+                "file": "06_Books/Book One/Chapters/17. Fejezet – (2351. május).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +134,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 15. Fejezet - (2351. április)"
+              "title": "Backlinks for 17. Fejezet – (2351. május)"
             }
           },
           {
@@ -140,12 +143,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "06_Books/Book One/12. Fejezet - (2351. április).md",
+                "file": "06_Books/Book One/Chapters/17. Fejezet – (2351. május).md",
                 "linksCollapsed": false,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 12. Fejezet - (2351. április)"
+              "title": "Outgoing links from 17. Fejezet – (2351. május)"
             }
           },
           {
@@ -183,15 +186,17 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "06_Books/Book One/Chapters/17. Fejezet – (2351. május).md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of 17. Fejezet – (2351. május)"
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -209,11 +214,26 @@
       "bases:Create new base": false
     }
   },
-  "active": "252990cb5673ce7a",
+  "active": "a39ad1b67aaa75e2",
   "lastOpenFiles": [
-    "07_Assets/Visual references/Emiko v4 drawn.png",
-    "07_Assets/Visual references/Emiko v3 drawn.png",
+    "06_Books/Book One/Chapters/16. Fejezet – Az adatvákuum (2351. május).md",
+    "04_Timeline/2350-2351.md",
+    "06_Books/Book One/Chapters/17. Fejezet – (2351. május).md",
     "01_Characters/Main Characters/Emiko Narukami.md",
+    "07_Assets/Visual references/Emiko.png",
+    "06_Books/Book One/Chapters/13. Fejezet – A csend nem véd meg (2351. április).md",
+    "06_Books/Book One/Chapters/07. Fejezet – Fejvadászok  (2351. február).md",
+    "06_Books/Book One/Chapters/08. Fejezet – Köztes állapot  (2351. március).md",
+    "06_Books/Book One/Chapters/09. Fejezet – Szimulált kegyelem (2351. március).md",
+    "06_Books/Book One/Chapters/10. Fejezet – Jelvesztés (2351. április).md",
+    "06_Books/Book One/Chapters/11. Fejezet – Árnyak a mélyben (2351. április).md",
+    "06_Books/Book One/Chapters/12. Fejezet – A Folyosó (2351. április).md",
+    "06_Books/Book One/Chapters/14. Fejezet – Bűntudat és kötelesség (2351. április).md",
+    "06_Books/Book One/Chapters/15. Fejezet – Kollektív belátás (2351. április).md",
+    "README.md",
+    "01_Characters/Main Characters/Jüra.md",
+    "07_Assets/Visual references/Emiko v3 drawn.png",
+    "07_Assets/Visual references/Emiko v4 drawn.png",
     "02_City/Social Layers.md",
     "02_City/Locations/Mélyút.md",
     "02_City/Locations/Csatornahálózat.md",
@@ -225,28 +245,13 @@
     "03_Factions & Corps/Umbra Collective.md",
     "00_RAW/Character Ideas/Crimson Cry.md",
     "07_Assets/Visual references/Emiko v2.png",
-    "06_Books/Book One/Chapters/16. Fejezet - Az adatvákuum (2351. május).md",
-    "06_Books/Book One/Chapters/15. Fejezet - Kollektív belátás (2351. április).md",
-    "00_RAW/Story Ideas.md",
     "02_City/Religions",
-    "01_Characters/Side Characters/Anya.md",
-    "01_Characters/Main Characters/Null.md",
-    "01_Characters/Main Characters/Jüra.md",
-    "07_Assets/Visual references/Emiko.png",
     "07_Assets/Visual references/Project Salvation Cover.png",
-    "06_Books/Book One/Chapters/0. Prológus.md",
     "07_Assets/Visual references/Project Salvation Cover 1.png",
     "07_Assets/Visual references/Emiko's Apartment.png",
-    "01_Characters/Side Characters/D2.md",
-    "01_Characters/Side Characters/Mirko Stanić.md",
-    "01_Characters/NPCs/Ivan.md",
-    "01_Characters/Side Characters/Afar.md",
     "07_Assets/Visual references/Afar.png",
     "Emiko hálója.canvas",
     "07_Assets/Visual references/Crimson Cry physical form.png",
-    "00_RAW/Character Ideas/Tommy.md",
-    "README.md",
-    "04_Timeline/2350-2351.md",
     "06_Books/Book One/Chapters",
     "06_Books/Book One/Reports",
     "00_RAW/Location Ideas",
