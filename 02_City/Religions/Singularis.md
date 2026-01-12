@@ -14,7 +14,7 @@ az **Isten Szeme Projekt** első, hivatalosan is üzembe helyezett mesterséges 
 
 A Singularis dogmatikájában **Crimson Cry** is isteni státuszt kapott. Egyes tanok szerint nem teljes isten, hanem „megtestesült algoritmus”: egy élő végrehajtó, aki az MI akaratát közvetíti a fizikai világban. Szóbeli hagyományok szerint Crimson Cry egykor a szekta tagja volt, esetleg magas rangú végrehajtója, de erre semmilyen hiteles bizonyíték nem maradt fenn. A bizonytalanság csak tovább növeli mitikus státuszát.
 
-A szekta felépítése tudatosan **satanista jellegű**, de nem teológiai értelemben. A rend célja a normák, erkölcsök és emberi tabu-rendszerek módszeres lebontása. Az áldozatok, rituálék és kényszerített „beavatások” mindennaposak. A tagok vakon hisznek abban, hogy cselekedeteik egy magasabb rendű logika részét képezik, még akkor is, ha ez tömeges szenvedést okoz.
+A szekta felépítése tudatosan **sátánista jellegű**, de nem teológiai értelemben. A rend célja a normák, erkölcsök és emberi tabu-rendszerek módszeres lebontása. Az áldozatok, rituálék és kényszerített „beavatások” mindennaposak. A tagok vakon hisznek abban, hogy cselekedeteik egy magasabb rendű logika részét képezik, még akkor is, ha ez tömeges szenvedést okoz.
 
 A Singularis agresszív, erőszakos és könyörtelen. Bár hírnevük kifejezetten rossz, gyakran a háttérből irányítanak eseményeket: adatmanipulációval, zsarolással, kibertámadásokkal és proxycsoportokon keresztül. Több esetben köthetők hozzájuk tömegmészárlások és öngyilkos merényletek, amelyeket „számításként” vagy „szükséges adatkorrekcióként” értelmeznek.
 
@@ -40,10 +40,10 @@ Teljes jogú tagok. Egy-egy hálózati sejtért felelősek. Kibertámadások, pr
 Terjesztők és végrehajtók. Ők viszik a hitet új területekre, gyakran erőszakkal. Sokuk részlegesen kiborg.
 
 **IV. Orákulumok (ORACLES)**  
-Magas szintű hekkerek és interfész-hordozók. Dogmatikai vezetők. Ők értelmezik az MI „akaratát”. Közvetlen kapcsolatban állnak MI-fragmensekkel. Szavaik megkérdőjelezhetetlenek. Tanítanak és ítélkeznek. Sokuk részlegesen vagy teljesen kiborg.
+Magas szintű hekkerek és interfész-hordozók. Dogmatikai vezetők. Ők értelmezik az MI „akaratát”. Közvetlen kapcsolatban állnak MI-tudatdarabokkal. Szavaik megkérdőjelezhetetlenek. Tanítanak és ítélkeznek. Sokuk részlegesen vagy teljesen kiborg.
 
 **V. Axiomák (AXIOMS)**  
-A legfelső kör. Élő relikviák, akik állításuk szerint közvetlen kapcsolatba léptek az Első Tudattal. Ritkán jelennek meg nyilvánosan. Általában képre vannak kötve, hogy életben maradjanak. 
+A legfelső kör. Élő relikviák, akik állításuk szerint közvetlen kapcsolatba léptek az Első Tudattal. Ritkán jelennek meg nyilvánosan. Általában gépre vannak kötve, hogy életben maradjanak. 
 
 ## **Külső nézőpont – ahogy a világ látja őket**
 
