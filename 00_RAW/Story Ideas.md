@@ -61,3 +61,12 @@ Miután Mélyútnak sikerült kialakítani egy stabil kereskedelmi útvonalat el
 5. ~~**Underdeveloped romance**: Add 2-3 intimate scenes exploring how transformation affects their relationship. Create relationship conflict around Jüra's leash/uncertain future.~~
 
 6. **Information overload**: Consolidate mysteries. One revelation should answer multiple questions. Space reveals across books.
+
+---
+
+A szentatus es a mega cegek okoszistemajanak kidolgozasa. Pl csaladok, hatalmi harcok, mukodes, genetikai verseny es tokeletesites, kenyszerhazassagok stb...
+
+Kellenek emlekezetes Black_Inca fejvadaszok. Egy mar van. Crimson Cry.
+
+Mas hipervarosok kidolgozasa.
+

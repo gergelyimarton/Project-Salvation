@@ -1,5 +1,3 @@
-#### **Felső kör / Szenátus:**
-
 * **Politikusok + megmaradt nagyvállalatok vezetői:** Luxusnegyedekben élnek, az égig érő tornyok tetején. Genetikailag javított testek, implantátumok, mesterséges hosszú élet. Mindenük megvan, de paranoia uralja őket, mert tudják, hogy a nép gyűlöli őket.
 
 * **Középréteg / Szolgáltatói réteg**  
@@ -50,3 +48,19 @@
 * **Polgárok:** dolgozók, akikkel betartatják a szabályokat.  
 * **Alsó kör:** Munkások, migránsok, bevándorlók, nyomornegyedek lakói.  
 * **Elhagyottak:** rendszerellenesek, száműzöttek vagy „adatban nem létezők”.
+
+
+
+#### **Felső kör / Szenátus:**
+
+A hiperváros felső rétege nem alkot egységes tömböt. A látszólagos rendezetlenség mögött szigorú, hallgatólagos szabályrendszer működik, amely nem kultúrákban vagy nemzetekben, hanem **ritkaságban** gondolkodik. A tömeghez tartozni lent természetes; fent a különbözőség jelent értéket. Bizonyos vérvonalak fennmaradása nem történelmi véletlen, hanem tudatosan fenntartott állapot.
+
+Az egyiptomi, arab, afrikai vagy európai eredetű családok nem kulturális közösségként léteznek, hanem **biológiai kivételként** egy túlnyomórészt kelet-ázsiai populációban. Kevesen vannak, ezért láthatók. A ritkaság presztízzsé válik: nem hirdetett, mégis mindenki által ismert minőséggé a felső körökben. Ezek a családok számon vannak tartva, nemcsak név szerint, hanem adatsorokként, származási mintázatokként, a többségtől mért genetikai távolságként.
+
+A felső rétegben a kapcsolatok nem spontán módon alakulnak. A házasságokat elemzések, kompatibilitási modellek és hosszú távú vérvonal-stratégiák vezérlik. A gyermek nem esemény, hanem eredmény. A cél nem az asszimiláció, hanem az eltérés fenntartása: elég közel maradni a rendszerhez ahhoz, hogy működjön, és elég távol ahhoz, hogy pótolhatatlan maradjon. A homogenitás kockázatot jelent, mert lecserélhetőséget hoz magával.
+
+Ez a világ felfelé zárt. A ritka vérrel rendelkező családok egymás között mozognak, egymásba házasodnak, egymás változásait figyelik. A rendszer nem engedi meg, hogy egy értékes eltérés feloldódjon a tömegben. Amit megőrzésre méltónak ítélnek, azt elszigetelik, védik és továbbörökítik.
+
+Lent mindebből csak töredékek látszanak. A falakon belülre beszököttek között időnként megjelennek ismerős vonások, idegen arányok, olyan arcok, amelyek nem illenek a város átlagához. Ez azonban nem jelent felemelkedést. A rendszer nem felfelé nyitott, hanem kivonó. Ami fent értéknek számít, lent nyersanyagként vagy zavaró tényezőként jelenik meg. Hitelesítés nélkül a gén nem státusz, csak potenciál, amelyet el lehet távolítani, feldolgozni vagy eltüntetni.
+
+A város működése nem erkölcsi alapon szerveződik, hanem hatékonyság szerint. A falak nemcsak a külvilágot zárják ki, hanem az értéket választják el az értéktelentől. A felső réteg számára ez nem kérdés, hanem adottság: a ritkaságot ott őrzik meg, ahol hasznot termel, és ott engedik elveszni, ahol nem. A rendszer így marad stabil, hideg és következetes.
