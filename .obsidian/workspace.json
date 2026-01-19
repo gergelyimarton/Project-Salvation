@@ -4,25 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "0d079db0be3d3300",
+        "id": "004196bd1388d03d",
         "type": "tabs",
         "children": [
           {
-            "id": "3c7e9fdc97025d64",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "06_Books/Book One/Chapters/17. Fejezet – Újrakalibrált valóság (2351. május).md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "17. Fejezet – Újrakalibrált valóság (2351. május)"
-            }
-          },
-          {
-            "id": "a39ad1b67aaa75e2",
+            "id": "881a8119f661ad47",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -36,19 +22,21 @@
             }
           },
           {
-            "id": "feb359bcd04c1ee9",
+            "id": "e839c177b2d51413",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "07_Assets/Visual references/new bunker.png"
+                "file": "README.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "new bunker"
+              "icon": "lucide-file",
+              "title": "README"
             }
           }
         ],
-        "currentTab": 2,
+        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -122,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "07_Assets/Visual references/new bunker.png",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,7 +120,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for new bunker"
+              "title": "Backlinks for README"
             }
           },
           {
@@ -141,12 +129,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "07_Assets/Visual references/new bunker.png",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from new bunker"
+              "title": "Outgoing links from README"
             }
           },
           {
@@ -184,13 +172,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "07_Assets/Visual references/new bunker.png",
+                "file": "README.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of new bunker"
+              "title": "Outline of README"
             }
           }
         ],
@@ -212,21 +200,31 @@
       "bases:Create new base": false
     }
   },
-  "active": "feb359bcd04c1ee9",
+  "active": "e839c177b2d51413",
   "lastOpenFiles": [
-    "07_Assets/Visual references/Tommy working.png",
+    "06_Books/Book One/Chapters/18. Fejezet – (2351. május).md",
+    "04_Timeline/2350-2351.md",
+    "00_RAW/Hacking Techniques.md",
+    "00_RAW/Story Ideas.md",
     "08_World/Hipervárosok.md",
+    "00_RAW/Character Ideas/Abigail.md",
+    "00_RAW/Character Ideas/Tommy.md",
+    "01_Characters/Side Characters/Mirko Stanić.md",
+    "00_RAW/Character Ideas/Crimson Cry.md",
+    "00_RAW/Character Ideas/Emiko apja.md",
+    "01_Characters/Side Characters/Anya.md",
+    "01_Characters/Side Characters/Afar.md",
+    "01_Characters/Main Characters/Null.md",
+    "01_Characters/Main Characters/Emiko Narukami.md",
+    "01_Characters/Main Characters/Jüra.md",
+    "07_Assets/Visual references/new bunker.png",
+    "07_Assets/Visual references/Tommy working.png",
     "04_Timeline/2070-2170.md",
     "04_Timeline/2170-2310.md",
     "02_City/Social Layers.md",
     "02_City/Factions.md",
-    "00_RAW/Story Ideas.md",
-    "06_Books/Book One/Chapters/18. Fejezet – (2351. május).md",
-    "04_Timeline/2350-2351.md",
-    "00_RAW/Character Ideas/Abigail.md",
     "06_Books/Book One/Chapters/17. Fejezet – Újrakalibrált valóság (2351. május).md",
     "07_Assets/Visual references/Crimson Cry network form.jpg",
-    "07_Assets/Visual references/new bunker.png",
     "07_Assets/Visual references/Project Salvation Cover.png",
     "07_Assets/Visual references/new bunker 1.ds",
     "07_Assets/Visual references/new bunker.ds",
@@ -239,20 +237,10 @@
     "04_Timeline/2320.md",
     "04_Timeline/2322-2325.md",
     "04_Timeline/2312.md",
-    "05_Lore/DarkNode OS.md",
-    "01_Characters/Main Characters/Emiko Narukami.md",
-    "01_Characters/Main Characters/Jüra.md",
-    "06_Books/Book One/Chapters/04. Fejezet – Találkozás  (2351. január).md",
-    "06_Books/Book One/Chapters/16. Fejezet – Az adatvákuum (2351. május).md",
     "Emiko hálója.canvas",
-    "06_Books/Book One/Chapters/10. Fejezet – Jelvesztés (2351. április).md",
-    "00_RAW/Character Ideas/Emiko apja.md",
-    "06_Books/Book One/Chapters/06. Fejezet – Testek  (2351. február).md",
-    "06_Books/Book One/Chapters/08. Fejezet – Köztes állapot  (2351. március).md",
     "07_Assets/Visual references/Emiko.png",
     "07_Assets/Visual references/Emiko v3 drawn.png",
     "07_Assets/Visual references/Emiko v4 drawn.png",
-    "07_Assets/Visual references/Emiko v2.png",
     "02_City/Religions",
     "06_Books/Book One/Chapters",
     "06_Books/Book One/Reports",

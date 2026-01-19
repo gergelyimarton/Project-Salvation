@@ -64,9 +64,9 @@ Miután Mélyútnak sikerült kialakítani egy stabil kereskedelmi útvonalat el
 
 ---
 
-A szentatus es a mega cegek okoszistemajanak kidolgozasa. Pl csaladok, hatalmi harcok, mukodes, genetikai verseny es tokeletesites, kenyszerhazassagok stb...
+~~A szentatus es a mega cegek okoszistemajanak kidolgozasa. Pl csaladok, hatalmi harcok, mukodes, genetikai verseny es tokeletesites, kenyszerhazassagok stb...~~
 
-Kellenek emlekezetes Black_Inca fejvadaszok. Egy mar van. Crimson Cry.
+Kellenek emlekezetes Black_Inca fejvadaszok. Egy mar van: Crimson Cry.
 
-Mas hipervarosok kidolgozasa.
+~~Mas hipervarosok kidolgozasa.~~
 
