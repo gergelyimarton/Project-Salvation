@@ -83,8 +83,7 @@ Ajka telt és csókos, természetes rózsaszín, alsó ajkában egy labret pierc
 
 Vonásaiban felismerhetők az ázsiai jegyek, de a kevert genetikai örökség miatt ezek csak finoman érvényesülnek. Emiko megjelenése egyszerre gyönyörű és ártatlan, egy törékeny szépség, és aki mögött titkok, valamint rejtett erő lapul.
 
+![[Emiko v2.png|500]]
 
 ![[Emiko v4 drawn.png|500]]
-
-![[Emiko v2.png|500]]
 

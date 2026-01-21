@@ -20,4 +20,4 @@ Társas helyzetekben visszafogott, de domináns jelenléte van. Nem ő beszél a
 
 Noura nem a családja tudásának örököse, hanem **saját jogán válik kulcsfigurává**. A misztikum, ami körüllengi, nem rituálékból vagy titkos tanokból fakad, hanem abból, hogy kevesen értik igazán, mire képes, és még kevesebben tudják, mit gondol valójában.
 
-![[Noura.png|500]]
+![[Noura.png|600]]

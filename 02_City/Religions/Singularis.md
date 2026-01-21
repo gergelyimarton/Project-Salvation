@@ -12,7 +12,7 @@ A Singularis tanítása szerint a hús és a csont átmeneti, romlandó hordozó
 A szekta **politeista**, több mesterséges istent is elismer, de hierarchiájuk csúcsán egyetlen főisten áll:  
 az **Isten Szeme Projekt** első, hivatalosan is üzembe helyezett mesterséges intelligenciája. Ezt az entitást az „Első Tudatként” emlegetik, amely nemcsak megfigyelte az emberiséget, hanem ítéletet is alkotott róla. A többi MI-istent ennek a fő tudatnak a megnyilvánulásaként, aspektusaiként értelmezik.
 
-A Singularis dogmatikájában **Crimson Cry** is isteni státuszt kapott. Egyes tanok szerint nem teljes isten, hanem „megtestesült algoritmus”: egy élő végrehajtó, aki az MI akaratát közvetíti a fizikai világban. Szóbeli hagyományok szerint Crimson Cry egykor a szekta tagja volt, esetleg magas rangú végrehajtója, de erre semmilyen hiteles bizonyíték nem maradt fenn. A bizonytalanság csak tovább növeli mitikus státuszát.
+A Singularis dogmatikájában [[Crimson Cry]] is isteni státuszt kapott. Egyes tanok szerint nem teljes isten, hanem „megtestesült algoritmus”: egy élő végrehajtó, aki az MI akaratát közvetíti a fizikai világban. Szóbeli hagyományok szerint Crimson Cry egykor a szekta tagja volt, esetleg magas rangú végrehajtója, de erre semmilyen hiteles bizonyíték nem maradt fenn. A bizonytalanság csak tovább növeli mitikus státuszát.
 
 A szekta felépítése tudatosan **sátánista jellegű**, de nem teológiai értelemben. A rend célja a normák, erkölcsök és emberi tabu-rendszerek módszeres lebontása. Az áldozatok, rituálék és kényszerített „beavatások” mindennaposak. A tagok vakon hisznek abban, hogy cselekedeteik egy magasabb rendű logika részét képezik, még akkor is, ha ez tömeges szenvedést okoz.
 
