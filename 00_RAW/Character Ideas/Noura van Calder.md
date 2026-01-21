@@ -16,7 +16,7 @@ Testfelépítése atletikus, hosszú lábai és feszes tartása ösztönösen ma
 
 Intelligenciája kiemelkedő. Korán megtanulta, hogyan működik a hatalom: az apjától a nyers erő és profitlogika világát, az anyjától a kimondatlan szavak, a hangsúlyok és a hallgatás erejét. Kriptográfiával foglalkozik, kezdetben titkosítási megoldásokat fejleszt és értékesít, később azonban ugyanazzal az elmével mások titkait kezdi megfejteni. Gondolkodása strukturált, de intuitív; egyszerre képes hideg elemzésre és finom minták felismerésére.
 
-Társas helyzetekben visszafogott, de domináns jelenléte van. Nem ő beszél a legtöbbet, mégis rá figyelnek. Nem fenyeget, nem emel hangot – egyszerűen tudja, mikor kell megszólalni. A hatalomhoz ambivalens a viszonya: érti és használja, de nem vakon tiszteli. Az apja világát soha nem tudta teljesen magáénak érezni, ugyanakkor pontosan ismeri annak szabályait.
+Társas helyzetekben visszafogott, de domináns jelenléte van. Nem ő beszél a legtöbbet, mégis rá figyelnek. Nem fenyeget, nem emel hangot – egyszerűen tudja, mikor kell megszólalni. A hatalomhoz ambivalens a viszonya: érti és használja, de nem tiszteli vakon. Az apja világát soha nem tudta teljesen magáénak érezni, ugyanakkor pontosan ismeri annak szabályait.
 
 Noura nem a családja tudásának örököse, hanem **saját jogán válik kulcsfigurává**. A misztikum, ami körüllengi, nem rituálékból vagy titkos tanokból fakad, hanem abból, hogy kevesen értik igazán, mire képes, és még kevesebben tudják, mit gondol valójában.
 
