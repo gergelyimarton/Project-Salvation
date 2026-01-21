@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00_RAW/Character Ideas/Noura van Calder.md",
+                "file": "03_Factions & Corps/HELIXA.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Noura van Calder"
+              "title": "HELIXA"
             }
           }
         ],
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00_RAW/Character Ideas/Noura van Calder.md",
+                "file": "03_Factions & Corps/HELIXA.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +105,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Noura van Calder"
+              "title": "Backlinks for HELIXA"
             }
           },
           {
@@ -114,12 +114,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "00_RAW/Character Ideas/Noura van Calder.md",
+                "file": "03_Factions & Corps/HELIXA.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Noura van Calder"
+              "title": "Outgoing links from HELIXA"
             }
           },
           {
@@ -157,13 +157,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00_RAW/Character Ideas/Noura van Calder.md",
+                "file": "03_Factions & Corps/HELIXA.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Noura van Calder"
+              "title": "Outline of HELIXA"
             }
           }
         ],
@@ -187,8 +187,27 @@
   },
   "active": "881a8119f661ad47",
   "lastOpenFiles": [
-    "07_Assets/Visual references/Samira El-Sayed.png",
+    "03_Factions & Corps/YMANATICS.md",
+    "03_Factions & Corps/TERRA.md",
+    "03_Factions & Corps/SYNDICORE.md",
+    "03_Factions & Corps/STRATOS DEFENSE SYSTEMS.md",
+    "03_Factions & Corps/ORIGINS.md",
+    "03_Factions & Corps/NEUROX.md",
+    "03_Factions & Corps/LUXORA.md",
+    "03_Factions & Corps/HELIXA.md",
+    "03_Factions & Corps/CIVISYNC.md",
+    "03_Factions & Corps/AURELION.md",
+    "03_Factions & Corps/ECHO LINE MEDIA.md",
+    "03_Factions & Corps/Black_Inca.md",
+    "03_Factions & Corps/Untitled",
+    "03_Factions & Corps/Szenátus.md",
+    "03_Factions & Corps/VECTRA.md",
+    "03_Factions & Corps/Maffia.md",
+    "02_City/Factions.md",
+    "02_City/Social Layers and Government.md",
+    "06_Books/Book One/Chapters/00. Prológus.md",
     "00_RAW/Character Ideas/Noura van Calder.md",
+    "07_Assets/Visual references/Samira El-Sayed.png",
     "07_Assets/Visual references/Jüra.png",
     "07_Assets/Visual references/Afar.png",
     "07_Assets/Visual references/Anya.png",
@@ -201,29 +220,12 @@
     "00_RAW/Story Ideas.md",
     "08_World/Hipervárosok.md",
     "00_RAW/Character Ideas/Tommy.md",
-    "01_Characters/Side Characters/Mirko Stanić.md",
-    "00_RAW/Character Ideas/Crimson Cry.md",
-    "00_RAW/Character Ideas/Emiko apja.md",
-    "01_Characters/Side Characters/Anya.md",
-    "01_Characters/Side Characters/Afar.md",
-    "01_Characters/Main Characters/Null.md",
-    "01_Characters/Main Characters/Emiko Narukami.md",
-    "01_Characters/Main Characters/Jüra.md",
     "07_Assets/Visual references/new bunker.png",
     "07_Assets/Visual references/Tommy working.png",
-    "04_Timeline/2070-2170.md",
-    "04_Timeline/2170-2310.md",
-    "02_City/Social Layers.md",
-    "02_City/Factions.md",
-    "06_Books/Book One/Chapters/17. Fejezet – Újrakalibrált valóság (2351. május).md",
     "07_Assets/Visual references/Crimson Cry network form.jpg",
     "07_Assets/Visual references/Project Salvation Cover.png",
     "07_Assets/Visual references/new bunker 1.ds",
     "07_Assets/Visual references/new bunker.ds",
-    "06_Books/Book One/Chapters/05. Fejezet – Az első dominó  (2351. január).md",
-    "06_Books/Book One/Chapters/00. Prológus.md",
-    "04_Timeline/2310-2313.md",
-    "04_Timeline/2320.md",
     "Emiko hálója.canvas",
     "02_City/Religions",
     "06_Books/Book One/Chapters",

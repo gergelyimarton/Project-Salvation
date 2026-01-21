@@ -15,14 +15,14 @@
 
 **Szenátus:**
 
-* Látszat-demokrácia. A nép „választ”, de minden jelöltet a nagyvállalatok hagynak jóvá.  
+* Látszat-demokrácia. A nép „választ”, de minden jelöltet a **Korporatív Tanács** (nagyvállalatok) hagynak jóvá.  
 * A szenátorok valójában a cégek érdekeit képviselik. A döntések előre eldőlnek, a viták csak színház a nyilvánosságnak.
 
 **Korporatív Tanács:**
 
 * Tizenkét megavállalat vezetői ülnek benne – ők a valódi hatalom.  
 * Minden törvény, gazdasági döntés és háború az ő engedélyükhöz kötött.  
-* A tagok élethosszig maradnak, hacsak cégük el nem bukik.
+* A tagok generációkon keresztül maradnak, hacsak cégük el nem bukik.
 
 **Főkonzul:**
 
