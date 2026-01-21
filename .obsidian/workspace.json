@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03_Factions & Corps/HELIXA.md",
+                "file": "06_Books/Book One/Reports/Chapter 17 – Újrakalibrált valóság (Recalibrated Reality) – Analysis Report.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "HELIXA"
+              "title": "Chapter 17 – Újrakalibrált valóság (Recalibrated Reality) – Analysis Report"
             }
           }
         ],
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "03_Factions & Corps/HELIXA.md",
+                "file": "06_Books/Book One/Reports/Chapter 17 – Újrakalibrált valóság (Recalibrated Reality) – Analysis Report.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +105,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for HELIXA"
+              "title": "Backlinks for Chapter 17 – Újrakalibrált valóság (Recalibrated Reality) – Analysis Report"
             }
           },
           {
@@ -114,12 +114,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "03_Factions & Corps/HELIXA.md",
+                "file": "06_Books/Book One/Reports/Chapter 17 – Újrakalibrált valóság (Recalibrated Reality) – Analysis Report.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from HELIXA"
+              "title": "Outgoing links from Chapter 17 – Újrakalibrált valóság (Recalibrated Reality) – Analysis Report"
             }
           },
           {
@@ -157,13 +157,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "03_Factions & Corps/HELIXA.md",
+                "file": "06_Books/Book One/Reports/Chapter 17 – Újrakalibrált valóság (Recalibrated Reality) – Analysis Report.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of HELIXA"
+              "title": "Outline of Chapter 17 – Újrakalibrált valóság (Recalibrated Reality) – Analysis Report"
             }
           }
         ],
@@ -187,6 +187,15 @@
   },
   "active": "881a8119f661ad47",
   "lastOpenFiles": [
+    "06_Books/Book One/Chapters/18. Fejezet – (2351. május).md",
+    "06_Books/Book One/Reports/Chapter 17 – Újrakalibrált valóság (Recalibrated Reality) – Analysis Report.md",
+    "06_Books/Book One/Reports/Chapter 16 – Az adatvákuum (The Data Vacuum) – Analysis Report.md",
+    "06_Books/Book One/Reports/Chapter 15 – Kollektív belátás (Collective Insight) – Analysis Report.md",
+    "06_Books/Book One/Reports/Chapter 14 - Bűntudat és kötelesség (Guilt and Duty) - Analysis Report.md",
+    "06_Books/Book One/Reports/Chapter 13 – A csend nem véd meg (Silence Does Not Protect) – Analysis Report.md",
+    "00_RAW/Character Ideas/Noura van Calder.md",
+    "01_Characters/Main Characters/Emiko Narukami.md",
+    "03_Factions & Corps/HELIXA.md",
     "03_Factions & Corps/YMANATICS.md",
     "03_Factions & Corps/TERRA.md",
     "03_Factions & Corps/SYNDICORE.md",
@@ -194,7 +203,6 @@
     "03_Factions & Corps/ORIGINS.md",
     "03_Factions & Corps/NEUROX.md",
     "03_Factions & Corps/LUXORA.md",
-    "03_Factions & Corps/HELIXA.md",
     "03_Factions & Corps/CIVISYNC.md",
     "03_Factions & Corps/AURELION.md",
     "03_Factions & Corps/ECHO LINE MEDIA.md",
@@ -206,20 +214,12 @@
     "02_City/Factions.md",
     "02_City/Social Layers and Government.md",
     "06_Books/Book One/Chapters/00. Prológus.md",
-    "00_RAW/Character Ideas/Noura van Calder.md",
     "07_Assets/Visual references/Samira El-Sayed.png",
     "07_Assets/Visual references/Jüra.png",
     "07_Assets/Visual references/Afar.png",
     "07_Assets/Visual references/Anya.png",
     "07_Assets/Visual references/Emiko.png",
     "07_Assets/Visual references/Noura.png",
-    "README.md",
-    "06_Books/Book One/Chapters/18. Fejezet – (2351. május).md",
-    "04_Timeline/2350-2351.md",
-    "00_RAW/Hacking Techniques.md",
-    "00_RAW/Story Ideas.md",
-    "08_World/Hipervárosok.md",
-    "00_RAW/Character Ideas/Tommy.md",
     "07_Assets/Visual references/new bunker.png",
     "07_Assets/Visual references/Tommy working.png",
     "07_Assets/Visual references/Crimson Cry network form.jpg",

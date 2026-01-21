@@ -8,7 +8,7 @@ tags:
 ---
 
 
-**Noura** két megacorporation birtokos családjának lánya. Apja, **Adrian van Calder**, az **Origin** fegyvergyártó óriáscég feje: hideg, szigorú, kíméletlenül profitorientált férfi, aki a világot számokban, hozamban és erőviszonyokban méri. Anyja, **Samira El-Sayed**, egy másik hipervárosból származó, rendkívül régi és előkelő vérvonal örököse; családjuk vállalata kommunikációval, diplomáciai tanácsadással és háttéralkukkal foglalkozik. A házasság nem szerelemből, hanem stratégiai szövetségből született, és ez a feszültség végig ott húzódik Noura eredetében.
+**Noura** két megavállalat birtokos családjának lánya. Apja, **Adrian van Calder**, az **Origin** fegyvergyártó óriáscég feje: hideg, szigorú, kíméletlenül profitorientált férfi, aki a világot számokban, hozamban és erőviszonyokban méri. Anyja, **Samira El-Sayed**, egy másik hipervárosból származó, rendkívül régi és előkelő vérvonal örököse; családjuk vállalata kommunikációval, diplomáciai tanácsadással és háttéralkukkal foglalkozik. A házasság nem szerelemből, hanem stratégiai szövetségből született, és ez a feszültség végig ott húzódik Noura eredetében.
 
 Noura huszonkilenc éves, magas, barnás bőrű, európai–egyiptomi kevert nő. Arca gyönyörű és karakteres, nem klasszikusan szelíd: vonásai határozottak, tekintete mély és figyelő. Sötétbarna szemei nyugodtnak tűnnek, de ritkán árulnak el többet annál, amit ő maga enged. Haja szintén sötétbarna, általában egyszerűen viseli, minden sallang nélkül.
 
