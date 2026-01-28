@@ -4,8 +4,10 @@ tags:
   - faction/underground
 type: revolutionary
 status: active
-headquarters:
+headquarters: decetralized
 leader:
+  - "[[Null]]"
+  - "[[Emiko Narukami|Izanami]]"
 members:
   - "[[Emiko Narukami]]"
   - "[[Jüra]]"
