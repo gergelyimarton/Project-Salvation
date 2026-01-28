@@ -1,6 +1,12 @@
 ---
 tags:
-  - SideCharacter
+  - character
+  - character/side
+aliases:
+  - Anya
+status: alive
+faction:
+first_appearance: "[[17. Fejezet – Újrakalibrált valóság (2351. május)]]"
 ---
 
 ### **Eredete és környezete**
@@ -13,7 +19,7 @@ Magas, elegánsan öltözött nő, aki nem rejteget semmit, de nem is kérkedik.
 
 ### **Múlt és veszteség**
 
-A munkája mögött mély, szótlan fájdalom húzódik. Volt egy fia, akit elveszített – nem beszél róla, és amikor mégis, a hangja megremeg. Ez a gyász belesimul a gesztusaiba, a túlságosan óvatos kérdésekbe, abba, ahogy Jürát figyeli. Nem szentimentális, nem tragikus alak – inkább olyan, aki megtanulta hordozni a veszteséget, mert nem volt más választása.
+A munkája mögött mély, szótlan fájdalom húzódik. Volt egy fia, akit elveszített – nem beszél róla, és amikor mégis, a hangja megremeg. Ez a gyász belesimul a gesztusaiba, a túlságosan óvatos kérdésekbe, abba, ahogy [[Jüra|Jürát]] figyeli. Nem szentimentális, nem tragikus alak – inkább olyan, aki megtanulta hordozni a veszteséget, mert nem volt más választása.
 
 ### **Személyiség**
 
@@ -21,7 +27,7 @@ Nyugodt, megfontolt és mélyen empatikus, de nem a lágy érzelmesség módján
 
 ### **Foglalkozás és képességek**
 
-Anya biotechnológus és orvos, aki képes volt Jürát visszahozni a határon túlról. Olyan testet épített neki, amely egyszerre szintetikus és élő – és ezt a kettősséget nemcsak érti, hanem kézben is tartja. Ismeri a különböző implantátumok idegrendszeri terhelését, az ősi protokollokat és az olyan gyógyszerek eredeti, elfeledett céljait, mint a Z32. Tudása precíz, gyakorlati és könyörtelenül valós.
+Anya biotechnológus és orvos, aki képes volt [[Jüra|Jürát]] visszahozni a határon túlról. Olyan testet épített neki, amely egyszerre szintetikus és élő – és ezt a kettősséget nemcsak érti, hanem kézben is tartja. Ismeri a különböző implantátumok idegrendszeri terhelését, az ősi protokollokat és az olyan gyógyszerek eredeti, elfeledett céljait, mint a [[Z32]]. Tudása precíz, gyakorlati és könyörtelenül valós.
 
 ### **Összkép**
 

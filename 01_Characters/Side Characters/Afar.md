@@ -1,6 +1,12 @@
 ---
 tags:
-  - SideCharacter
+  - character
+  - character/side
+aliases:
+  - Afar
+status: alive
+faction:
+first_appearance: "[[12. Fejezet – A Folyosó (2351. április)]]"
 ---
 
 ### **Eredete és környezete**

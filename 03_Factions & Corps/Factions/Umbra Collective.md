@@ -1,6 +1,14 @@
 ---
 tags:
-  - Faction
+  - faction
+  - faction/underground
+type: revolutionary
+status: active
+headquarters:
+leader:
+members:
+  - "[[Emiko Narukami]]"
+  - "[[Jüra]]"
 ---
 
 ### **Leírás** 

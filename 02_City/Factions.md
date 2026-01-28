@@ -1,3 +1,9 @@
+---
+tags:
+  - overview
+  - city
+---
+
 * **Kormány / [[Szenátus]]**: korrupt, paranoiás, saját hadserege van.
 
 * **[[Maffia]]**: az alsó körökben ők adják az élelmet, drogokat, védelmet – sokszor népszerűbbek, mint a kormány.

@@ -1,7 +1,12 @@
 ---
 tags:
-  - Faction
-  - Religion
+  - faction
+  - faction/religion
+  - religion
+type: cult
+status: active
+headquarters:
+leader:
 ---
 
 

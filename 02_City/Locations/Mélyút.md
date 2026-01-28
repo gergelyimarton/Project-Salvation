@@ -1,6 +1,10 @@
 ---
 tags:
-  - Location
+  - location
+  - location/underground
+type: settlement
+district: underground
+controlled_by:
 ---
 
 (Deepway) – földalatti város
@@ -9,7 +13,7 @@ Mélyút egy elhagyott víztározóból és csatornahálózatból kialakított f
 
 ## **Szerkezet és kialakítás**
 - **Bejárat(ok):**  
-  Jüra egy régi, golyónyomokkal tarkított, megerősített víztározó-ajtón keresztül éri el a helyet. A beléptetés arcfelismeréssel működik.
+  [[Jüra]] egy régi, golyónyomokkal tarkított, megerősített víztározó-ajtón keresztül éri el a helyet. A beléptetés arcfelismeréssel működik.
 - **Tartóelemek:**  
   Több száz tonnás betonoszlopok támasztják alá a mennyezetet.  
 - **Lakóterületek:**  
@@ -33,4 +37,4 @@ Mélyút egy elhagyott víztározóból és csatornahálózatból kialakított f
 ## **Funkció és szerep**
 Mélyút egyfajta társadalmi pufferzóna a felszín és az alvilág között. Nem teljesen önellátó, de elég erőforrással rendelkezik ahhoz, hogy hosszú távon is lakható legyen. Jellemzően menedékhely, műszaki háttérbázis és kereskedelmi csomópont funkciókat lát el.
 
-Ez az a környezet, ahová Jüra is érkezik a jelenetben: egy garázsszerű műhelybe, a lakózóna peremén.
+Ez az a környezet, ahová [[Jüra]] is érkezik a jelenetben: egy garázsszerű műhelybe, a lakózóna peremén.

@@ -1,6 +1,11 @@
 ---
 tags:
-  - Faction
+  - faction
+  - faction/underground
+type: criminal
+status: active
+headquarters:
+leader:
 ---
 
 A város tüdejében ott élnek azok, akik nem a törvényre, hanem a saját erejükre és hírnevükre építenek: a maffiakartellek, alvilági klánok és szervezett bandahálózatok. Formálisan üldözöttek, valójában a hatalom kiszervezett végrehajtói: a kormány őket béreli fel a „piszkos” munkákra — emberrablásra, zsarolásra, kábítószer-kereskedelemre, fegyvercsempészetre és minden olyan feladatra, amihez túl átlátszó lenne a rendőrséget vagy a hadsereget mozgósítani. 

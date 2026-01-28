@@ -1,9 +1,13 @@
 ---
 tags:
-  - MainCharacter
+  - character
+  - character/main
 aliases:
   - Izanami
   - Emiko
+status: alive
+faction: "[[Umbra Collective]]"
+first_appearance: "[[01. Fejezet – Jelek  (2350. november)]]"
 ---
 ### **Hacker Identitás: Izanami**
 
@@ -45,9 +49,9 @@ aliases:
 
 * **Intelligens és zseniális hacker:** Képes banki titkosításokat feltörni, kormányzati rendszereket manipulálni, a digitális hálózatokkal szinte eggyé válni.
 
-* **Önálló és túlélő:** A múltban elveszítette Jürát, azóta egyedül építette fel magát a város alvilágában, ravaszsága és gyors reakciói lehetővé teszik, hogy életben maradjon extrém helyzetekben.
+* **Önálló és túlélő:** A múltban elveszítette [[Jüra|Jürát]], azóta egyedül építette fel magát a város alvilágában, ravaszsága és gyors reakciói lehetővé teszik, hogy életben maradjon extrém helyzetekben.
 
-* **Érzelmi komplexitás:** Mély gyász és magány, amit sosem tudott teljesen feldolgozni. Ugyanakkor a szerettei iránti kötődés erős, különösen Jüra iránt, aki az élete meghatározó figurája.
+* **Érzelmi komplexitás:** Mély gyász és magány, amit sosem tudott teljesen feldolgozni. Ugyanakkor a szerettei iránti kötődés erős, különösen [[Jüra]] iránt, aki az élete meghatározó figurája.
 
 * **Bátor és elszánt:** Nem riad vissza a fizikai veszélytől sem, képes konfrontálódni, tervezni és gyors döntéseket hozni élet-halál helyzetekben.
 
@@ -56,7 +60,7 @@ aliases:
 **Érzelmi világ:**
 * Gyász és veszteség mélyen beágyazódva, de képes kontrollálni az érzelmeit, amikor a helyzet megkívánja.
 
-* Erős kötődés Jürához, aki motivációt és érzelmi stabilitást biztosít számára.
+* Erős kötődés [[Jüra|Jürához]], aki motivációt és érzelmi stabilitást biztosít számára.
 
 * Frusztrált a társadalmi és politikai környezettel, a város brutalitásával szemben, de nem adja fel a küzdelmet.
 
@@ -73,7 +77,7 @@ aliases:
 * [[Jüra]] a legfontosabb kapcsolata, aki egyszerre érzelmi és gyakorlati támasz.
 
 **Összegzés:**  
-Emiko egy rendkívül intelligens, technológiailag integrált, túlélő és stratégiai gondolkodású karakter, akit a veszteség és az érzelmi trauma erősen formált, de ezek ellenére képes bátor, gyors és hatékony cselekvésre. Szenvedélyesen kötődik Jürához, és bár a külvilágot ellenségesnek látja, nem hagyja, hogy a félelem irányítsa.
+Emiko egy rendkívül intelligens, technológiailag integrált, túlélő és stratégiai gondolkodású karakter, akit a veszteség és az érzelmi trauma erősen formált, de ezek ellenére képes bátor, gyors és hatékony cselekvésre. Szenvedélyesen kötődik [[Jüra|Jürához]], és bár a külvilágot ellenségesnek látja, nem hagyja, hogy a félelem irányítsa.
 
 ### **Kinézet**
 

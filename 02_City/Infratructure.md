@@ -1,3 +1,10 @@
+---
+tags:
+  - overview
+  - city
+  - infrastructure
+---
+
 * **Városmag**: toronyerdők, lebegő hidak, neonfények, állandó drón megfigyelés. Az elitnek fenntartva.
 
 * **Külső gyűrűk**: ipari zónák, piacok, nyomornegyedek. Ez a történet fő terepe – káosz, bandák, gerillák.

@@ -1,3 +1,12 @@
+---
+tags:
+  - location
+  - location/underground
+type: infrastructure
+district: underground
+controlled_by:
+---
+
 ## **Leírás**
 A város alatt húzódó csatornahálózat jóval régebbi, mint maga a felszíni városszerkezet jelenlegi formája. Eredetileg technikai és logisztikai céllal épült ki, de az idők során fokozatosan önálló réteggé vált: egy párhuzamos, rejtett réteggé, amely nem csak kiszolgálja a felszínt, hanem sok esetben túl is élte annak egyes részeit. Mélyút ennek a rendszernek csupán egy sűrűn lakott, erősen átalakított szegmense, nem a teljes egész. A csatornák mélyebbre nyúlnak, szélesebb területeket fednek le, és sokkal összetettebbek annál, mint amit Mélyút lakói nap mint nap érzékelnek.
 

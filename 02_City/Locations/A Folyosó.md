@@ -1,11 +1,15 @@
 ---
 tags:
-  - Location
+  - location
+  - location/underground
+type: market
+district: "[[Mélyút]]"
+controlled_by:
 ---
 
 (The Corridor) – Mélyút központi kereskedelmi zónája
 ## **Általános áttekintés**
-A Folyosó Mélyút legzsúfoltabb, legkaotikusabb és legélőbb kereskedelmi csomópontja. Egy több szinten kialakított, függőhidakkal és csatornaeredetű átjárókkal átszőtt árusnegyed, ahol ezrek mozognak egyszerre. A hely atmoszférája intenzív: a város mélyének morajlása összeolvad a tömeg zúgásával, a gépek csattogásával és a folyamatos alkudozás zajával. Itt fut össze minden, ami Mélyút gazdaságát működteti – a legapróbb rozsdás csavartól a tiltott biogépészeti beültetésekig.
+A Folyosó [[Mélyút]] legzsúfoltabb, legkaotikusabb és legélőbb kereskedelmi csomópontja. Egy több szinten kialakított, függőhidakkal és csatornaeredetű átjárókkal átszőtt árusnegyed, ahol ezrek mozognak egyszerre. A hely atmoszférája intenzív: a város mélyének morajlása összeolvad a tömeg zúgásával, a gépek csattogásával és a folyamatos alkudozás zajával. Itt fut össze minden, ami [[Mélyút]] gazdaságát működteti – a legapróbb rozsdás csavartól a tiltott biogépészeti beültetésekig.
 
 ## **Szerkezet és kialakítás**
 
@@ -43,7 +47,7 @@ A Folyosó Mélyút legzsúfoltabb, legkaotikusabb és legélőbb kereskedelmi c
     
 - **Helyi kereskedők:**  
     A Drótontúl műhelyhez hasonló boltok a Folyosó peremén találhatók. Itt lehet alkatrészt beszerezni, cserélni, vagy információt kapni – bár az utóbbiért többnyire külön kell fizetni.  
-    Ennek a körnek egyik közismert alakja Ivan, a mogorva és sokat látott kereskedő, akinek múltja a felszínhez is kötődött.
+    Ennek a körnek egyik közismert alakja [[Ivan]], a mogorva és sokat látott kereskedő, akinek múltja a felszínhez is kötődött.
     
 
 ## **Veszélyek és társadalmi dinamika**
@@ -60,7 +64,7 @@ A Folyosó Mélyút legzsúfoltabb, legkaotikusabb és legélőbb kereskedelmi c
 
 ## **Funkció és szerep**
 
-A Folyosó Mélyút pulzusa. Itt cserél gazdát minden, ami a városban mozog: áruk, pletykák, veszélyek és szövetségek.  
+A Folyosó [[Mélyút]] pulzusa. Itt cserél gazdát minden, ami a városban mozog: áruk, pletykák, veszélyek és szövetségek.  
 A Folyosó egyszerre piac, menedék, információs csomópont és a város politikai-gazdasági idegközpontja.
 
-Itt fonódnak össze azok a szálak, amelyeken Jüra és Afar is áthaladnak a történetben: kérdések, amelyekre senki nem akar válaszolni, és válaszok, amelyek túl sokba kerülnek ahhoz, hogy kimondják őket.
+Itt fonódnak össze azok a szálak, amelyeken [[Jüra]] és [[Afar]] is áthaladnak a történetben: kérdések, amelyekre senki nem akar válaszolni, és válaszok, amelyek túl sokba kerülnek ahhoz, hogy kimondják őket.

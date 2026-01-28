@@ -1,8 +1,12 @@
 ---
 tags:
-  - SideCharacter
+  - character
+  - character/side
 aliases:
   - Mirko
+status: alive
+faction:
+first_appearance: "[[14. Fejezet – Bűntudat és kötelesség (2351. április)]]"
 ---
 
 ### **Eredete és környezete**

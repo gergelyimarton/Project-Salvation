@@ -1,3 +1,10 @@
+---
+tags:
+  - overview
+  - city
+  - religion
+---
+
 A nagy háború után sokan elvesztették a klasszikus vallásokba vetett hitüket.
 
 #### **Helyette**:

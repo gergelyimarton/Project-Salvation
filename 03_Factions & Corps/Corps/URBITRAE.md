@@ -1,1 +1,11 @@
+---
+tags:
+  - faction
+  - faction/corpo
+type: corporation
+status: active
+headquarters:
+leader:
+---
+
 Az Urbitrae a város fizikai szerkezetének belső szabályozója. Nem hódít meg új területeket, hanem a meglévő várost alakítja át folyamatosan. Szintek átrendezése, zónák újraminősítése, lakhatósági határok, lég- és hőáramlás szabályozása mind hozzájuk tartozik. Amit az Urbitrae megfelelőnek nyilvánít, ott beruházás indul. Amit elhanyagolhatónak, az lassan leépül. Döntéseik műszaki indoklással jelennek meg, de társadalmi következményeik megkérdőjelezhetetlenek. A város térképe nem állandó — az Urbitrae folyamatosan újrarajzolja.

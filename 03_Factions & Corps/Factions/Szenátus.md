@@ -1,6 +1,11 @@
 ---
 tags:
-  - Faction
+  - faction
+  - faction/government
+type: government
+status: active
+headquarters:
+leader:
 ---
 
 (Kormány)

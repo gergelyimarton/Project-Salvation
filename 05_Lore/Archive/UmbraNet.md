@@ -1,8 +1,12 @@
 ---
 tags:
-  - Project
-  - Network
-  - Tool
+  - lore
+  - lore/technology
+type: network
+created_by: "[[Umbra Collective]]"
+related_to:
+  - "[[DarkNode OS]]"
+  - "[[Emiko Narukami]]"
 ---
 Az **UmbraNet** az [[Umbra Collective]] működésének alapja: egy saját fejlesztésű, rejtett, radikálisan decentralizált hálózat, amely nem egy szerver köré, hanem **résztvevők köré** szerveződik. Minden csomópont – legyen az aktív operátor vagy passzív támogató – a hálózat egy darabját hordozza, így az UmbraNet nem rendelkezik egyetlen támadható központtal sem. Kívülről kaotikus botnetnek tűnhet, belül azonban szigorúan strukturált, szerepalapú rendszer, amelynek működését a felhasználókon futó [[DarkNode OS]] szabályozza.
 

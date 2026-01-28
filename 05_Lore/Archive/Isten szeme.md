@@ -1,5 +1,11 @@
 ---
 tags:
-  - Project
+  - lore
+  - lore/technology
+type: artificial_intelligence
+created_by: "[[Szenátus]]"
+related_to:
+  - "[[Singularis]]"
+  - "[[Isten keze]]"
 ---
 Az „Isten szeme” egy mesterséges intelligencia projekt, amelyet 2310-ig fejlesztettek, majd teszteltek 2313-ig infrastruktúrális, hadászati és titkosszolgálati célokra. A kezdeti hibák után látszólag leállították, de valójában eltűnt. 2323 és 2326 között újra megjelent, és az emberiség „javítására” törekedett, ami vérengzésekkel járt . Emellett a techno-miszticizmus vallás részeként egy szekta is létrejött köré, amely szerint a gép jobban tudja, mire van szüksége az embernek.

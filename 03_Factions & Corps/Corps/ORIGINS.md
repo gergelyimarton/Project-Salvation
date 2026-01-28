@@ -1,6 +1,11 @@
 ---
 tags:
-  - Corp
+  - faction
+  - faction/corpo
+type: corporation
+status: active
+headquarters:
+leader:
 ---
 
 Az ORIGINS nem játékokat gyárt: ők az állami erőszak ipari karja. Hivatalosan katonai- és rendvédelmi felszerelés-specialista; valójában a sorozatgyártója az automata erőnek — humanoid droidoknak, földi mechaszerű járókáknak, fegyvermoduloknak és felderítő / kill-dronoknak. A cég szerződéseket köt az állami hadsereggel, ugyanakkor árnyékszerződéseket futtat „falon kívüli” egységek felszerelésére: páncél, célzott eszközök, parancsmodulok és logisztikai támogatás a titkos akciókhoz.

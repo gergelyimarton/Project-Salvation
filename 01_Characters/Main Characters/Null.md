@@ -1,9 +1,15 @@
 ---
 tags:
-  - MainCharacter
+  - character
+  - character/main
+aliases:
+  - Null
+status: active
+faction: "[[Umbra Collective]]"
+first_appearance: "[[06. Fejezet – Testek  (2351. február)]]"
 ---
 
-Null egy kétméteres, körülbelül 200 kilogrammos, hiper-modern katonai felderítő droid, akit egy elit hacker irányít titkos missziók végrehajtására. Teste az emberi anatómiát idézi, de minden vonása a funkcionalitásra van optimalizálva: gyors, mozgékony és csendes, ugyanakkor halálosan veszélyes. Emiko irányítja titokban.
+Null egy kétméteres, körülbelül 200 kilogrammos, hiper-modern katonai felderítő droid, akit egy elit hacker irányít titkos missziók végrehajtására. Teste az emberi anatómiát idézi, de minden vonása a funkcionalitásra van optimalizálva: gyors, mozgékony és csendes, ugyanakkor halálosan veszélyes. [[Emiko Narukami|Emiko]] irányítja titokban.
 
 ### **Fej és érzékelők**
 

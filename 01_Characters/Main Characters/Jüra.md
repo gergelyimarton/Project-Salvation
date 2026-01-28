@@ -1,9 +1,13 @@
 ---
 tags:
-  - MainCharacter
+  - character
+  - character/main
 aliases:
   - A patkány
   - The Rat
+status: alive
+faction: "[[Umbra Collective]]"
+first_appearance: "[[04. Fejezet – Találkozás  (2351. január)]]"
 ---
 
 Jüra egy posztapokaliptikus-cyberpunk világ lakója, ahol a brutalista betonmonstrumok és a rideg acélgerendák uralják a teret, de mindezt újabb, modern technológiai rétegek hálózzák be. A város a múlt romjaira épült: omladozó betontömbök közé simulnak be a futurisztikus adatkábelek, szenzorok és digitális kijelzők. A neonfények nem harsányan színesek, inkább hideg, gépies ragyogást vetnek a repedezett falakra, mintha a jelen és a jövő egymásra rakódott rétegei küzdenének a felszínért.
@@ -19,7 +23,7 @@ Jüra egy posztapokaliptikus-cyberpunk világ lakója, ahol a brutalista betonmo
 
 **Érzelmi világ:**
 
-* **Félelem nélküli, de kötődő:** Külsőleg kontrollált és távolságtartó, de érzelmileg mélyen kötődik Emikóhoz; a kapcsolatukban láthatóan van mély bizalom és érzelmi szövetség.
+* **Félelem nélküli, de kötődő:** Külsőleg kontrollált és távolságtartó, de érzelmileg mélyen kötődik [[Emiko Narukami|Emikóhoz]]; a kapcsolatukban láthatóan van mély bizalom és érzelmi szövetség.
 
 * **Fájdalom és trauma:** A múlt traumái – majdnem halál, implantátumok, szövetségesek elvesztése – formálták hideg, céltudatos személyiségét, ugyanakkor nem engedi, hogy a félelem vagy gyász teljesen uralja.
 
@@ -43,7 +47,7 @@ Jüra egy posztapokaliptikus-cyberpunk világ lakója, ahol a brutalista betonmo
 
 **Összegzés:** 
 
-Jüra egy hideg, precíz, emberfeletti képességekkel rendelkező harcos, aki a múlt traumáiból építkezve válik rendkívül hatékony túlélővé. Érzelmi mélysége és kötődése Emikóhoz adja emberi oldalát, de a külvilággal szemben pragmatikus és céltudatos marad. Szenvedély és érzelem ritkán látszik rajta, viszont cselekedetei és döntései mély hűséget és elkötelezettséget tükröznek.
+Jüra egy hideg, precíz, emberfeletti képességekkel rendelkező harcos, aki a múlt traumáiból építkezve válik rendkívül hatékony túlélővé. Érzelmi mélysége és kötődése [[Emiko Narukami|Emikóhoz]] adja emberi oldalát, de a külvilággal szemben pragmatikus és céltudatos marad. Szenvedély és érzelem ritkán látszik rajta, viszont cselekedetei és döntései mély hűséget és elkötelezettséget tükröznek.
 
 ### **Kinézet**
 
