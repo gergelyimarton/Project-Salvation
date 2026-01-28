@@ -8,45 +8,17 @@
         "type": "tabs",
         "children": [
           {
-            "id": "881a8119f661ad47",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "06_Books/Book One/Chapters/18. Fejezet – (2351. május).md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "18. Fejezet – (2351. május)"
-            }
-          },
-          {
             "id": "2b750f9e345daebd",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "04_Timeline/2350-2351.md",
+                "file": "01_Characters/Side Characters/Anya.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2350-2351"
-            }
-          },
-          {
-            "id": "134940bd632769e5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "00_RAW/Character Ideas/Noura van Calder.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Noura van Calder"
+              "title": "Anya"
             }
           }
         ],
@@ -123,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "06_Books/Book One/Chapters/18. Fejezet – (2351. május).md",
+                "file": "Emiko hálója.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +105,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 18. Fejezet – (2351. május)"
+              "title": "Backlinks for Emiko hálója"
             }
           },
           {
@@ -142,12 +114,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "06_Books/Book One/Chapters/18. Fejezet – (2351. május).md",
+                "file": "Emiko hálója.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 18. Fejezet – (2351. május)"
+              "title": "Outgoing links from Emiko hálója"
             }
           },
           {
@@ -185,17 +157,37 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "06_Books/Book One/Chapters/18. Fejezet – (2351. május).md",
+                "file": "Emiko hálója.canvas",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 18. Fejezet – (2351. május)"
+              "title": "Outline of Emiko hálója"
+            }
+          },
+          {
+            "id": "0191db64d86f1f0d",
+            "type": "leaf",
+            "state": {
+              "type": "BC-matrix",
+              "state": {},
+              "icon": "BC-trail-icon",
+              "title": "Breadcrumbs Matrix"
+            }
+          },
+          {
+            "id": "c8fd8ab2beaf6361",
+            "type": "leaf",
+            "state": {
+              "type": "BC-tree",
+              "state": {},
+              "icon": "feather-corner-right-down",
+              "title": "Breadcrumbs Down"
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
@@ -210,57 +202,60 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "bases:Create new base": false
+      "bases:Create new base": false,
+      "templater-obsidian:Templater": false,
+      "breadcrumbs:Breadcrumbs Visualisation": false
     }
   },
-  "active": "881a8119f661ad47",
+  "active": "2b750f9e345daebd",
   "lastOpenFiles": [
-    "00_RAW/Character Ideas/Noura van Calder.md",
-    "04_Timeline/2350-2351.md",
-    "00_RAW/Character Ideas/ .md",
-    "03_Factions & Corps/URBITRAE.md",
-    "02_City/Religions/Singularis.md",
-    "01_Characters/Side Characters/Mirko Stanić.md",
-    "01_Characters/Side Characters/Anya.md",
-    "01_Characters/Side Characters/Afar.md",
+    "Dashboard.md",
     "01_Characters/Main Characters/Null.md",
     "01_Characters/Main Characters/Jüra.md",
-    "00_RAW/Character Ideas/Crimson Cry.md",
-    "00_RAW/Character Ideas/Emiko apja.md",
-    "00_RAW/Character Ideas/Tommy.md",
     "01_Characters/Main Characters/Emiko Narukami.md",
+    "02_City/Social Layers and Government.md",
+    "02_City/A Város.md",
+    "02_City/Locations/A Folyosó.md",
+    "02_City/Locations/Csatornahálózat.md",
+    "01_Characters/NPCs/Ivan.md",
+    "01_Characters/Side Characters/Mirko Stanić.md",
+    "06_Books/Book One/Chapters/14. Fejezet – Bűntudat és kötelesség (2351. április).md",
+    "06_Books/Book One/Chapters/15. Fejezet – Kollektív belátás (2351. április).md",
+    "01_Characters/Side Characters/Afar.md",
+    "01_Characters/Side Characters/Anya.md",
+    "06_Books/Book One/Chapters/17. Fejezet – Újrakalibrált valóság (2351. május).md",
+    "CLAUDE.md",
+    "Frakciók.md",
+    "04_Timeline.md",
+    "01_Characters/Karakterek.md",
+    "03_Factions & Corps/Frakciók és Vállalatok.md",
+    "03_Factions & Corps/Factions/Umbra Collective.md",
+    "03_Factions & Corps/Factions",
+    "03_Factions & Corps/Factions/Black_Inca.md",
+    "03_Factions & Corps/Corps/URBITRAE.md",
+    "03_Factions & Corps/Corps/NEUROX.md",
+    "03_Factions & Corps/Corps/HELIXA.md",
+    "03_Factions & Corps/Corps/LUXORA.md",
+    "03_Factions & Corps/Corps",
+    "05_Lore/Archive",
+    "07_Assets/Visual references/Afar.png",
+    "_Templates",
+    "Emiko hálója.canvas",
+    "Untitled.base",
+    "Untitled.canvas",
+    "Untitled 3.base",
+    "Untitled 2.base",
+    "Untitled 1.base",
     "07_Assets/Visual references/Noura close up.png",
     "07_Assets/Visual references/Samira El-Sayed.png",
     "07_Assets/Visual references/Noura.png",
-    "03_Factions & Corps/SYNDICORE.md",
-    "06_Books/Book One/Chapters/18. Fejezet – (2351. május).md",
-    "06_Books/Book One/Reports/Chapter 17 – Újrakalibrált valóság (Recalibrated Reality) – Analysis Report.md",
-    "06_Books/Book One/Reports/Chapter 16 – Az adatvákuum (The Data Vacuum) – Analysis Report.md",
-    "06_Books/Book One/Reports/Chapter 15 – Kollektív belátás (Collective Insight) – Analysis Report.md",
-    "06_Books/Book One/Reports/Chapter 14 - Bűntudat és kötelesség (Guilt and Duty) - Analysis Report.md",
-    "06_Books/Book One/Reports/Chapter 13 – A csend nem véd meg (Silence Does Not Protect) – Analysis Report.md",
-    "03_Factions & Corps/HELIXA.md",
-    "03_Factions & Corps/YMANATICS.md",
-    "03_Factions & Corps/STRATOS DEFENSE SYSTEMS.md",
-    "03_Factions & Corps/ORIGINS.md",
-    "03_Factions & Corps/NEUROX.md",
-    "03_Factions & Corps/Untitled",
     "07_Assets/Visual references/Jüra.png",
-    "07_Assets/Visual references/Afar.png",
     "07_Assets/Visual references/Anya.png",
     "07_Assets/Visual references/Emiko.png",
     "07_Assets/Visual references/new bunker.png",
     "07_Assets/Visual references/Tommy working.png",
     "07_Assets/Visual references/Crimson Cry network form.jpg",
     "07_Assets/Visual references/new bunker 1.ds",
-    "07_Assets/Visual references/new bunker.ds",
-    "Emiko hálója.canvas",
-    "02_City/Religions",
-    "06_Books/Book One/Chapters",
-    "06_Books/Book One/Reports",
-    "00_RAW/Location Ideas",
-    "02_City/Locations",
-    "00_RAW/Weapon Ideas",
-    "00_RAW/Character Ideas"
+    "07_Assets/Visual references/new bunker.ds"
   ]
 }
